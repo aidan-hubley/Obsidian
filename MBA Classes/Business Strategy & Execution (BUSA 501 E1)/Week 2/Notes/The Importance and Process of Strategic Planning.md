@@ -1,1 +1,2 @@
--- Article [article](https://xuxufruit.com/the-importance-and-process-of-strategic-planning/)
+[article](https://xuxufruit.com/the-importance-and-process-of-strategic-planning/)
+
