@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "2d0ffb47c1a8cd50",
   "lastOpenFiles": [
-    "MBA Classes/Test.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes/The Importance and Process of Strategic Planning.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
+    "README.md",
+    "MBA Classes/Test.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes"
   ]
 }
