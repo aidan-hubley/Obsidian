@@ -11,8 +11,12 @@
             "id": "2d0ffb47c1a8cd50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes/The Importance and Process of Strategic Planning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes/The Importance and Process of Strategic Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes/The Importance and Process of Strategic Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes/The Importance and Process of Strategic Planning.md"
+              }
             }
           }
         ]
@@ -135,9 +143,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a0017b60da798c",
-  "lastOpenFiles": []
+  "active": "2d0ffb47c1a8cd50",
+  "lastOpenFiles": [
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes/The Importance and Process of Strategic Planning.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes"
+  ]
 }
