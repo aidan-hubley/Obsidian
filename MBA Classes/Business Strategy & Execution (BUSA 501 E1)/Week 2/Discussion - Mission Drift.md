@@ -1,0 +1,15 @@
+Write an original post (not to exceed to 375 words) answering:
+
+- Does your current organization (choose the organization where you currently work or have the most involvement in) have a strong sense of core purpose and identity? If so, what are these and how are they reinforced?
+
+---
+
+Messiah University's Mission Statement is as follows, "Our mission is to educate men and women toward maturity of intellect, character, and Christian faith in preparation for lives of service, leadership, and reconciliation in church and society."
+
+As a member of Messiah's student, resident, and employee community, I can confidently attest that as an institution, Messiah University possesses a strong sense of core purpose and identity. This is first seen by the freshmen-level students as the university president speaks on the commitment to providing a holistic education that integrates intellectual growth with Christian faith. When applying to become an employee at Messiah, applicants must submit a statement of faith that defines their commitment to the Christian faith. This hiring task shows how the University is committed to maintaining its faithful mission by ensuring staff and faculty members personally align with the mission in their daily lives. I believe one of the most resilient areas Messiah actively resists drifting from its mission statement is through its required introductory undergraduate level course (previous courses). This course is designed to ensure that each Messiah graduate has been educated on Messiah's history, intentions, and goals. The faith integration in all curriculums cannot be understated; whether it be through simple reminders to integrate scripture into discussion posts, or class prayer before lectures. In this way, Messiah follows scripture-based practices, Colossians 3:16 states "Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts." Undergraduate semester completion is predicated on attending a minimal amount of chapel services held through the season, usually sparking campus-wide conversations, centering individuals and departments alike on their faith and vocation. Full-time employees are highly recommended to opt-in to the "Employee Prayer Intercession" email chain and take weekly time out of their workday to join a meeting dedicated to praying for co-workers. Messiah University reinforces its mission through many facets and remains a bold example of an institution that maintains its core purpose and identity. 
+
+References:
+
+_Bible gateway passage: Colossians 3:16 - new international version_. Bible Gateway. (n.d.). https://www.biblegateway.com/passage/?search=Colossians+3%3A16&version=NIV
+
+University, M. (2018, August 24). _Mission and identity_. Messiah, a private Christian University in PA. https://www.messiah.edu/info/20003/faith_and_values/3844/mission_and_identity#:~:text=Mission%20statement,reconciliation%20in%20church%20and%20society
