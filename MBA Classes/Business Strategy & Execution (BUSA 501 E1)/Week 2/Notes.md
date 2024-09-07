@@ -5,3 +5,7 @@ The managerial process of crafting and executing a company’s strategy is an on
 3. Crafting a strategy for advancing the company along the path to management’s envisioned future and achieving its performance objectives.
 4. Implementing and executing the chosen strategy efficiently and effectively.
 5. Evaluating and analyzing the external environment and the company’s internal situation and performance to identify corrective adjustments that are needed in the company’s long-term direction, objectives, strategy, or approach to strategy execution.
+
+
+References:
+Gamble. (n.d.). Essentials of Strategic Management. Retrieved from https://platform.virdocs.com/read/2310154/26/#/4/2
