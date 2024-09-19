@@ -9,3 +9,6 @@ The managerial process of crafting and executing a company’s strategy is an on
 
 References:
 Gamble. (n.d.). Essentials of Strategic Management. Retrieved from https://platform.virdocs.com/read/2310154/26/#/4/2
+
+
+"Bad strategy is not simply the absence of goof strategy. It grows out of specific misconceptions and leadership dysfunctions. Once you develop the ability to detect bad strategy, you will dramatically improve your effectiveness at judging, influencing, and creating strategy". (Rumelt, 33)
