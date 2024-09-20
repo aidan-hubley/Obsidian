@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2aa3039505f8c6",
+        "id": "10629195ab6580d7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d0ffb47c1a8cd50",
+            "id": "02189c0b55fd53fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBA Classes/Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MBA Classes/Test.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MBA Classes/Test.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MBA Classes/Test.md"
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md"
               }
             }
           }
@@ -148,12 +143,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d0ffb47c1a8cd50",
+  "active": "d7a0017b60da798c",
   "lastOpenFiles": [
+    "MBA Classes/Test.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Welcome to Week 4!.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Overview Week 4 Notes.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Discussion Post - Internal Environment and Strategy.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 3/Video Notes.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 3/Overview Week 3 Notes.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 3/Welcome to Week 3!.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 3",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes/The Importance and Process of Strategic Planning.md",
     "README.md",
-    "MBA Classes/Test.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes"
   ]
 }
