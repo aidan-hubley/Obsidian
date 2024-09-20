@@ -32,3 +32,7 @@ AIMS Education UK (2016, June 11). _Value Chain Management - Meaning, Definitio
 Gamble, J., Peteraf, M. A., & Thompson, A. A. (2024). _Essentials of strategic management: The quest for competitive advantage__._ McGraw Hill LLC. 
 
 Rumelt, R. P. (2011). _Good strategy, bad strategy: The difference and why it matters_. Crown Business.
+
+#### Response to Quinn
+Hey Quinn! I think you made some great points. 
+
