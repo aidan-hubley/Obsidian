@@ -14,7 +14,8 @@ References:
 Rumelt, R.P.  (2011).  _Good Strategy/Bad Strategy_: _The difference and why it matters_.  Crown Publishing Group.
 
 
-
+#### Sustainability as a Value Creation Opportunity
+When asked how sustainability impacts long-term corporate strategy, 85% say it is primarily (53%) or partly (32%) a value creation opportunity. Value creation is also the top reason that companies are pursuing their sustainability strategy, with half rating it a very significant reason.
 
 _Corporate sustainability: Opportunities_. Morgan Stanley. (n.d.). https://www.morganstanley.com/ideas/corporate-sustainability-opportunities-challenges
 
