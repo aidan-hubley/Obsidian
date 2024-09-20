@@ -20,3 +20,4 @@ When asked how sustainability impacts long-term corporate strategy, 85% say it i
 _Corporate sustainability: Opportunities_. Morgan Stanley. (n.d.). https://www.morganstanley.com/ideas/corporate-sustainability-opportunities-challenges
 
 
+### Quinn's Resp
