@@ -19,6 +19,8 @@ When asked how sustainability impacts long-term corporate strategy, 85% say it i
 
 _Corporate sustainability: Opportunities_. Morgan Stanley. (n.d.). https://www.morganstanley.com/ideas/corporate-sustainability-opportunities-challenges
 
+https://www.morganstanley.com/ideas/corporate-sustainability-opportunities-challenges 
+
 
 ### Quinn's Response
 In essence, a company's competitive advantage is largely based on the three categories listed above, Resources, Capabilities, and Value Chain Activities, and how they interact.  Strong resources allow your company to demonstrate better capability and vice versa, and an efficient value chain enhances both. If handled properly, resources like property, machines, or brand reputation can be utilized to give your company an edge. The ability to use these resources and others like processes and management to effectively to reach the goals set by the company ultimately allows the company to perform at its best. (Gamble, 2024). Value Chain as defined by AIMS Education is a "String of collaborating players, who work together to satisfy market demands for specific products or services" (Aims, 2016). With good resources and capabilities, the value chain activities and how well they are optimized lead to a higher quality of product or service and lower consumer prices, both, in turn, creating a competitive advantage.
