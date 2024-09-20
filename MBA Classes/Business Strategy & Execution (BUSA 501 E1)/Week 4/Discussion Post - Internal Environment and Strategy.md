@@ -12,3 +12,10 @@
 
 References:
 Rumelt, R.P.  (2011).  _Good Strategy/Bad Strategy_: _The difference and why it matters_.  Crown Publishing Group.
+
+
+
+
+_Corporate sustainability: Opportunities_. Morgan Stanley. (n.d.). https://www.morganstanley.com/ideas/corporate-sustainability-opportunities-challenges
+
+

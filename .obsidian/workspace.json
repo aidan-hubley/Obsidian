@@ -11,8 +11,12 @@
             "id": "02189c0b55fd53fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Discussion Post - Internal Environment and Strategy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Discussion Post - Internal Environment and Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Discussion Post - Internal Environment and Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 2/Notes.md"
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Discussion Post - Internal Environment and Strategy.md"
               }
             }
           }
@@ -144,7 +148,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a0017b60da798c",
+  "active": "02189c0b55fd53fd",
   "lastOpenFiles": [
     "MBA Classes/Test.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Welcome to Week 4!.md",
