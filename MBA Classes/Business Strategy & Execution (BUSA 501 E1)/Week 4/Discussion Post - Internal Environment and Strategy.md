@@ -20,4 +20,15 @@ When asked how sustainability impacts long-term corporate strategy, 85% say it i
 _Corporate sustainability: Opportunities_. Morgan Stanley. (n.d.). https://www.morganstanley.com/ideas/corporate-sustainability-opportunities-challenges
 
 
-### Quinn's Resp
+### Quinn's Response
+In essence, a company's competitive advantage is largely based on the three categories listed above, Resources, Capabilities, and Value Chain Activities, and how they interact.  Strong resources allow your company to demonstrate better capability and vice versa, and an efficient value chain enhances both. If handled properly, resources like property, machines, or brand reputation can be utilized to give your company an edge. The ability to use these resources and others like processes and management to effectively to reach the goals set by the company ultimately allows the company to perform at its best. (Gamble, 2024). Value Chain as defined by AIMS Education is a "String of collaborating players, who work together to satisfy market demands for specific products or services" (Aims, 2016). With good resources and capabilities, the value chain activities and how well they are optimized lead to a higher quality of product or service and lower consumer prices, both, in turn, creating a competitive advantage.
+
+As a Messiah employee working in the Conference Event services department, we contribute greatly to the overall value chain and revenue generated. Outside of academia, the university generates millions of dollars by renting out facilities for outside clients. We offer the advantage of providing housing, catering, and a large variety of facilities to best serve the groups that we host. It is in these benefits to those looking to to host an event that we create a heightened demand for the campus and its offerings (Rummelt, 2011). The department has currently streamlined this process to the point where there is a waiting list to host an event on campus during the summer months and bookings have already been solidified for the majority of the summer of 2025. Messiah's high-quality campus offerings and personable conference team has given the university a competitive edge over. number of other venues in the area. 
+
+References
+
+AIMS Education UK (2016, June 11). _Value Chain Management - Meaning, Definition, Differences with Supply Chain & Porter’s VC_ . YouTube. https://www.youtube.com/watch?v=g8p2H7EvoGM
+
+Gamble, J., Peteraf, M. A., & Thompson, A. A. (2024). _Essentials of strategic management: The quest for competitive advantage__._ McGraw Hill LLC. 
+
+Rumelt, R. P. (2011). _Good strategy, bad strategy: The difference and why it matters_. Crown Business.
