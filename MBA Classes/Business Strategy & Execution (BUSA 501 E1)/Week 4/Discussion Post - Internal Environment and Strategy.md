@@ -36,5 +36,28 @@ Gamble, J., Peteraf, M. A., & Thompson, A. A. (2024). _Essentials of strategic 
 Rumelt, R. P. (2011). _Good strategy, bad strategy: The difference and why it matters_. Crown Business.
 
 #### Response to Quinn
-Hey Quinn! I think you made some great points. 
+Hey Quinn! I think you made some great points. I can appreciate how you succinct summarized how resources, capabilities, and value chain activities correlate and interact. I'm very grateful for your insight into how Messiah's facility renting operates as a unique advantage. As a fellow Messiah Employee I too can see where some of Messiah's advantages lay, but I was unaware of the remarkable income stream the University had within the facility renting scene. I'm reassured to hear you share about the backlog of clients on the waiting list. In a study conducted by Morgan Stanley, companies were asked how sustainable practices impacted their long-term strategies "85% say it is primarily (53%) or partly (32%) a value creation opportunity. Value creation is also the top reason that companies are pursuing their sustainability strategy, with half rating it a very significant reason." (Corporate) Sustainable practices ideally produce long term clients, in this case for Messiah, a remarkably sustainable waiting line of clients. From my perspective, board members heavily value operations that remain sustainable and provide reliable income; with value creation being a significant aspect of business strategy, I expect future of Messiah's conferences and hosting services to be very bright.
 
+References: 
+
+_Corporate sustainability: Opportunities_. Morgan Stanley. (n.d.). https://www.morganstanley.com/ideas/corporate-sustainability-opportunities-challenges
+
+### Scott's Response
+Resources can be tangible or intangible. Examples of tangible resources include assets like cash, plant, equipment, and patents. Intangible resources are brand, image, company culture, and human capital. These resources affect competitive advantage because they may be unique or different from other competitors. For example, if one company has more cash and cash equivalents than another, it can spend more for plant and equipment to produce more product or invest in new technology to make their products better than the competition. Capabilities are the "capacity of a firm to competently perform some internal activity" (Gamble et al., 2024). By being able to perform an activity better than the competition gives the company competitive advantage. A company's value chain activities provide competitive advantage by leveraging support activities and costs like Human Resources, R&D and General Admin against primary activities and costs like Operations, Distribution, and Service that lead to a Profit Margin. The value chain affects competitive advantage by creating value in the product or service. The more valuable the product or service, the more it will be sought after, giving the company a competitive advantage in the market.
+
+I work for a food distributor. An "interesting advantage" of the company is that we work with our customers to help them design menus for their restaurants. We offer suggestions and tips at no charge. We also have a yearly Food Show where our customers get to meet our suppliers and sample new products and get deals on those products. The customers get to meet our leadership team at this event too. While we are a small company in the business, we value our relationships with our customers and by doing these yearly food shows our customers keep coming back and also refer new customers to us all the time.  
+
+**References:**
+
+Gamble, J. E., Peteraf, M. A., & Thompson, A. A. (2024). _Essentials of Strategic Management_ (Eighth Edition, pp. 62–84). McGraw-Hill Higher Education.
+
+Rumelt, R. P. (2011). _Good strategy, bad strategy : the difference and why it matters_ (pp. 160–177). Crown Business.
+
+#### Response to Scott
+Hey Scott, thank you for your post breaking down how resources, capabilities, and the value chain into good examples. I appreciate how you incorporated the concepts of support activities and primary activities, I was struggling to connect the 2 realms of concepts but this assisted me with that. 
+
+I'm interested in the sustainability and scalability of your company's interesting advantage. I love this service that is offered for free to clients, and I imagine most if not all of them take advantage of it. How long does this service last? If the customized menu is poorly received, can it be redesigned for free? Respecting and pouring into the relationship between you and your customers is vital to sustain any business. I would like to hear how you would fit the annual Food Show in your company's value chain? Looking at Gamble's description of capabilities, as an organization's ability to perform activities through effective use of resources (Gamble, n.d.); how would describe the capabilities of these interesting advantages to be effective in their use of resources?  
+
+References:
+
+Gamble. (n.d.). Essentials of Strategic Management. Retrieved from https://platform.virdocs.com/read/2310154/147/#/4/2
