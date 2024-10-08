@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -140,8 +139,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33d5bcb09165e322",
+  "active": "d7a0017b60da798c",
   "lastOpenFiles": [
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Welcome to Week 6!.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Overview Week 6 Notes.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6",
