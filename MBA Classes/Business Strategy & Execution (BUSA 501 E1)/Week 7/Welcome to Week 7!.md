@@ -2,11 +2,10 @@
 - [[Essentials of Strategic Management (Gamble, Peteraf, Thompson)]]
 	- 
 ## Assignments:
-- [[Discussion Execution of Strategy]]
 - Consulting Presentation (Prep)
 	- Video for what slideshow is expected: https://messiah.instructure.com/courses/2025718/discussion_topics/11230777 
 
-## [[Overview Week 6 Notes]]
+## [[Overview Week 7 Notes]]
 
 ## Provided Notes and Jokes
 
