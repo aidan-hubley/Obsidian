@@ -7,7 +7,9 @@
 	1. Discuss the power of business integrity.
 	2. Discuss God’s perspective on business strategy.
 - Paper:
-	- 
+	- Require some deep thinking about your goals in life, and some creativity
+	- This paper is not related to business strategy, but if you take the time to think through and respond well to the questions
+	- In the long term it could be the most valuable assignment of the course
 
 ## [[Overview Week 7 Notes]]
 
