@@ -6,7 +6,8 @@
 - Discussion:
 	1. Discuss the power of business integrity.
 	2. Discuss God’s perspective on business strategy.
-- 
+- Paper:
+	- 
 
 ## [[Overview Week 7 Notes]]
 
