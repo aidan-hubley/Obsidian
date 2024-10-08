@@ -1,7 +1,7 @@
 ## Readings for next week
 - [[Essentials of Strategic Management (Gamble, Peteraf, Thompson)]]
 	- Ch 9
-- 
+
 ## Assignments:
 - Consulting Presentation (Prep)
 	- Video for what slideshow is expected: https://messiah.instructure.com/courses/2025718/discussion_topics/11230777 
