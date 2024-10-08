@@ -1,3 +1,24 @@
+## What is a Value Chain?
+- String of collaborating players, who work together to satisfy market demands for specific products or services
+
+## What is a Value Stream?
+- Sequence of activities required to design, produce, and deliver to the market
+
+## What is Porter's Value Chain?
+- 2 types of activities
+	- Primary activities
+		- Inbound logistics
+		- Operations
+		- Outbound logistics
+		- Marketing & Sales
+		- Service
+	- Support activities
+		- Procurement or Purchasing
+		- Human Resource Management
+		- Technology Development
+		- Infrastructure 
+
+
 ## Internal Environment
 1. How well is the company's strategy working?
 2. What are the company's competitively important resources and capabilities / competencies?
