@@ -3,7 +3,8 @@
 	- Ch 9
 
 ## Assignments:
-- 
+- Dicussion:
+	- 
 
 ## [[Overview Week 7 Notes]]
 
