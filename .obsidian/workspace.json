@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview Week 7 Notes.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Overview Week 7 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview Week 7 Notes.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Welcome to Week 7!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview Week 7 Notes.md",
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Welcome to Week 7!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview Week 7 Notes.md"
+                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Welcome to Week 7!.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fea1f0792d226408",
+  "active": "33d5bcb09165e322",
   "lastOpenFiles": [
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Overview Week 7 Notes.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Welcome to Week 7!.md",
-    "Overview Week 7 Notes.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Welcome to Week 6!.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Overview Week 6 Notes.md",
