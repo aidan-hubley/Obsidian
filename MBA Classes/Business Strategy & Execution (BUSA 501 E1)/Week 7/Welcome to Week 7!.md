@@ -4,7 +4,7 @@
 
 ## Assignments:
 - Consulting Presentation (Prep)
-	- Video for what slideshow is expected: https://messiah.instructure.com/courses/2025718/discussion_topics/11230777 
+	- Video for what slideshow is expected: https://messiah.instructure.
 
 ## [[Overview Week 7 Notes]]
 
