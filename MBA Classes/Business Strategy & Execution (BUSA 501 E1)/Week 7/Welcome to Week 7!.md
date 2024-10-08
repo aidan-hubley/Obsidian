@@ -3,8 +3,7 @@
 	- Ch 9
 
 ## Assignments:
-- Consulting Presentation (Prep)
-	- Video for what slideshow is expected: https://messiah.instructure.
+- 
 
 ## [[Overview Week 7 Notes]]
 
