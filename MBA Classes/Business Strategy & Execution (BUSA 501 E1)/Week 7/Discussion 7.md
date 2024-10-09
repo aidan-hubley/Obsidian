@@ -5,4 +5,4 @@ In an original post (not to exceed 375 words), 
 
 Response:
 
-I believe God's perspective on business strategy is aligned with the principles of service, integrity and stewardship. Biblically speaking, we understand that using God given talents and resources responsibly to benefit others glorifies God. 
+I believe God's perspective on business strategy is aligned with the principles of service, integrity and stewardship. Biblically speaking, we understand that using God given talents and resources responsibly to benefit others glorifies God. Applying this understanding means to operate your business with integrity,  
