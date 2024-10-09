@@ -2,7 +2,7 @@
 - [[Essentials of Strategic Management (Gamble, Peteraf, Thompson)]]
 	- Ch 9
 ## Assignments:
-- Discussion:
+- [[Discussion 7]]:
 	1. Discuss the power of business integrity.
 	2. Discuss God’s perspective on business strategy.
 - Paper:
