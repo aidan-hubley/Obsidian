@@ -4,3 +4,5 @@ In an original post (not to exceed 375 words), 
 2. Discuss God’s perspective on business strategy.
 
 Response:
+
+I believe God's perspec
