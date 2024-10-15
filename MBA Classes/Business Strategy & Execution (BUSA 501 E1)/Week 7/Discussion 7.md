@@ -16,4 +16,11 @@ Gamble, J., Peteraf, M., & Thompson, A. (2024). _Essentials of strategic managem
 Van Duzer, J. (2012). _Why Business Matters to God_. YouTube. https://www.youtube.com/watch?v=h3m0q2d8Dq4
 
 
-## 
+## Response to Coby's Post & Quinn's Comment
+While Coby and Quinn's discussion provides valuable insights into the importance of business integrity, I'd like to challenge some of their assumptions and delve deeper into the complexities of this issue.
+
+Firstly, while it's true that unethical practices can lead to financial penalties and damage public perception, it's worth noting that in some cases, companies may be able to recover from such setbacks. For example, if a company can successfully address the issue and implement meaningful reforms, it may be able to regain consumer trust and even strengthen its market position.
+
+Secondly, the idea that Christian-founded businesses are inherently more ethical is a complex one. While faith-based values can certainly provide a strong foundation for ethical behavior, it's important to recognize that individuals and organizations can interpret and apply those values in different ways. Additionally, external pressures and market forces can sometimes lead even well-intentioned businesses to engage in questionable practices.
+
+Finally, I'd like to explore the concept of "ethical relativism" in the context of business. While there are certain universal ethical principles that apply to all businesses, cultural and societal factors can also influence what is considered acceptable or unacceptable behavior. This raises the question of how businesses can navigate these complexities and develop ethical practices that are both sustainable and culturally sensitive.
