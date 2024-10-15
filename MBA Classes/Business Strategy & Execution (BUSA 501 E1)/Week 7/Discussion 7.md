@@ -1,4 +1,4 @@
-n In an original post (not to exceed 375 words), 
+In an original post (not to exceed 375 words), 
 
 1. Discuss the power of business integrity.
 2. Discuss God’s perspective on business strategy.
@@ -14,3 +14,6 @@ References:
 Gamble, J., Peteraf, M., & Thompson, A. (2024). _Essentials of strategic management: the quest for competitive advantage (8th edition)._ McGraw-Hill LLC.
 
 Van Duzer, J. (2012). _Why Business Matters to God_. YouTube. https://www.youtube.com/watch?v=h3m0q2d8Dq4
+
+
+## 

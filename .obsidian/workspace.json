@@ -142,13 +142,21 @@
                 "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Discussion 7.md"
               }
             }
+          },
+          {
+            "id": "24599ed4c7e6920c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
