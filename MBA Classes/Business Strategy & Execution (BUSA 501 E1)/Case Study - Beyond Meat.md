@@ -9,4 +9,11 @@
 	7. Make sure you end with clear recommendations for a strategy to address the company’s top issues.
 
 
-Expectations 
+Expectations stated again:
+- **The presentation has a clear theme/purpose, is focused, and well organized.**
+- **Slide notes have sufficient detail to allow a non-expert to make this presentation and be able to answer relevant questions from listeners.**
+- **Ideas are visualized when possible through diagrams, charts, graphs, or photos. Slide graphics are sharp and professional.**
+- **The presentation demonstrates an in-depth level understanding of the course literature. Major concepts we have discussed just as 5 Forces, generic strategies, value chain, internal and external competitive issues, etc. should be addressed.**
+- **Strong, clearly stated recommendations are given. What specific actions must the company take to succeed?**
+- **The presentation shows depth and strong evidence of the integration of faith.**
+If you satisfy these requirements, you will do well on the assignment.

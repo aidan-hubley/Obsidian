@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc949d024318f7b5",
+        "id": "9483ba96d7c1f2da",
         "type": "tabs",
         "children": [
           {
-            "id": "33d5bcb09165e322",
+            "id": "2be79d02f668551a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,15 +148,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33d5bcb09165e322",
+  "active": "2be79d02f668551a",
   "lastOpenFiles": [
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 8/Welcome to Week 8!.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Welcome to Week 7!.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 8",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Discussion 7.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Discussion Execution of Strategy.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Overview Week 7 Notes.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Welcome to Week 6!.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Overview Week 6 Notes.md",
