@@ -7,3 +7,6 @@
 	5. **Do not forget to include faith-integration**; the rubric values that at 25% of the total grade.
 	6. Outside references/resources are important.
 	7. Make sure you end with clear recommendations for a strategy to address the company’s top issues.
+
+
+Expectations 
