@@ -16,6 +16,7 @@ Van Duzer, J. (2012). _Why Business Matters to God_. YouTube. https://www.youtub
 
 
 ## Response to Coby's Post & Quinn's Comment
+
 While Coby and Quinn's discussion provides valuable insights into the importance of business integrity, I'd like to challenge some of their assumptions and delve deeper into the complexities of this issue.
 
 Firstly, while it's true that unethical practices can lead to financial penalties and damage public perception, it's worth noting that in some cases, companies may be able to recover from such setbacks. For example, if a company can successfully address the issue and implement meaningful reforms, it may be able to regain consumer trust and even strengthen its market position.
