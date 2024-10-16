@@ -8,7 +8,6 @@
 	6. Outside references/resources are important.
 	7. Make sure you end with clear recommendations for a strategy to address the company’s top issues.
 
-
 Expectations stated again:
 - **The presentation has a clear theme/purpose, is focused, and well organized.**
 - **Slide notes have sufficient detail to allow a non-expert to make this presentation and be able to answer relevant questions from listeners.**
