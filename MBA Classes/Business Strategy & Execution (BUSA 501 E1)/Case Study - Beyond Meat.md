@@ -1,3 +1,4 @@
+## Assignment Details: 
 1. Due at the end of module 8.
 2. _This assignment is worth 300 points, or 30% of your total grade,_ so you want to make sure it is very professionally done. In particular, make sure that:
 	1. The presentation flows logically and presents a clear argument and recommended actions.
@@ -16,3 +17,5 @@ Expectations stated again:
 - **Strong, clearly stated recommendations are given. What specific actions must the company take to succeed?**
 - **The presentation shows depth and strong evidence of the integration of faith.**
 If you satisfy these requirements, you will do well on the assignment.
+
+## Case Study Notes

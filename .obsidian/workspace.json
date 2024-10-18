@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Case Study - Beyond Meat"
             }
-          },
-          {
-            "id": "d0b52b1351f40cec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -188,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0b52b1351f40cec",
+  "active": "2be79d02f668551a",
   "lastOpenFiles": [
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 8/Welcome to Week 8!.md",
