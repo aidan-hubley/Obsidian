@@ -16,5 +16,5 @@ In the section right below the video, there is a bookmark and then maybe an opti
 
 
 ### Intro to PowerQuery
-[[Po]]
+[[PowerQuery Shortcuts]]
 
