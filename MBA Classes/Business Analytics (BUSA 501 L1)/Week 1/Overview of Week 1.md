@@ -19,5 +19,6 @@ In the section right below the video, there is a bookmark and then maybe an opti
 
 - PowerQuery:
 	- Unique popup, with compounding steps / functions
-- Pivot
+- Pivot Tables:
+	- Dynamic in cell table, drag and drop
 
