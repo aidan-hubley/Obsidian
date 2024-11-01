@@ -1,2 +1,3 @@
 Select whole table:
-- Select 
+- Select all headers, then ctrl + shift + L to select all rows
+
