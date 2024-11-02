@@ -14,6 +14,8 @@ Highline Excel 2016 Class 01: Excel Fundamentals: Effective and Efficient Data (
 In the section right below the video, there is a bookmark and then maybe an option to "show more".  You will find the topic numbers there.  
 [Highline Excel 2016 Class 01: Excel Fundamentals: Efficiency, Data, Data Sets](https://www.youtube.com/watch?v=miUTG38k2mA&t=180s)
 
+-> Notes: [[Data Analysis and Business Intelligence te]]
+
 ### Intro to PowerQuery / Pivot Tables
 [[PowerQuery Shortcuts]]
 
