@@ -1,2 +1,3 @@
-Data Analysis = Convert raw data into useful information for decision makers
-Business Intelligence = Convert raw data into useful / actionable informaiton (often times in the form of a dashboard)
+- Data Analysis = Convert raw data into useful information for decision makers
+- Business Intelligence = Convert raw data into useful / actionable information (often times in the form of a dashboard) for decision makers in a business situation
+- Raw Data = Data in its smallest form that allows Excel Data Analysis features and excel data analysis techniques to work
