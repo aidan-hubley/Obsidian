@@ -2,4 +2,5 @@
 - **Business Intelligence** = Convert raw data into useful / actionable information (often times in the form of a dashboard) for decision makers in a business situation
 - **Raw Data** = Data in its smallest form that allows Excel Data Analysis features and excel data analysis techniques to work
 - **Proper Data Set** = Proper table format = field names in first row and records in rows
-- 
+- **Clean Raw Data** = Fix unusable raw data so that it can be used to perform data analysis
+- **Transform Data Sets** = Fix unusable data set s
