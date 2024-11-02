@@ -8,7 +8,9 @@
 		- Add needed characters
 		- Split / Join data to get desired data
 - **Transform Data Sets** = Fix unusable data set so that it can be used to perform data analysis
-	- 
+	- Examples: 
+		- Filter, combine, merge, append or unpivot data sets
+		- Add, remove, or filter columns in data sets
 - **Import Data** = import data form external sources (single or multiple sources) into Excel or Power Pivot's Data Model or Power BI Desktop
 	- Optimally, the import will allow refreshes so that when source changes the repo output resulting from the import action will update 
 - **Goal of Data Analysis and Business Intelligence** = Create useful, updateable, actionable information for decision makers
