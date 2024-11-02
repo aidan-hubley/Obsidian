@@ -3,7 +3,12 @@
 - **Raw Data** = Data in its smallest form that allows Excel Data Analysis features and excel data analysis techniques to work
 - **Proper Data Set** = Proper table format = field names in first row and records in rows
 - **Clean Raw Data** = Fix unusable raw data so that it can be used to perform data analysis
+	- Examples:
+		- Remove unwanted characters
+		- Add needed characters
+		- Split / Join data to get desired data
 - **Transform Data Sets** = Fix unusable data set so that it can be used to perform data analysis
+	- 
 - **Import Data** = import data form external sources (single or multiple sources) into Excel or Power Pivot's Data Model or Power BI Desktop
 	- Optimally, the import will allow refreshes so that when source changes the repo output resulting from the import action will update 
-- **Goal of Data Analysis and Business Intelligence** = Cre
+- **Goal of Data Analysis and Business Intelligence** = Create useful, updateable, actionable information for decision makers
