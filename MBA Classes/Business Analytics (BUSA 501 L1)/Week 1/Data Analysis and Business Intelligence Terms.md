@@ -5,4 +5,4 @@
 - **Clean Raw Data** = Fix unusable raw data so that it can be used to perform data analysis
 - **Transform Data Sets** = Fix unusable data set so that it can be used to perform data analysis
 - **Import Data** = import data form external sources (single or multiple sources) into Excel or Power Pivot's Data Model or Power BI Desktop
-	- Optimally, the important 
+	- Optimally, the import will allow refreshes so that when source 
