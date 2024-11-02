@@ -3,4 +3,6 @@
 - **Raw Data** = Data in its smallest form that allows Excel Data Analysis features and excel data analysis techniques to work
 - **Proper Data Set** = Proper table format = field names in first row and records in rows
 - **Clean Raw Data** = Fix unusable raw data so that it can be used to perform data analysis
-- **Transform Data Sets** = Fix unusable data set s
+- **Transform Data Sets** = Fix unusable data set so that it can be used to perform data analysis
+- **Import Data** = import data form external sources (single or multiple sources) into Excel or Power Pivot's Data Model or Power BI Desktop
+	- Optimally, the important 
