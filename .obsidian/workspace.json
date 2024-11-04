@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "554921749d347c55",
+        "id": "8491bf93822e8360",
         "type": "tabs",
         "children": [
           {
-            "id": "0183df323a152b5c",
+            "id": "44333d6835cdcbe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Overview of Week 1.md",
+                "file": "MBA Classes/Business Analytics (BUSA 501 L1)/Week 2/Overview of Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview of Week 1"
+              "title": "Overview of Week 2"
             }
           }
         ]
@@ -174,11 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0183df323a152b5c",
+  "active": "44333d6835cdcbe0",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Data Analysis and Business Intelligence Terms.md",
     "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Overview of Week 1.md",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 2/Overview of Week 2.md",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 2",
     "MBA Classes/Business Analytics (BUSA 501 L1)/PowerQuery Shortcuts.md",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Data Analysis and Business Intelligence Terms.md",
     "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Initial Zoom Notes.md",
     "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Discussion 1.md",
     "MBA Classes/Business Analytics (BUSA 501 L1)/Books/Required Books.md",
@@ -209,8 +211,6 @@
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Case Study - Robin Hood.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Concepts/5 Forces.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Concepts",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4/Discussion Post - Internal Environment and Strategy.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 3"
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4"
   ]
 }
