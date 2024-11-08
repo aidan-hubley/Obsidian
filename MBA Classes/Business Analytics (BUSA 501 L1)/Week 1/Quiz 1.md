@@ -19,4 +19,4 @@
 10. 
 	1. 
 11. In the How not to be ignorant about the world | Hans and Ola Rosling video, what has happened to the level of extreme poverty over the past 20 years?
-	1. 
+	1. Almost halved
