@@ -7,3 +7,6 @@ My organization, Messiah University, utilizes internal analytics for current stu
 References:
 
 Davenport, T. H., Morison, R., & Harris, J. G. (2010). _Analytics at work: Smarter Decisions, Better results_. Harvard Business Review.
+
+
+### Samantha's Post:
