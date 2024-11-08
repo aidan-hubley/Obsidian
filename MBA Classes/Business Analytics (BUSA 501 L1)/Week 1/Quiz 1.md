@@ -9,3 +9,13 @@
 5. In Naked Statistics (2013) Chapter 1, what is NOT a reason that statistical analysis rarely unveils "the truth"?
 	1. We are building a case based on imperfect data
 6. 
+	1. 
+7. 
+	1. 
+8. In Naked Statistics (2013) Chapter 1, what is one of the points of learning statistics?
+	1. To catch cheaters and prosecute criminals
+9. .
+	1. .
+10. .
+	1. .
+11. 
