@@ -15,6 +15,7 @@ In the section right below the video, there is a bookmark and then maybe an opti
 [Highline Excel 2016 Class 01: Excel Fundamentals: Efficiency, Data, Data Sets](https://www.youtube.com/watch?v=miUTG38k2mA&t=180s)
 -> Notes: [[Data Analysis and Business Intelligence Terms]]
 
+### [[Quiz 1]]
 ### Intro to PowerQuery / Pivot Tables
 [[PowerQuery Shortcuts]]
 
