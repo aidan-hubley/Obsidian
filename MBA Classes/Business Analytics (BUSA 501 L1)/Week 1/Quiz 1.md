@@ -16,7 +16,7 @@
 	1. To catch cheaters and prosecute criminals
 9. 
 	1. 
-10. 
-	1. 
+10. In the Highline Excel video, what constitutes a proper data set in Excel?
+	1. Field names in first row and records in rows
 11. In the How not to be ignorant about the world | Hans and Ola Rosling video, what has happened to the level of extreme poverty over the past 20 years?
 	1. Almost halved
