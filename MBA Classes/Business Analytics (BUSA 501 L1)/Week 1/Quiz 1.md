@@ -11,7 +11,7 @@
 6. In Analytics at Work (2010) Chapter 1, what is NOT a correct reference to the acronym DELTA?
 	1. T is for Training
 7. In Analytics at Work (2010) Chapter 1, what is NOT one of the listed benefits of being analytical?
-	1. 
+	1. Further your career
 8. In Naked Statistics (2013) Chapter 1, what is one of the points of learning statistics?
 	1. To catch cheaters and prosecute criminals
 9. In Analytics at Work (2010) Chapter 1, what are the two dimensions to use to address common analytical questions?
