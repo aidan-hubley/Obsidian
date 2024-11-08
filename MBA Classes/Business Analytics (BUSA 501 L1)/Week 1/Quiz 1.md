@@ -14,8 +14,9 @@
 	1. 
 8. In Naked Statistics (2013) Chapter 1, what is one of the points of learning statistics?
 	1. To catch cheaters and prosecute criminals
-9. .
-	1. .
-10. .
-	1. .
+9. 
+	1. 
+10. 
+	1. 
 11. 
+	1. 
