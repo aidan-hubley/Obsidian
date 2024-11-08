@@ -4,3 +4,6 @@
 	1. Framing the problem
 3. According to Davenport (2013) in the HBR Guide to Data Analytics Basics for Managers (2018) article "Keep Up with Your Quants", what is a good way to tell the story with data?
 	1. Focus on how the analysis will increase revenues
+4. In Naked Statistics (2013) Chapter 1, what does the author compare the Gini index to?
+	1. Quarterback rating
+5. 
