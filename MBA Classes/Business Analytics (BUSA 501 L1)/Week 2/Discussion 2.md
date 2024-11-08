@@ -15,4 +15,4 @@ As a current restaurant employee, I rarely have access to organizational data in
 Harvard Business Review. (2018). _HBR guide to data analytics basics for managers_. Harvard Business Publishing.
 
 Hello Samantha, 
-Thank you for your post! I appreciate you being curious and reaching out to your managers to ask from more information. Hearing how their analysis differs from the 
+Thank you for your post! I appreciate you being curious and reaching out to your managers to ask from more information. Hearing how their analysis differs from the your co-workers. 
