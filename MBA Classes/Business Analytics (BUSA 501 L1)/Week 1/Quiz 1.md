@@ -8,7 +8,7 @@
 	1. Quarterback rating
 5. In Naked Statistics (2013) Chapter 1, what is NOT a reason that statistical analysis rarely unveils "the truth"?
 	1. We are building a case based on imperfect data
-6. 
+6. In Analytics at Work (2010) Chapter 1, what is NOT a correct reference to the acronym DELTA?
 	1. 
 7. 
 	1. 
