@@ -7,4 +7,5 @@
 4. In Naked Statistics (2013) Chapter 1, what does the author compare the Gini index to?
 	1. Quarterback rating
 5. In Naked Statistics (2013) Chapter 1, what is NOT a reason that statistical analysis rarely unveils "the truth"?
-	1. 
+	1. We are building a case based on imperfect data
+6. 
