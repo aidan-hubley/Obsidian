@@ -15,7 +15,7 @@
 8. In Naked Statistics (2013) Chapter 1, what is one of the points of learning statistics?
 	1. To catch cheaters and prosecute criminals
 9. In Analytics at Work (2010) Chapter 1, what are the two dimensions to use to address common analytical questions?
-	1. 
+	1. Art and Science
 10. In the Highline Excel video, what constitutes a proper data set in Excel?
 	1. Field names in first row and records in rows
 11. In the How not to be ignorant about the world | Hans and Ola Rosling video, what has happened to the level of extreme poverty over the past 20 years?
