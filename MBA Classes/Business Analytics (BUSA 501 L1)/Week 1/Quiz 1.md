@@ -9,8 +9,8 @@
 5. In Naked Statistics (2013) Chapter 1, what is NOT a reason that statistical analysis rarely unveils "the truth"?
 	1. We are building a case based on imperfect data
 6. In Analytics at Work (2010) Chapter 1, what is NOT a correct reference to the acronym DELTA?
-	1. 
-7. 
+	1. T is for Training
+7. In Analytics at Work (2010) Chapter 1, what is NOT one of the listed benefits of being analytical?
 	1. 
 8. In Naked Statistics (2013) Chapter 1, what is one of the points of learning statistics?
 	1. To catch cheaters and prosecute criminals
