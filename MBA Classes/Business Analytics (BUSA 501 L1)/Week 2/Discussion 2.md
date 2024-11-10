@@ -14,5 +14,27 @@ As a current restaurant employee, I rarely have access to organizational data in
 
 Harvard Business Review. (2018). _HBR guide to data analytics basics for managers_. Harvard Business Publishing.
 
-Hello Samantha, 
-Thank you for your post! I appreciate you being curious and reaching out to your managers to ask from more information. Hearing how their analysis differs from the your co-workers. 
+Hello Samantha,   
+Thank you for your post! I appreciate you being curious and reaching out to your managers to ask for more information. I think it's fascinating to see how data can be interpreted differently, even within the same organization. I liked your observation about the potential disconnect between the data-driven decision and the ground-level working reality. It's important to remember that the choice of metrics can significantly influence behavior. In your case, focusing on table turnover rate unfortunately may have overlooked other factors like efficiency or customer satisfaction. It's notable to consider the potential biases in data collection and analysis. Something I think of in this area is the potential loss of nuances like annoyance or customer complaints when data is collected through automated systems. I'm curious if there is a more balanced approach, combining quantitative data with qualitative comments or feedback from customers. I think by engaging in open dialogue and critical thinking, we can make informed choices and analyses that support everyone.
+
+References:  
+_Who’s afraid of data-driven management?_ Harvard Business Review. (2017, December 7). https://hbr.org/2014/05/whos-afraid-of-data-driven-management
+
+### Lance's Post
+
+Reading through this week’s literature the difference between companies that compete with analytics and companies that simply use them as needed is quite stark, and I think maybe in our authors’ haste and desire to lay out the case for being an analytics forward company they may have glossed too quickly over the reasons many companies fall behind (Davenport, 2010).  I get it though, I wish I could use them much more efficiently and for a better purpose than I do.  The reality is, my only opportunities to input and compile data are when my business is slow- which is not a good thing, and therefore I rarely get a chance to perform any useful data analysis.  
+
+Nonetheless, a few key examples do jump out as I’ve had time over the years to analyze the performance of my crews and the tenders we win.  I mentioned in last week’s post that I had a realization about one of my crews that returned significantly higher profits on a specific type of construction job than on others, and it would have been beneficial to know this much earlier and deploy them much more discerningly, it would have created an opportunity for higher profits, or an opportunity to grow as I hired other crews to do other types of jobs.  One metric we regularly track is our revenue per employee- hourly, weekly, monthly, and annually.  It helps inform hiring decisions and task deployments, and could offer valuable insight for growth as well, as while you would expect revenues to temporarily go down as you hire new employees and train them, a metric could be developed for a reasonable timeline for return to expected revenue per employee proving successful and sustainable growth.  Finally, one thing I have barely scratched the surface of but would love to dig in to more is the correlation between the months in which tenders are awarded and the months in which the job actually commences.  For example, March and February are always slow, while July-October is always overbooked.  Being able to analyze the expected progress from tender to commencement could inform the aggressiveness and margins with which a tender is submitted, and confidently project a more consistent schedule and revenue per employee across the entire calendar year.
+
+Again though, there are a lot of barriers to a small company like mine being able to leverage the data and analysis in these ways, and ironically the very things I would like to know more about- time and money- also present the largest obstacles to doing so.  
+
+  
+  
+Davenport, T. H., Morison, R., & Harris, J. G. (2010). _Analytics at work: Smarter Decisions, Better results_. Harvard Business Review.
+
+Hi Lance,
+
+I appreciate your candid reflection on the challenges of implementing data analytics in a small business. Your insights about the limitations and opportunities are spot on. It's clear that you've already identified some key areas where data analysis could significantly impact your business. Your observations about crew performance and timing are particularly insightful. I respect you looking into these areas, and I think you'll gain valuable insights to optimize your operation. I agree that the barriers to data-driven decision-making can be challenging, especially for a small business like yours. Prioritizing and focusing on the most important areas can help. Thank you for your insightful post! 
+
+Davenport, T. H., Morison, R., & Harris, J. G. (2010). Analytics at work: Smarter Decisions, Better results. Harvard Business Review.
+
