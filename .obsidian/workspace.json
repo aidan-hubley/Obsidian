@@ -11,10 +11,10 @@
             "id": "006eb9afde439a5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -169,8 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a0017b60da798c",
+  "active": "006eb9afde439a5a",
   "lastOpenFiles": [
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Welcome to Week 1!.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Overview Week 1 Notes.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Books/Essentials of Strategic Management (Gamble, Peteraf, Thompson).md",
     "MBA Classes/Test.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
     "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Overview of Week 1.md",
@@ -201,9 +204,6 @@
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Overview Week 6 Notes.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/Welcome to Week 5!.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/Strategic Timing Vertical Horizontal Integration.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/Michael Porter Lecture on Strategy.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Concepts",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4"
