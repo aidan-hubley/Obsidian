@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18202b2bc06a6114",
+        "id": "6b54d477a9ace159",
         "type": "tabs",
         "children": [
           {
-            "id": "006eb9afde439a5a",
+            "id": "7faa8ebebbc97f3f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a0017b60da798c",
+  "active": "24599ed4c7e6920c",
   "lastOpenFiles": [
     "MBA Classes/Test.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
