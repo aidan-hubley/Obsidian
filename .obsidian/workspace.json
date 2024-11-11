@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b54d477a9ace159",
+        "id": "6dc61d66812004f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7faa8ebebbc97f3f",
+            "id": "5046e9044bcc8b26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MBA Classes/Course Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Course Plan"
             }
           }
         ]
@@ -169,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24599ed4c7e6920c",
+  "active": "5046e9044bcc8b26",
   "lastOpenFiles": [
+    "MBA Classes/Course Plan.md",
+    "conflict-files-obsidian-git.md",
     "MBA Classes/Test.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
     "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Overview of Week 1.md",
@@ -202,8 +208,6 @@
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Overview Week 6 Notes.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/Welcome to Week 5!.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/Strategic Timing Vertical Horizontal Integration.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/Michael Porter Lecture on Strategy.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Concepts",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4"
