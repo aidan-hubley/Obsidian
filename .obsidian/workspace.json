@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18202b2bc06a6114",
+        "id": "f0b9bd07426d03d0",
         "type": "tabs",
         "children": [
           {
-            "id": "006eb9afde439a5a",
+            "id": "a3468be84db07331",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MBA Classes/Course Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course Plan"
             }
           }
         ]
@@ -169,11 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "006eb9afde439a5a",
+  "active": "a3468be84db07331",
   "lastOpenFiles": [
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Welcome to Week 1!.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Overview Week 1 Notes.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Books/Essentials of Strategic Management (Gamble, Peteraf, Thompson).md",
+    "conflict-files-obsidian-git.md",
+    "MBA Classes/Course Plan.md",
     "MBA Classes/Test.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
     "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1/Overview of Week 1.md",
@@ -204,6 +207,7 @@
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6/Overview Week 6 Notes.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/Welcome to Week 5!.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Concepts",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 4"
