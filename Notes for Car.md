@@ -1,9 +1,10 @@
 - Bring proof of pay studs / employment
 - Driver Licenses
 - VIN: 4S4BSANC7J3264968
-- Car Insurance (Eerie 717-763-7631):
-	- Monthly Premium: $135.87 ($1,630 annual)
+- Car Insurance (Eerie 717-763-7631 speak with Amber):
+	- Monthly Premium: $135.87 ($1,630 annual) 
 	- Consumer Insurance Company (Dad goes there to discuss Eerie insurance)
+	- If I go forward with them need route and bank number
 - Load Rate:
 	- PSECU rate
 	- Auto Credit Express rate
