@@ -1,8 +1,10 @@
 - Bring proof of pay studs / employment
 - Driver Licenses 
 - VIN: 4S4BSANC7J3264968
-- Eerie Insurance (with Fam):
+- Car Insurance (Eerie with Fam):
 	- Monthly Premium: ??? (maybe in the range of $100)
 	- Consumer Insurance Company (Dad goes there to discuss Eerie insurance)
 	- Call them (717-763-7631) "My name is ... I am on my parent's house and auto insurance ... I am looking to buy a car."
-- PSECU rate
+- Load Rate:
+	- PSECU rate
+	- Auto Credit Express rate
