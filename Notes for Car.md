@@ -1,3 +1,6 @@
 - Bring proof of pay studs / employment
 - Driver Licenses 
-- 
+- VIN: 4S4BSANC7J3264968
+- Eerie Insurance (with Fam):
+	- Monthly Premium: ??? (maybe in the range of $100)
+- PSECU rate
