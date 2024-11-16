@@ -5,8 +5,8 @@
 3. From HBT Guide to Data Analytics Basics for Managers, Chapter 9, what is NOT a good question that you can ask your analyst?  
 	1. How does the Central Limit Theorem apply?
 4. From HBT Guide to Data Analytics Basics for Managers, Chapter 10. what is TRUE about regression analysis?
-	1. 
-5. 
+	1. The independent variable is the main factor you are trying to predict
+5. From HBT Guide to Data Analytics Basics for Managers, Chapter 11, when do we want to act on correlation in our data?
 	1. 
 6. 
 	1. 
