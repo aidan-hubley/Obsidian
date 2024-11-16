@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b9bd07426d03d0",
+        "id": "18202b2bc06a6114",
         "type": "tabs",
         "children": [
           {
-            "id": "a3468be84db07331",
+            "id": "b1ad49d11e7d773d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 3/Zoom Call.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zoom Call"
+              "title": "New tab"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -161,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,43 +170,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3468be84db07331",
+  "active": "b1ad49d11e7d773d",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Overview of Week 3.md",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 3/Overview of Week 3.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Quiz 2.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Overview of Week 2.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Notes.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Discussion 2.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Zoom Call.md",
-    "Notes for Car.md",
-    "MBA Classes/Course Plan.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz 3.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3",
-    "conflict-files-obsidian-git.md",
-    "MBA Classes/Test.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Overview of Week 3.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1/Overview of Week 1.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Discussion 2.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Quiz 2.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Notes.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1/Quiz 1.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Overview of Week 2.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Data Analysis and Business Intelligence Terms.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2",
-    "MBA Classes/Business Analytics (BUSA 501 L1)/PowerQuery Shortcuts.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1/Initial Zoom Notes.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1/Discussion 1.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Data Analysis and Business Intelligence Terms.md",
     "MBA Classes/Business Analytics (BUSA 505)/Books/Required Books.md",
     "MBA Classes/Business Analytics (BUSA 505)/Books/Naked Statistics.md",
     "MBA Classes/Business Analytics (BUSA 505)/Books/HBR Guide to Data Analytics.md",
     "MBA Classes/Business Analytics (BUSA 505)/Books/Analytics at Work.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 3",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1",
     "MBA Classes/Business Analytics (BUSA 505)/Books",
     "MBA Classes/Business Analytics (BUSA 505)",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 8/Welcome to Week 8!.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Welcome to Week 7!.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 8",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7/Discussion 7.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 7",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 6",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Concepts"
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 2/Overview of Week 2.md",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 3/Quiz 3.md",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 3/Quiz Billy Beane Case.md",
+    "Notes for Car.md",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 3",
+    "Untitled",
+    "MBA Classes/Course Plan.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Welcome to Week 1!.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Overview Week 1 Notes.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Books/Essentials of Strategic Management (Gamble, Peteraf, Thompson).md",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 2",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 1",
+    "MBA Classes/Business Analytics (BUSA 501 L1)/Books"
   ]
 }
