@@ -15,6 +15,6 @@
 8. In Naked Statistics Chapter 3, what really happened with income inequality?
 	1. Global inequality is falling rapidly
 9. From HBT Guide to Data Analytics Basics for Managers, Chapter 12, what is a good definition of machine learning?
-	1. 
-10. 
+	1. It is a set of statistical methods used to find patterns of predictability in data sets
+10. In Analytics at Work Chapter 5, what is an analytical question that relates to insight versus information?
 	1. 
