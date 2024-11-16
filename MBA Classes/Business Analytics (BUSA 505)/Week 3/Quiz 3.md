@@ -9,10 +9,10 @@
 5. From HBT Guide to Data Analytics Basics for Managers, Chapter 11, when do we want to act on correlation in our data?
 	1. High confidence in correlation/benefits outweighs risk
 6. In Naked Statistics Chapter 3, what is an accurate way to distinguish between precision and accuracy?
-	1. 
-7. 
-	1. 
-8. 
+	1. Precision deals reflects exactitude while accuracy measures whether something is broadly consistent with the truth
+7. In Naked Statistics Chapter 3, what was true about American manufacturing during the early 2000s?
+	1. Output grew but employment fell
+8. In Naked Statistics Chapter 3, what really happened with income inequality?
 	1. 
 9. 
 	1. 
