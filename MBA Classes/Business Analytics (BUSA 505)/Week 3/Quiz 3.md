@@ -1,4 +1,4 @@
-1. 
+1. From Chapter 5 of Analytics at Work , what are 2 characteristics of processes that lend themselves well to analytics?
 	1. 
 2. 
 	1. 
