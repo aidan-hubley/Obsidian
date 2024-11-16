@@ -5,7 +5,7 @@
 3. From HBT Guide to Data Analytics Basics for Managers, Chapter 9, what is NOT a good question that you can ask your analyst?  
 	1. How does the Central Limit Theorem apply?
 4. From HBT Guide to Data Analytics Basics for Managers, Chapter 10. what is TRUE about regression analysis?
-	1. The independent variable is the main factor you are trying to predict
+	1. Skewed scales can imply correlation when there isn't any
 5. From HBT Guide to Data Analytics Basics for Managers, Chapter 11, when do we want to act on correlation in our data?
 	1. High confidence in correlation/benefits outweighs risk
 6. In Naked Statistics Chapter 3, what is an accurate way to distinguish between precision and accuracy?
