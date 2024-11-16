@@ -13,8 +13,8 @@
 7. In Naked Statistics Chapter 3, what was true about American manufacturing during the early 2000s?
 	1. Output grew but employment fell
 8. In Naked Statistics Chapter 3, what really happened with income inequality?
-	1. 
-9. 
+	1. Global inequality is falling rapidly
+9. From HBT Guide to Data Analytics Basics for Managers, Chapter 12, what is a good definition of machine learning?
 	1. 
 10. 
 	1. 
