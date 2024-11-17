@@ -3,7 +3,7 @@
 2. What does p < 0.05 mean?
 	3. There is less than 5% chance of this result, this prompts rejecting the null hypothesis and accepting the alternative.
 3. What is confidence level? For example, if I have a 95% confidence level, what does that mean?
-	1. 
+	1. A measure that suggests the probability of something. A 95% confidence level means that you are 95% confident that the result lies within an expected range.
 4. Sometimes p values are attributed to giving a false positive. What does this mean and how might it be avoided?
 	1. A false positive appears true but is false, this can be avoided with stricter p-value and multiple tests. 
 5. What is a null hypothesis and how does it relate to p value?
