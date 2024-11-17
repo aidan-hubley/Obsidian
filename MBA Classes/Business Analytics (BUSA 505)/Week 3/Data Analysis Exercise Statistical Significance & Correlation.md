@@ -34,8 +34,11 @@ By answering these questions you will be able to get credit for this assignment 
 		1. Other performance metrics, employee satisfaction, and workspace culture
 10. You are working as a Manager at Exelon Energy at the Three-Mile Island facility on energy conservation. A sampling of data from 20 households has come in and you notice that households that have moved to energy conserving devices have saved Exelon 29,089 kilowatt hours. This is great news. However, you’d also like to determine if the size of the household is positively correlated to kilowatt hours usage and the strength of the correlation. Perform a correlation test on the data presented in the spreadsheet. 
 	1. The correlation coefficient for family size “without energy conserving device”
-		1. 
+		1. Correlation Coefficient: 0.3236
 	2. The correlation coefficient for family size “with energy conserving device”
-		1. 
-	3. Explain the results and what information can be drawn from this calculation. Also, discuss the limitations of your calculations and its ability to be generalized to the broader energy conservation program.
-		1. 
+		1. Correlation Coefficient: 0.1979
+	3. Explain the results and what information can be drawn from this calculation. 
+		1. Without Energy-Conserving Devices: The correlation coefficient of 0.3236 suggests a moderate positive correlation between family size and energy consumption. Larger families tend to consume more energy, but the relationship is not very strong.
+		2. With Energy-Conserving Devices: The correlation coefficient of 0.1979 indicates a weak positive correlation. The relationship between family size and energy consumption is less pronounced when energy-conserving devices are used.
+	4. Discuss limitations of your calculations and its ability to be generalized to the broader energy conservation program.
+		1. A sample size of 20 is quite small, the energy-conserving devices can be varied in used and could impact the numbers, and other factors like lifestyle and income could effect energy-consumption
