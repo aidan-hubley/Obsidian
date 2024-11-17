@@ -27,9 +27,11 @@ By answering these questions you will be able to get credit for this assignment 
 	4. Based on the data output below, can the null hypothesis be rejected? Explain.
 		1. We can reject the null hypothesis for the "Self-protective" and "Participative" attributes. The p-values for these attributes are less than 0.05, this means the observed differences between the two divisions are statistically significant.
 	5. Based on these data, what might be your next steps in researching/evaluating similarities and/or differences among the divisions pertaining to the attributes they look for in leaders?
-		1. 
-	6. How might you use these data points to discuss with senior leaders in your organization on where to focus leadership development & training efforts? What data are missing to make a compelling case?
-		1. 
+		1. Exploring more specific aspects of the significant attributes: Self-protective and Participative, in addition to surveys or interviews to better inform understanding.
+	6. How might you use these data points to discuss with senior leaders in your organization on where to focus leadership development & training efforts? 
+		1. Prioritize leadership development programs that enhance Self-protective and Participative behaviors, particularly in the underperforming division. Focus on specific needs and preferences of each division.
+	7. What data are missing to make a compelling case?
+		1. Other performance metrics, employee satisfaction, and workspace culture
 10. You are working as a Manager at Exelon Energy at the Three-Mile Island facility on energy conservation. A sampling of data from 20 households has come in and you notice that households that have moved to energy conserving devices have saved Exelon 29,089 kilowatt hours. This is great news. However, you’d also like to determine if the size of the household is positively correlated to kilowatt hours usage and the strength of the correlation. Perform a correlation test on the data presented in the spreadsheet. 
 	1. The correlation coefficient for family size “without energy conserving device”
 		1. 
