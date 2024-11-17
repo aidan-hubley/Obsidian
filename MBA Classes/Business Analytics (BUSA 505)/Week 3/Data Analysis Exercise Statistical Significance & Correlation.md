@@ -18,9 +18,10 @@ By answering these questions you will be able to get credit for this assignment 
 	1. No, p-value is related to the probability of making an error rate, the error rate is the proportion of times errors occur.
 9. Below are the actual results of a study that was done with an organization to determine if there was a difference between how two different divisions viewed leaders. In other words, were there certain attributes one division looked for in their leaders that were significantly different than the other divisions? Understanding this was important to the organization to determine why one division was outperforming the other division. It was hypothesized that a difference exists between the two divisions in terms of the attributes they looked for in their leaders, which ultimately resulted in different performance outcomes.
 	1. What problem is this organization trying to solve?  
-		1. 
-	2. Review the data set and determine which attributes demonstrate statistical significance (p < 0.05) and which do not. [Hint: this output is from a 2-tailed t-test. You’ll learn more about t-tests in the next module, but this should guide you on where to look for the p value in the table.]
-		1. 
+		1. Why one division is outperforming the other. They think that differences in the leadership attributes valued by each division might be a contributing factor.
+	2. Review the data set and determine which attributes demonstrate statistical significance (p < 0.05) and which do not. Hint: this output is from a 2-tailed t-test. You’ll learn more about t-tests in the next module, but this should guide you on where to look for the p value in the table.
+		1. Statistically Significant Attributes (p < 0.05): Self-protective, Participative
+		2. Not Statistically Significant Attributes (p > 0.05): Charismatic, Team-oriented, Humane-oriented, Autonomous
 	3. Based on the hypothesis stated above, what would the null hypothesis be?
 		1. 
 	4. Based on the data output below, can the null hypothesis be rejected? Explain.
