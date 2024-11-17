@@ -16,13 +16,23 @@ By answering these questions you will be able to get credit for this assignment 
 	1. There is enough reason to reject the null hypothesis, there is a big difference between the two groups being compared. 
 8. Is a p value the same as an error rate? Explain your answer.
 	1. No, p-value is related to the probability of making an error rate, the error rate is the proportion of times errors occur.
-9. Below are the actual results of a study that was done with an organization to determine if there was a difference between how two different divisions viewed leaders. In other words, were there certain attributes one division looked for in their leaders that were significantly different than the other divisions? Understanding this was important to the organization to determine why one division was outperforming the other division. It was hypothesized that a difference exists between the two divisions in terms of the attributes they looked for in their leaders, which ultimately resulted in different performance outcomes.;
-
-Considering the below data and the above situation please answer the below questions:
-
-- What problem is this organization trying to solve?  
-- Review the data set and determine which attributes demonstrate statistical significance (p < 0.05) and which do not. [Hint: this output is from a 2-tailed t-test. You’ll learn more about t-tests in the next module, but this should guide you on where to look for the p value in the table.]
-- Based on the hypothesis stated above, what would the null hypothesis be?
-- Based on the data output below, can the null hypothesis be rejected? Explain.
-- Based on these data, what might be your next steps in researching/evaluating similarities and/or differences among the divisions pertaining to the attributes they look for in leaders?
-- How might you use these data points to discuss with senior leaders in your organization on where to focus leadership development & training efforts? What data are missing to make a compelling case?
+9. Below are the actual results of a study that was done with an organization to determine if there was a difference between how two different divisions viewed leaders. In other words, were there certain attributes one division looked for in their leaders that were significantly different than the other divisions? Understanding this was important to the organization to determine why one division was outperforming the other division. It was hypothesized that a difference exists between the two divisions in terms of the attributes they looked for in their leaders, which ultimately resulted in different performance outcomes.
+	1. What problem is this organization trying to solve?  
+		1. 
+	2. Review the data set and determine which attributes demonstrate statistical significance (p < 0.05) and which do not. [Hint: this output is from a 2-tailed t-test. You’ll learn more about t-tests in the next module, but this should guide you on where to look for the p value in the table.]
+		1. 
+	3. Based on the hypothesis stated above, what would the null hypothesis be?
+		1. 
+	4. Based on the data output below, can the null hypothesis be rejected? Explain.
+		1. 
+	5. Based on these data, what might be your next steps in researching/evaluating similarities and/or differences among the divisions pertaining to the attributes they look for in leaders?
+		1. 
+	6. How might you use these data points to discuss with senior leaders in your organization on where to focus leadership development & training efforts? What data are missing to make a compelling case?
+		1. 
+10. You are working as a Manager at Exelon Energy at the Three-Mile Island facility on energy conservation. A sampling of data from 20 households has come in and you notice that households that have moved to energy conserving devices have saved Exelon 29,089 kilowatt hours. This is great news. However, you’d also like to determine if the size of the household is positively correlated to kilowatt hours usage and the strength of the correlation. Perform a correlation test on the data presented in the spreadsheet. 
+	1. The correlation coefficient for family size “without energy conserving device”
+		1. 
+	2. The correlation coefficient for family size “with energy conserving device”
+		1. 
+	3. Explain the results and what information can be drawn from this calculation. Also, discuss the limitations of your calculations and its ability to be generalized to the broader energy conservation program.
+		1. 
