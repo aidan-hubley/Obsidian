@@ -41,4 +41,4 @@ By answering these questions you will be able to get credit for this assignment 
 		1. Without Energy-Conserving Devices: The correlation coefficient of 0.3236 suggests a moderate positive correlation between family size and energy consumption. Larger families tend to consume more energy, but the relationship is not very strong.
 		2. With Energy-Conserving Devices: The correlation coefficient of 0.1979 indicates a weak positive correlation. The relationship between family size and energy consumption is less pronounced when energy-conserving devices are used.
 	4. Discuss limitations of your calculations and its ability to be generalized to the broader energy conservation program.
-		1. A sample size of 20 is quite small, the energy-conserving devices can be varied in used and could impact the numbers, and other factors like lifestyle and income could effect energy-consumption
+		1. A sample size of 20 is quite small, the energy-conserving devices can be varied in used and could impact the numbers, and other variable factors like lifestyle and income could effect energy-consumption. 
