@@ -23,9 +23,9 @@ By answering these questions you will be able to get credit for this assignment 
 		1. Statistically Significant Attributes (p < 0.05): Self-protective, Participative
 		2. Not Statistically Significant Attributes (p > 0.05): Charismatic, Team-oriented, Humane-oriented, Autonomous
 	3. Based on the hypothesis stated above, what would the null hypothesis be?
-		1. 
+		1. The null hypothesis is that there is no significant difference between the two divisions in terms of the attributes they look for in their leaders.
 	4. Based on the data output below, can the null hypothesis be rejected? Explain.
-		1. 
+		1. We can reject the null hypothesis for the "Self-protective" and "Participative" attributes. The p-values for these attributes are less than 0.05, this means the observed differences between the two divisions are statistically significant.
 	5. Based on these data, what might be your next steps in researching/evaluating similarities and/or differences among the divisions pertaining to the attributes they look for in leaders?
 		1. 
 	6. How might you use these data points to discuss with senior leaders in your organization on where to focus leadership development & training efforts? What data are missing to make a compelling case?
