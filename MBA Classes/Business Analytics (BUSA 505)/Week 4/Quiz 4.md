@@ -9,7 +9,7 @@
 5. In Naked Statistics Chapter 9, what is true about hypothesis testing?
 	1. The p value for a study should be established before testing is conducted
 6. In HBR Guide to Data Analytics Basics for Managers, what is NOT a mistake people make when working with regression analysis?
-	1. 
+	1. Not realizing that they should performing hypothesis testing instead
 7. In the article Why UPS Trucks (almost) never turn left, what is true about UPS delivery method?
 	1. 
 8. In the This Does not Equal That video regarding correlation and causation, what is true about women who received hormone replacement and heart disease?
