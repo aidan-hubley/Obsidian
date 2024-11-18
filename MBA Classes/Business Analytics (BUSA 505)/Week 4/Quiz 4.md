@@ -3,7 +3,7 @@
 2. In Naked Statistics Chapter 4, what is true about a correlation coefficient of -1?
 	1. The is a very strong inverse relationship between the variables
 3. In Naked Statistics Chapter 4, what true about SAT scores, high school GPAs and first year college grades?
-	1. 
+	1. The best predictor of first year college grades is a combination fo SAT and high school GPAs
 4. In Naked Statistics Chapter 9, what is true about hypothesis testing?
 	1. 
 5. In Naked Statistics Chapter 9, what is true about hypothesis testing?
