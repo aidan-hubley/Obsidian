@@ -1,13 +1,16 @@
 ### Required Readings:
-- [[HBR Guide to Data Analytics]] (page )
-- [[Naked Statistics]] (page )
-- [[Analytics at Work]] (page )
+- [[HBR Guide to Data Analytics]] (Ch 10, 11, 12)
+- [[Naked Statistics]] (Ch 3 
+- [[Analytics at Work]] (Ch 5)
 
 ### Required Videos:
-Highline Excel 2016 Class 01: Excel Fundamentals: Effective and Efficient Data (Topics 10,11,12)
-[Highline Excel 2016 Class 01: Excel Fundamentals: Efficiency, Data, Data Sets, Formatting](https://www.youtube.com/watch?v=miUTG38k2mA&t=180s)
+- Netflix: Moneyball
+- [**How Ice Cream Kills! Correlation v. Causation**](https://youtu.be/VMUQSMFGBDo)
 
 ## Assignments:
-- [Quiz- Readings and Videos from Module 2](https://messiah.instructure.com/courses/2025725/quizzes/4512494)[[Quiz 2]]
-- [Discussion Module 2: How Your Organization Uses Analytics and Where It Can Improve](https://messiah.instructure.com/courses/2025725/discussion_topics/11440524)[[Discussion 2]]
-- [Data Analysis Exercise: Normal Distribution, Standardization & z-scores](https://messiah.instructure.com/courses/2025725/assignments/19199288)[[notes/MBA Classes/Business Analytics (BUSA 501 L1)/Week 2/Notes|Notes]]
+- [[Quiz Billy Beane Case]]
+- [Quiz- Readings and Videos from Module 3](https://messiah.instructure.com/courses/2025725/quizzes/4512496?module_item_id=40966987)[[Quiz 3]]
+- [Data Analysis Exercise: Statistical Significance & Correlation](https://messiah.instructure.com/courses/2025725/assignments/19199291?module_item_id=40966989)[[Data Analysis Exercise Statistical Significance & Correlation]]
+- [Assignments: Process Inventory/Develop a Critical to Customer Tree](https://messiah.instructure.com/courses/2025725/assignments/19199291?module_item_id=40966989)
+##### Optional:
+- [REDO THIS: Data Analysis Exercise: Normal Distribution, Standardization & z-scores](https://messiah.instructure.com/courses/2025725/assignments/19199288)
