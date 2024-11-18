@@ -7,7 +7,7 @@
 4. In Naked Statistics Chapter 9, what is true about hypothesis testing?
 	1. You start with a null hypothesis to accept or reject
 5. In Naked Statistics Chapter 9, what is true about hypothesis testing?
-	1. 
+	1. The p value for a study should be established before testing is conducted
 6. In HBR Guide to Data Analytics Basics for Managers, what is NOT a mistake people make when working with regression analysis?
 	1. 
 7. In the article Why UPS Trucks (almost) never turn left, what is true about UPS delivery method?
