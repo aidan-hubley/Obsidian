@@ -1,2 +1,2 @@
-### Basic Rogue-lite gameplay
-- 
+### Key Features
+- Rune System
