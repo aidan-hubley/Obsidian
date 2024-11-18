@@ -13,6 +13,6 @@
 7. In the article Why UPS Trucks (almost) never turn left, what is true about UPS delivery method?
 	1. The routing analytical software used by UPS is called Orion
 8. In the This Does not Equal That video regarding correlation and causation, what is true about women who received hormone replacement and heart disease?
-	1. 
+	1. After further research was performed hormone replacement actually resulted in higher frequency of heart disease
 9. According to the video How Ice Cream Kills!  Correlation vs. Causation, why do some things look correlated when they are in fact not?
 	1. 
