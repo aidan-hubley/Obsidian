@@ -15,4 +15,4 @@
 8. In the This Does not Equal That video regarding correlation and causation, what is true about women who received hormone replacement and heart disease?
 	1. After further research was performed hormone replacement actually resulted in higher frequency of heart disease
 9. According to the video How Ice Cream Kills!  Correlation vs. Causation, why do some things look correlated when they are in fact not?
-	1. 
+	1. If you have enough data, you can find enough relationships that are purely coincidental
