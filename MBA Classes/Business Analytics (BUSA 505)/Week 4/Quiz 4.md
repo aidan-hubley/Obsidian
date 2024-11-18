@@ -5,7 +5,7 @@
 3. In Naked Statistics Chapter 4, what true about SAT scores, high school GPAs and first year college grades?
 	1. The best predictor of first year college grades is a combination fo SAT and high school GPAs
 4. In Naked Statistics Chapter 9, what is true about hypothesis testing?
-	1. 
+	1. You start with a null hypothesis to accept or reject
 5. In Naked Statistics Chapter 9, what is true about hypothesis testing?
 	1. 
 6. In HBR Guide to Data Analytics Basics for Managers, what is NOT a mistake people make when working with regression analysis?
