@@ -16,25 +16,25 @@
 	1. 
 9. In Analytics at Work Chapter 4, which case study highlighted the multiplicative impact of leveraging data analytics?
 	1. 
-10. 
+10. In Naked Statistics Chapter 5, what is the study of events and outcomes involving an element of uncertainty?
 	1. 
-11. 
+11. In Naked Statistics Chapter 5, what is the probability of flipping heads with a coin on the 10th time after flipping heads 9 times in a row?
 	1. 
-12. 
+12. In Naked Statistics Chapter 5, what is true about the probability of matching DNA samples?
 	1. 
-13. 
+13. In Naked Statistics Chapter 5, what would be the number of possible passwords of 26 letters and a 5 digit password (note: capital letters are considered different)?
 	1. 
-14. 
+14. In Naked Statistics Chapter 5, what is likely true about purchasing an extended warranty for a printer?
 	1. 
-15. 
+15. In Naked Statistics Chapter 5 1/2, if you are dealing with the Monty Hall problem, what should you do if you have the opportunity to switch?
 	1. 
-16. 
+16. In Naked Statistics Chapter 6, what was the primary critique of the VaR?
 	1. 
-17. 
+17. In Naked Statistics Chapter 6, what was NOT one the mistakes that Wall Street quants made?
 	1. 
-18. 
+18. In the case study Managing with Analytics at Procter & Gamble, what was one of the structures that was part of its 2005 reorganization?
 	1. 
-19. 
+19. In the case study Managing with Analytics at Procter & Gamble, what was the change in focus that P&G wanted to achieve with the Decision Cockpit?
 	1. 
-20. 
+20. In the Article of A Comparison of Data Visualization Tools, what is NOT one of the tools recommended for Business Intelligence Analysis?
 	1. 
