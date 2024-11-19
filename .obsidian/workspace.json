@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d29c9afc367b71c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping/Wish List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wish List"
-            }
-          },
-          {
             "id": "3f062ba3e37e2df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 4/Billy Beane Case Zoom Questions.md",
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Billy Beane Case Zoom Questions"
+              "title": "Quiz 5"
+            }
+          },
+          {
+            "id": "083ae252f2825cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 5/Overview of Week 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview of Week 5"
             }
           }
         ],
@@ -190,15 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f062ba3e37e2df5",
+  "active": "083ae252f2825cb0",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Overview of Week 5.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 5",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Billy Beane Case Zoom Questions.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
     "Shopping/Wish List.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz 3.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Overview of Week 3.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
     "Game Dev/Rune Rogue/Rune System.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4",
     "Game Dev/Rune Rogue/Pitch.md",
@@ -223,11 +226,8 @@
     "MBA Classes/Business Analytics (BUSA 505)/Week 1/Data Analysis and Business Intelligence Terms.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 2",
     "MBA Classes/Business Analytics (BUSA 501 L1)/PowerQuery Shortcuts.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Initial Zoom Notes.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Discussion 1.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1",
     "MBA Classes/Business Analytics (BUSA 505)/Books",
-    "MBA Classes/Business Analytics (BUSA 505)",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 8"
+    "MBA Classes/Business Analytics (BUSA 505)"
   ]
 }
