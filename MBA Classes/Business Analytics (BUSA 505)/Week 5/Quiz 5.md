@@ -37,4 +37,4 @@
 19. In the case study Managing with Analytics at Procter & Gamble, what was the change in focus that P&G wanted to achieve with the Decision Cockpit?
 	1. 
 20. In the Article of A Comparison of Data Visualization Tools, what is NOT one of the tools recommended for Business Intelligence Analysis?
-	1. 
+	1. Power BI

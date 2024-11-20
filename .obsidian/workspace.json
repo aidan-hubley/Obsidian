@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "546b39af81821de8",
+        "id": "f006b58ad017905e",
         "type": "tabs",
         "children": [
           {
-            "id": "a608778daa25d134",
+            "id": "3f062ba3e37e2df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
+    "width": 255.5,
     "collapsed": true
   },
   "right": {
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 233.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,42 +175,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a608778daa25d134",
+  "active": "3f062ba3e37e2df5",
   "lastOpenFiles": [
-    "Game Dev/Rune Rogue/Rune System.md",
-    "Game Dev/Rune Rogue/Pitch.md",
     "Notes for Tonight.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Overview of Week 5.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 5",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 5",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Billy Beane Case Zoom Questions.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4",
-    "Game Dev/Rune Rogue/Untitled.canvas",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
     "Shopping/Wish List.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz 3.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Overview of Week 3.md",
+    "Game Dev/Rune Rogue/Rune System.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4",
+    "Game Dev/Rune Rogue/Pitch.md",
+    "conflict-files-obsidian-git.md",
+    "Notes for Car.md",
     "Shopping",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Data Analysis Exercise Statistical Significance & Correlation.md",
+    "Game Dev/Rune Rogue/Untitled.canvas",
     "Game Dev/Rune Rogue",
     "Game Dev",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Overview of Week 3.md",
-    "Notes for Car.md",
-    "MBA Classes/Course Plan.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz 3.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
-    "MBA Classes/Business Analytics (BUSA 501 L1)/Week 3/Overview of Week 3.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Quiz 2.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Overview of Week 2.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Notes.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Discussion 2.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Zoom Call.md",
+    "MBA Classes/Course Plan.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 3",
+    "MBA Classes/Test.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1/Overview of Week 1.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Discussion 2.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Quiz 2.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Notes.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1/Quiz 1.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Initial Zoom Notes.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Discussion 1.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Overview of Week 2.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1/Data Analysis and Business Intelligence Terms.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 2",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3",
     "MBA Classes/Business Analytics (BUSA 505)/Week 1",
     "MBA Classes/Business Analytics (BUSA 505)/Books",
     "MBA Classes/Business Analytics (BUSA 505)"
