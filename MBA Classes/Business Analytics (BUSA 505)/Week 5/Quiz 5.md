@@ -33,7 +33,7 @@
 17. In Naked Statistics Chapter 6, what was NOT one the mistakes that Wall Street quants made?
 	1. 
 18. In the case study Managing with Analytics at Procter & Gamble, what was one of the structures that was part of its 2005 reorganization?
-	1. 
+	1. Corporate Business Units
 19. In the case study Managing with Analytics at Procter & Gamble, what was the change in focus that P&G wanted to achieve with the Decision Cockpit?
 	1. 
 20. In the Article of A Comparison of Data Visualization Tools, what is NOT one of the tools recommended for Business Intelligence Analysis?
