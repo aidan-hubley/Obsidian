@@ -25,7 +25,7 @@
 13. In Naked Statistics Chapter 5, what would be the number of possible passwords of 26 letters and a 5 digit password (note: capital letters are considered different)?
 	1. Around 20 trillion
 14. In Naked Statistics Chapter 5, what is likely true about purchasing an extended warranty for a printer?
-	1. 
+	1. On average, you will pay more for an extended warranty than you would to repair the printer
 15. In Naked Statistics Chapter 5 1/2, if you are dealing with the Monty Hall problem, what should you do if you have the opportunity to switch?
 	1. 
 16. In Naked Statistics Chapter 6, what was the primary critique of the VaR?
