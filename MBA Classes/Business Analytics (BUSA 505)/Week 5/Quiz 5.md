@@ -3,9 +3,9 @@
 2. In HBR Guide to Data Analytics Basics for Managers Chapter 18, which of the 3 broad reasons for visualizing data involves using visual discovery in lieu of statistics?
 	1. Exploration
 3. In HBR Guide to Data Analytics Basics for Managers Chapter 18, what is the most important aspect of data visualization?
-	3. 
+	3. Communicating in a way that drives action
 4. In HBR Guide to Data Analytics Basics for Managers Chapter 19, which question from the article can be best answered with the use of metaphors?
-	1. 
+	1. Is my data memorable?
 5. In HBR Guide to Data Analytics Basics for Managers Chapter 19, what example was used to help illustrate how to convey the right message?
 	1. 
 6. In Analytics at Work Chapter 3, what is true about an enterprise approach to data analytics?
