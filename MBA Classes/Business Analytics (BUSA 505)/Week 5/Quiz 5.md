@@ -27,7 +27,7 @@
 14. In Naked Statistics Chapter 5, what is likely true about purchasing an extended warranty for a printer?
 	1. On average, you will pay more for an extended warranty than you would to repair the printer
 15. In Naked Statistics Chapter 5 1/2, if you are dealing with the Monty Hall problem, what should you do if you have the opportunity to switch?
-	1. 
+	1. Always switch
 16. In Naked Statistics Chapter 6, what was the primary critique of the VaR?
 	1. 
 17. In Naked Statistics Chapter 6, what was NOT one the mistakes that Wall Street quants made?
