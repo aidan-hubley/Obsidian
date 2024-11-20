@@ -15,7 +15,7 @@
 8. In Analytics at Work Chapter 4, what is NOT something analytical leaders do?
 	1. Focus on a single application or initiative
 9. In Analytics at Work Chapter 4, which case study highlighted the multiplicative impact of leveraging data analytics?
-	1. Shannon Antorcha
+	1. Jim and Chris McCann
 10. In Naked Statistics Chapter 5, what is the study of events and outcomes involving an element of uncertainty?
 	1. 
 11. In Naked Statistics Chapter 5, what is the probability of flipping heads with a coin on the 10th time after flipping heads 9 times in a row?
