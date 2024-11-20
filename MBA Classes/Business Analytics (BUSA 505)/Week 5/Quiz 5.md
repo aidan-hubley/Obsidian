@@ -9,9 +9,9 @@
 5. In HBR Guide to Data Analytics Basics for Managers Chapter 19, what example was used to help illustrate how to convey the right message?
 	1. Highlighting when and in which regions revenue dropped
 6. In Analytics at Work Chapter 3, what is true about an enterprise approach to data analytics?
-	1. 
+	1. Business units will attempt to build their own analytics without central coordination
 7. In Analytics at Work Chapter 3, which progression of stages involves a stress point of putting into place new IT infrastructure and standards?
-	1. 
+	1. From Stage 4 to Stage 5
 8. In Analytics at Work Chapter 4, what is NOT something analytical leaders do?
 	1. 
 9. In Analytics at Work Chapter 4, which case study highlighted the multiplicative impact of leveraging data analytics?
