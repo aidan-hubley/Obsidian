@@ -21,9 +21,9 @@
 11. In Naked Statistics Chapter 5, what is the probability of flipping heads with a coin on the 10th time after flipping heads 9 times in a row?
 	1. 50%
 12. In Naked Statistics Chapter 5, what is true about the probability of matching DNA samples?
-	1. 
+	1. Matching 9 loci is about 1 in 113 billion
 13. In Naked Statistics Chapter 5, what would be the number of possible passwords of 26 letters and a 5 digit password (note: capital letters are considered different)?
-	1. 
+	1. Around 20 trillion
 14. In Naked Statistics Chapter 5, what is likely true about purchasing an extended warranty for a printer?
 	1. 
 15. In Naked Statistics Chapter 5 1/2, if you are dealing with the Monty Hall problem, what should you do if you have the opportunity to switch?
