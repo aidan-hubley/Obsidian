@@ -7,7 +7,7 @@
 4. In HBR Guide to Data Analytics Basics for Managers Chapter 19, which question from the article can be best answered with the use of metaphors?
 	1. Is my data memorable?
 5. In HBR Guide to Data Analytics Basics for Managers Chapter 19, what example was used to help illustrate how to convey the right message?
-	1. 
+	1. Highlighting when and in which regions revenue dropped
 6. In Analytics at Work Chapter 3, what is true about an enterprise approach to data analytics?
 	1. 
 7. In Analytics at Work Chapter 3, which progression of stages involves a stress point of putting into place new IT infrastructure and standards?
