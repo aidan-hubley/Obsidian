@@ -13,9 +13,9 @@
 7. In Analytics at Work Chapter 3, which progression of stages involves a stress point of putting into place new IT infrastructure and standards?
 	1. From Stage 4 to Stage 5
 8. In Analytics at Work Chapter 4, what is NOT something analytical leaders do?
-	1. 
+	1. Focus on a single application or initiative
 9. In Analytics at Work Chapter 4, which case study highlighted the multiplicative impact of leveraging data analytics?
-	1. 
+	1. Shannon Antorcha
 10. In Naked Statistics Chapter 5, what is the study of events and outcomes involving an element of uncertainty?
 	1. 
 11. In Naked Statistics Chapter 5, what is the probability of flipping heads with a coin on the 10th time after flipping heads 9 times in a row?
