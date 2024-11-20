@@ -29,7 +29,7 @@
 15. In Naked Statistics Chapter 5 1/2, if you are dealing with the Monty Hall problem, what should you do if you have the opportunity to switch?
 	1. Always switch
 16. In Naked Statistics Chapter 6, what was the primary critique of the VaR?
-	1. 
+	1. Rare events were factored in
 17. In Naked Statistics Chapter 6, what was NOT one the mistakes that Wall Street quants made?
 	1. 
 18. In the case study Managing with Analytics at Procter & Gamble, what was one of the structures that was part of its 2005 reorganization?
