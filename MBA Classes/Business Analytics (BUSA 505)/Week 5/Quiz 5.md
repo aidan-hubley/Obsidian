@@ -17,9 +17,9 @@
 9. In Analytics at Work Chapter 4, which case study highlighted the multiplicative impact of leveraging data analytics?
 	1. Jim and Chris McCann
 10. In Naked Statistics Chapter 5, what is the study of events and outcomes involving an element of uncertainty?
-	1. 
+	1. Probability
 11. In Naked Statistics Chapter 5, what is the probability of flipping heads with a coin on the 10th time after flipping heads 9 times in a row?
-	1. 
+	1. 50%
 12. In Naked Statistics Chapter 5, what is true about the probability of matching DNA samples?
 	1. 
 13. In Naked Statistics Chapter 5, what would be the number of possible passwords of 26 letters and a 5 digit password (note: capital letters are considered different)?
