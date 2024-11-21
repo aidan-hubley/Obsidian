@@ -1,3 +1,4 @@
+#LatinAmericanCinema
 ## A Confluence of Cinematic & Historical Temporalities 
 
 - A meta cinematic approach

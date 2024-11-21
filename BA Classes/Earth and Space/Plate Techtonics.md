@@ -1,3 +1,4 @@
+#EarthSpaceScience
 # Alfred Wegener
 1. November 1880 - November 1930
 2. Was a German polar researcher, geophysicist and meteorologist who developed the first theory of continental drift and formulated the idea that supercontinent known as Pangaea existed on the Earth millions of years ago. His ideas were largely ignored at the time they were developed but today they are very well accepted by the scientific community. 

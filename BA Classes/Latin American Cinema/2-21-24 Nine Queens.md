@@ -1,3 +1,4 @@
+#LatinAmericanCinema
 - Low budget, only $1.5 million, came out in 2000
 - "Before Nine Queens in Argentina if you wanted to make money with your film you had to do a stupid comedy with television actors. Nine Queens proved that you could make a personal film, without big stars, which wasn't a comedy and that it could still make a load of money and get good reviews"
 	- Fabian Bielinski (1959-2006)

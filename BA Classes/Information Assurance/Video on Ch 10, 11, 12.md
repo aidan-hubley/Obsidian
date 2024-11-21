@@ -1,3 +1,4 @@
+#InformationAssurance
 Hello my name is Aidan Hubley and today I'm going to share six takeaways from Chapter 10 Chapter 11 and Chapter 12 of The Fifth Domain.
 
 Chapter 10 of the book is titled Power Grids and Power Plays. 

@@ -1,3 +1,4 @@
+#InformationAssurance
 # Notes
 - How do you know what physical and software assets are a part of Messiah's network?
 	- Software: 3 ways

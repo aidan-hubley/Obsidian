@@ -1,3 +1,4 @@
+#LatinAmericanCinema
 #### When did the Latin American Cinema begin? When did the movement climax? What are the intersections between national, regional, and global cinema? What is the role of film festivals? Dates, key directors, significant movies, awards and production companies.
 
 #### Describe the influence of photography on The Motorcycle Diaries

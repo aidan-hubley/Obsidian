@@ -1,3 +1,4 @@
+#ChristianTheology
 # Holy Trinity
 
 - Augustine is alleged to have said that anyone who denies the Trinity loses his salvation but that anyone who tries to understand it loses his mind

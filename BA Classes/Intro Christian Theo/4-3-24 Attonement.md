@@ -1,3 +1,4 @@
+#ChristianTheology
 # Theories of Atonement
 - Words related to atonement:  
 	- Hebrew kephar (to cover); cf. Yom Kippur  

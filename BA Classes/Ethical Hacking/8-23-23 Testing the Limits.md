@@ -1,3 +1,4 @@
+#EthicalHacking
 # Temptations
 - Pranking friends and family
 - Money (hired for unethical work)

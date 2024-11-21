@@ -1,3 +1,4 @@
+#DiscreteMath
 1. No animations
 	1. Corollary: Slides should focus audience on content
 2. No dark backgrounds

@@ -1,3 +1,4 @@
+#EarthSpaceScience
 # 5.1 What is an Earthquake?
 1. Ground shaking of Earth produced by the rapid release od energy along faults
 1. Releases seismic waves, a form of energy that travels through the Earth

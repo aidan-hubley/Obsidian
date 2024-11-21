@@ -1,3 +1,4 @@
+#DiscreteMath
 1-28-2022:
 - "I am actually getting confused." He does not know the content.
 

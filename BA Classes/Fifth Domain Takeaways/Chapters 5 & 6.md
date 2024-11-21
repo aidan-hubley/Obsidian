@@ -1,3 +1,4 @@
+#FifthDomain
 ## Takeaways from Chapter 5:
 1. "The whole of the cybersecurity technology landscape adds up to less than the sum of its parts." We are far from achieving a single coherent 'orchestra' in the cybersecurity field.
 2. Sounil Yu's matrix decoupling and "platform epiphany" was pitched to Tanium. They raised another $200 million, but the trouble is that even "800 million in venture funding is not enough to build out all the capabilities on Sounil's matrix."

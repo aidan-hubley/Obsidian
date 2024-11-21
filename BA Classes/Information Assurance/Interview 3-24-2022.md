@@ -1,3 +1,4 @@
+#InformationAssurance
 # Notes
 - Describe the governance structure of the University with respect to the data structure
 	- There is no written action, there is a procedure that is complete, but nothing written down. He presents to the board twice a year, on what is most vulnerable at Messiah. The board decides what is worth implementing and not to worry about money.

@@ -1,3 +1,4 @@
+#ChristianTheology
 # Habit
 - Timothy Wilson suggests that only about 5% of what we do in a day is conscious choice, the rest is habit
 - Born with capacities that have to be developed (like use of language)

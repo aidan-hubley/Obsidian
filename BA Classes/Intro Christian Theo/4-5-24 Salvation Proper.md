@@ -1,3 +1,4 @@
+#ChristianTheology
 - Justification = I have been saved
 	- Salvation has happened. I have it now.
 - Sanctification = I am being saved

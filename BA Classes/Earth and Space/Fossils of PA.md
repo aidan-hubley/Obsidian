@@ -1,3 +1,4 @@
+#EarthSpaceScience
 # What is a Formation?
 1. A body of rock having a measurable thickness
 2. Usually composed of only 1-2 rock types 
