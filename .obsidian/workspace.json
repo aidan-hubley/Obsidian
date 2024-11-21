@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16f38f7ecb90d04f",
+        "id": "f006b58ad017905e",
         "type": "tabs",
         "children": [
           {
-            "id": "9ab9ac6049954500",
+            "id": "3f062ba3e37e2df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ab9ac6049954500",
+  "active": "3f062ba3e37e2df5",
   "lastOpenFiles": [
-    "Notes.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
+    "Notes.md",
     "Notes for Tonight.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Overview of Week 5.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
@@ -186,6 +184,7 @@
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Billy Beane Case Zoom Questions.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
     "Shopping/Wish List.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz 3.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Overview of Week 3.md",
     "Game Dev/Rune Rogue/Rune System.md",
