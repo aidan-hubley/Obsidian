@@ -1,1 +1,0 @@
-Note: 2 ^ (how many LANs needed) >= Subnet Count

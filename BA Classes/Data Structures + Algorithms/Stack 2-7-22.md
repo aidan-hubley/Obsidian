@@ -1,3 +1,4 @@
+#DataStructAlgorithms
 # Stack
 1. A stack is a classic collection used to help solve many types of problems
 2. A stack is a linear collection whose elements are added in a last in, first out (LIFO) manner

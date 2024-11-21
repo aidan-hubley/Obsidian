@@ -1,3 +1,4 @@
+#DataCommNetworking
 # Questions 14.1
 1. A web server on your network hosts your company's public website. You want to make sure that an NIC failure doesn't prevent the website from being accessible on the internet. Which solution should you implement?
 	1. Ethernet bonding

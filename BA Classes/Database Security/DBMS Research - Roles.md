@@ -1,3 +1,4 @@
+#DatabseSecurity
 Oracle has evolved over the years and one of the important changes it has undergone is the use of user roles. User roles are a way to group users together and grant privileges to the group as a whole, rather than to individual users. It's like creating a team and assigning certain permissions to that team. This makes managing permissions much easier, because you can add or remove users from the team without having to worry about managing their individual permissions separately. It's a very useful feature that simplifies database security management.
 
 In the older versions of Oracle DBMS, roles were not enabled by default. You had to manually enable them using a special command. This changed in the newer versions, where roles are enabled by default.

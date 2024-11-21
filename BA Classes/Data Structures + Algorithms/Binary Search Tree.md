@@ -1,3 +1,4 @@
+#DataStructAlgorithms
 # Binary Search Trees (BST)
 1. A search tree is a tree whose elements are organized to facilitate finding a particular element when needed
 2. A binary search tree is a binary tree that for each node n

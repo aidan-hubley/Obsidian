@@ -1,3 +1,4 @@
+#DataStructAlgorithms
 # Searching
 ## Linear Search
 1. A linear search simply examines each item in the search pool, one at a time

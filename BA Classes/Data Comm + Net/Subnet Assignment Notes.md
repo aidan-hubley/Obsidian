@@ -1,3 +1,4 @@
+#DataCommNetworking
 - Developing the WAN for company XYZ. They have been given a Class B internet license - 160.60.0.0.
 - The company has chose to subnet in the following manner:
 	- In Los Angeles, they have 5 buildings and desire each building to have 4 LANs.
