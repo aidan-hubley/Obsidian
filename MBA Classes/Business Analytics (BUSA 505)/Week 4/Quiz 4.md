@@ -1,3 +1,4 @@
+#MBA #BusinessAnalytics
 1. In Analytics at Work Chapter 7, what are the three types of decisions that should be considered for embedding data analytics?
 	1. Automated, Automated with Overrides, Assisted
 2. In Naked Statistics Chapter 4, what is true about a correlation coefficient of -1?

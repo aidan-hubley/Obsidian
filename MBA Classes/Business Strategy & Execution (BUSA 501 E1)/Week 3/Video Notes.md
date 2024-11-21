@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 ##  [PESTEL Analysis Explained](https://www.youtube.com/watch?v=bYn4CyL3r5w)
 - Helps to analyze the external MACRO environment of a business:
 	- Political

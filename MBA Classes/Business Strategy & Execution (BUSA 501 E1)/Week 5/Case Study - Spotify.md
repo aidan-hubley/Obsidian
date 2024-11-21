@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 ### Intro 
 
 ### Competitive Resources and Capabilities

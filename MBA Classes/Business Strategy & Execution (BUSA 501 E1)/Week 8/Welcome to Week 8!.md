@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 ## Assignments:
 - [[Case Study - Beyond Meat]]
 

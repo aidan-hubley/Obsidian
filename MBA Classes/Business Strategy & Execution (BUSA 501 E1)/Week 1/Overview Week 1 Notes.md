@@ -1,4 +1,4 @@
-
+#MBA #BusinessStrategyExecution
 - A process by which a company can gain competitive advantage and increased profitability through the intentional shaping of its activates
 
 ## Two Primary Approaches (to Strategic Plans)

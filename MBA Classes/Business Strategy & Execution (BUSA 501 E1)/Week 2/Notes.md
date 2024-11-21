@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 (Gamble, n.d.)
 The managerial process of crafting and executing a company’s strategy is an ongoing, continuous process consisting of five integrated stages:
 1. Developing a strategic vision that charts the company’s long-term direction, a mission statement that describes the company’s business, and a set of core values to guide the pursuit of the strategic vision and mission.

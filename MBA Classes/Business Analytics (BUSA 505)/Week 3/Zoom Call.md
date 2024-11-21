@@ -1,3 +1,4 @@
+#MBA #BusinessAnalytics
 Q2: Need to take average of original data, not average of averages
 - 3.66
 Q3: Standard Dev: 1.58

@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 ## The Process for setting a company's direction with strategy
 1. Develop a strategic vision, mission statement, and set of core values
 2. Outline objectives for measuring and tracking company progress toward its intended direction

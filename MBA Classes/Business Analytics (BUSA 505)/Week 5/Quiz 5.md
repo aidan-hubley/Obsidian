@@ -1,3 +1,4 @@
+#MBA #BusinessAnalytics
 1. In HBR Guide to Data Analytics Basics for Managers Chapter 17, which of the following are part of the framework Davenport recommends for communicating data analysis?
 	1. What data is available, the solution, the initial solution to the hypothesis
 2. In HBR Guide to Data Analytics Basics for Managers Chapter 18, which of the 3 broad reasons for visualizing data involves using visual discovery in lieu of statistics?

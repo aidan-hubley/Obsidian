@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 ## What is a Value Chain?
 - String of collaborating players, who work together to satisfy market demands for specific products or services
 

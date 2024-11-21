@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution 
 [article](https://xuxufruit.com/the-importance-and-process-of-strategic-planning/)
 
 ## The Strategic Planning Process

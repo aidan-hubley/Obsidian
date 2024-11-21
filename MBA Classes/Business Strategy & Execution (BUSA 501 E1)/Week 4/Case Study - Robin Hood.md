@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution 
 Use all of your course materials encountered thus far to analyze the Robin Hood case study (found in the case study section of your text). Apply the 5 Forces Model of Competition to this situation. You may choose to use the 7 questions asked in chapter 3 of Gamble/Peteraf/Thompson as a starting point for analysis.
 
 Page Limit: 4 pages 

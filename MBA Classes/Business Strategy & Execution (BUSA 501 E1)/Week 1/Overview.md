@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 ## Books:
 - [[Essentials of Strategic Management (Gamble, Peteraf, Thompson)]]
 - [[Good Strategy, Bad Strategy (Richard Rumelt)]]

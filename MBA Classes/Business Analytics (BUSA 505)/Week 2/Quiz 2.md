@@ -1,3 +1,4 @@
+#MBA #BusinessAnalytics
 1. In HBR Guide to Analytics Chapter 3, what story does the author use to make the point about the amount of data needed?
 	1. Changing from using a monthly, data-intensive book to using quarterly reviews with exception reporting
 2. In HBR Guide to Data Analytics Chapter 4, how can one assess the availability of the data needed?

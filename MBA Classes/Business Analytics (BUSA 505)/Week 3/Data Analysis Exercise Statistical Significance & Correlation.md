@@ -1,3 +1,4 @@
+#MBA #BusinessAnalytics
 1. Explain what a p value is. When is it used and what insight does it provide?
 	1. P-value tells how likely a result happened by chance. We use it to figure out if finding are statistically significant, they're not random.
 2. What does p < 0.05 mean?

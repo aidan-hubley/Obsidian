@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution 
 1. A low-cost provider strategy—striving to achieve lower overall costs than rivals and appealing to a broad spectrum of customers, usually by underpricing rivals.
 2. A broad differentiation strategy—seeking to differentiate the company’s product or service from rivals’ in ways that will appeal to a broad spectrum of buyers.
 3. A focused low-cost strategy—concentrating on a narrow buyer segment (or market niche) and outcompeting rivals by having lower costs than rivals and thus being able to serve niche members at a lower price.

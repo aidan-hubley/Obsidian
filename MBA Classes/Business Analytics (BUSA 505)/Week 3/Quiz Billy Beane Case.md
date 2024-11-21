@@ -1,3 +1,4 @@
+#MBA #BusinessAnalytics
 1. According to the study, what type of team was the Oakland Athletics with respect to revenues and payroll
 	1. Low revenue and low payroll
 2. What does the term "Moneyball" refer to?

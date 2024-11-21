@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 ## Porter's Generic Strategies
 
 | Broad  | Cost Leadership | Differentiation       |

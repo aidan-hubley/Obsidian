@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution 
 Write an original post (not to exceed to 375 words) answering:
 
 - Does your current organization (choose the organization where you currently work or have the most involvement in) have a strong sense of core purpose and identity? If so, what are these and how are they reinforced?

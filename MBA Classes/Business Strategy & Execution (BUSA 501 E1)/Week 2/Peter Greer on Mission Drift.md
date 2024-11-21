@@ -1,3 +1,4 @@
+#MBA #BusinessStrategyExecution
 - Drift is all around us
 - So many organizations deal with this
 - How to ensure that your org doesn't drift
