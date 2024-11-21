@@ -1,10 +1,9 @@
-[https://www.policymap.com/](https://www.policymap.com/)
+[https://www.suitable.co](https://www.suitable.co)
 #### What does it do? 
-Transform Data Into Insights, GIS type software
-"Bridge the gap between data and action. Our mapping application, analytics platform, and data licensing services are built for non-GIS professionals, data-literate researchers, and everyone in between."
+Help schools increase student participation outside the classroom, track and assess experiential learning and empower all students to tell their unique stories.
 
-#### Terms of Use [https://www.policymap.com/terms-of-use](https://www.policymap.com/terms-of-use)
+#### Terms of Use [https://www.suitable.co/terms](https://www.suitable.co/terms)
 - Standard Terms.
 
-#### Privacy Policy [https://www.policymap.com/privacy](https://www.policymap.com/privacy)
+#### Privacy Policy [https://www.suitable.co/privacy](https://www.suitable.co/privacy)
 - Standard Policy.
