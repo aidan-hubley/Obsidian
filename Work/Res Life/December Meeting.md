@@ -1,3 +1,4 @@
+#ResLife
 # General Info
 -   Residents are expected to leave 24 hours after their last final or no later than noon on Friday, December 16, 2022. 
 -   >>Halls close at noon on Friday, December 16, 2022.  

@@ -1,3 +1,4 @@
+#ResLife
 # Ways to Increase Income
 1. Have multiple streams of income, side hustles included
 2. Negotiate starting salary. Just because are you young doesn't mean you have to settle

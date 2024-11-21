@@ -1,3 +1,4 @@
+#ResLife
 # Common Gathering 1/10/2022:
 The idea is to split the residents into groups of 3 or 4 guys, give them all a sticky note and a pen, and ask them to evaluate their values and the values they wish their floor displayed. They will write two of these values onto the sticky note and discuss their values with the rest of their group.
 

@@ -1,3 +1,4 @@
+#ResLife
 
 | Resident | Room | Attend? |
 | ---- | ---- | ---- |

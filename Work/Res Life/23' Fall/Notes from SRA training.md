@@ -1,3 +1,4 @@
+#ResLife
 - Naming that some people are external / internal processors, we can open space for those who need more time to think
 	- saying "I'm excited to hear what you thought of \___"
 

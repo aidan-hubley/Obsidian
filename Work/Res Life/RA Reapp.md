@@ -1,3 +1,4 @@
+#ResLife
 1. How have you contributed to the mission of Residence Life in your role as an RA?  
  Give examples of something you did to foster safety, practice hospitality and to develop holistically both your residents.  
  SRA applicants should also give an example of living out the mission within your RA team.

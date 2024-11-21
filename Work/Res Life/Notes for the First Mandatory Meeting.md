@@ -1,3 +1,4 @@
+#ResLife
 - Pair up two residents who don't know each other, get them to learn about one another, and then they will introduce each other to the whole floor
 - "Lets make a list of ten things we DONT want to happen on the floor this year"
 - RCI
