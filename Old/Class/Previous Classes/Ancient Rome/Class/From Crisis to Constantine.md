@@ -1,0 +1,134 @@
+Following Severus Alexander’s death –period of about 50 emperors from 235-284 CE  
+- highly unstable and chaotic period  
+	- Difficult to construct historically  
+- Few notable emperors  
+- Philip the Arab (244 -249 CE)  
+	- treated Christian fairly  
+	- most “foreign emperor”
+- Trajan Decius  
+	- Gain legitimacy – connects himself back to Trajan  
+	- Wanted to reunify the Empire  
+		- Religion – common denominator  
+			- Must prove loyalty – state sacrifice  
+				- Problematic for Christians (and Jews sort of)
+- Valerian (253-260 CE)  
+	- Persecution of Christians  
+	- Not possible to rule alone – son Gallienus  
+	- Marched east to repel the  
+	- Persians –Shapur I  
+	- Preservation of the ideals of the High Empire  
+- Gallienus (253-268CE)  
+	- A lot going on  
+	- Allowed others to take charge of other areas - necessary
+- Aurelian (270-275 CE)  
+	- “Hand-on-sword”  
+	- “Restorer of the World”  
+	- Tried to restore the currency  
+	- Moved toward monotheism – “Sol Invictus”  
+	- Two Steps  
+	- Relinquish province of Dacia  
+	- Aurelian Wall  
+	- Eventually killed by another military officer
+- “Sol Invictus”  
+	- December 25th – which came first celebration of Sol Invictus or celebration of Christ’s birth??  
+		- No textual evidence  
+	- Imagery is very similar
+- Diocletian (284-305 CE)  
+	- Humble background yet successful  
+	- Came to power while Rome was facing a lot of problems  
+	- Restores normalcy by taking control of the empire, ending civil wars, and implementing reforms  
+		- Results in long-term success and security  
+	- Moves from the principate to the dominate
+	- Does not hold sole power  
+		- 286 CE – Maximianus - Co-ruler  
+		- 293 CE - Tetrarchy – “Rule by Four”  
+			- ruled in various sections of the empire  
+		- Two Senior Emperors (Augusti) and two junior Emperors (Casear)  
+			- Eastern:  
+				- Augusti – Diocletian  
+				- Caesar - Maximianus (Galerius)  
+			- Western:  
+				- Augusti – Maximian  
+				- Caesar - Constantius  
+		- Caesar would take over for Augusti - succession  
+		- Rule over army would be divided up to prevent any one person from amassing power  
+
+- Faced many other issues
+	- Economy - debased sliver coinage
+		- Attempts to fix coins
+		- Maximum Price Edict
+		- Introduces *amona*
+	- Identified essential workers - soldiers, bakers, tenant farmers
+		- Positions were hereditary, no career changes
+
+- Attempts to unify through religion – traditional polytheistic religion  
+- 302 CE - Edict against Manichaeans  
+	- Christians did not participate  
+		- More people had been attracted to Christianity  
+			- Great Persecution – 303 CE  
+		- Many were sympathetic to Christians  
+			- saw them as sun worshippers  
+			- Not much public support for persecution  
+			- Edicts were mostly ignored  
+
+- Diocletian eventually steps down/retires – 305 CE- along with Maximianus  
+- Retirement “palace” (Split Croatia)  
+- Succession - Two Caesars would step up to become Augusti and then appoint their own Caesars  
+	- East – Galerius (A) and Maximin Daia (C)  
+	- West – Constantius (A) and Severus (C)  
+- Chaos breaks out
+
+- Constantine and Maxentius  
+- declared by their soldiers  
+	- More civil wars erupted - Severus – killed by Maxentius in 307 CE  
+	- Galerius tries to reconcile everyone at a conference in 308 CE  
+	- Diocletian and Maximian come out of retirement  
+- 312 CE – Constantine – met and defeated  
+- Maxentius at the Battle of the Milvian Bridge
+
+- 313 CE – allied against Maximin Daia  
+- only Licinius and Constantine remain – joint rule from 313-324 CE  
+	- Constantine in West  
+	- Licinius in the East  
+- 324 CE – Constantine defeat Licinius in two distinct battles  
+	- Battle of the Hellespont  
+	- Battle of Chrysopolis
+
+- Need for the Senate/Wealthy aristocrats  
+- Gold standard – issuing a new solidus in 312 CE  
+	- Forces(?) gold back into circulation  
+- Continued to split power – “Master of Soldiers”  
+- 330 CE – created a second, eastern capital – Constantinople  
+	- Sort of like a little copy of Rome  
+- Returned to dynastic succession
+
+- Constantine – recognized the potential of Christianity  
+	- monotheism was a trend  
+	- The real question – whether or not Constantine was an actual believing  Christian  
+	- Battle of the Milvian Bridge – vision of the Chi-Rho
+
+- 313 CE – “Edict” of Milan  
+	- granted religious freedom – Christians and others  
+	- Restitution of Christian property  
+	- First time recognized the Christian church as a lawful institution  
+- Christianity was the religion of the future – imperial unity  
+	- Granted senior clergy status of honestiores, exempted Christian priests from taxation, made Sunday market day so Christians could go to church  
+	- Built churches  
+	- Christian community could be the social support network needed  
+	- Helena
+
+- Church was not unified at all  
+	- Questions of theology, organization, authority  
+		- Emperor took on the role of unifying  
+		- Different sects and different beliefs on the divinity of Christ  
+			- 325 CE – Council of Nicaea – Constantine 318 bishops  
+				- condemn Arianism  
+				- Nicene Creed – official statement of belief  
+				- Establishing the official date of Easter and formalizing model of the church
+- Returns to dynastic succession - but runs into a few problems and it turns bloody  
+	- Crispus and Fausta  
+- Died of natural causes  
+- Only on his deathbed was he actually baptized in 337 CE  
+- Big question: Was he a true-believing Christian?  
+	- Made great strides at restoring stability to Rome  
+	- Made a lot of changes that would greatly impact the church and its spread

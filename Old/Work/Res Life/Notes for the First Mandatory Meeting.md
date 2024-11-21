@@ -1,0 +1,46 @@
+- Pair up two residents who don't know each other, get them to learn about one another, and then they will introduce each other to the whole floor
+- "Lets make a list of ten things we DONT want to happen on the floor this year"
+- RCI
+	- Something hard to describe? Take a picture of it + timestamp + email to Preston T
+	- "Preston will fine you, if you don't write down damages"
+	- Don't hand out RCIs, put them in each room
+		- Suggest, they go have their roommate conversations, and then come back to meeting
+		- Get them to talk about Covid guidelines and preferences
+- Any questions about Preston's presentation
+- RA on clock #?
+- Safety #?
+	- Take personal trash OUTSIDE!
+- RESIGN UP FOR TIMELYCARE
+- Plug yourself
+	- Your hopes and interests
+	- Private but not Confidential
+		- Abuse, Stalking, etc. must be reported
+		- Confidential people
+			- Engle Counseling
+			- Mina Cho
+			- Hannah McBride
+	- Plug chapel! 
+		- Sophomore chapel start Sept 9th. 
+- Roommate Agreements
+	- Hand out to residents with roommates
+	- Turn in by Friday August 26th, 2022
+	- Keep in your room
+- Room Condition Inventory
+	- Do at the same time as Roommate Agreements?
+	- Turn in by Friday August 26th, 2022
+	- Keep in Preston's office
+- Community Activity
+	- "Cokes with the Blokes"
+	- "Chai with the Guys"
+	- "Lacroix with the Boys"
+	- Pterodactyl? 
+- Decide what the first weekly chat will be, plug it at the end of this meeting
+- Set final expectations for
+	- Weekly Chats
+	- ICs
+	- General relationship with you
+- Pray
+
+- Email Preston with full attendance
+	- If missing residents, tell Preston
+		- If explanation was given tell Preston

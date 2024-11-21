@@ -1,0 +1,18 @@
+Dear Galaxy Buds,  
+
+They say that your deepest love comes when you are least expecting it. That may or may not be true for some, but for me, and my love of technology, it is. I was not longing or looking for you, but when I opened you on Christmas morning, I fell in love. You have been the perfect earbuds since that moment. You have allowed me to focus, to workout, to work at my various jobs, you have improved the down times in my daily life 100 fold. I love music, deeply and genuinely, and you bring that to me. 
+
+You were gifted to me, not something I sought out, or earned. For that reason you mean more to me, a gift from my parents to me, you remind me of them. You are so incredibly user friendly, with your various silicon fittings, a multitude of audio customization, and multiple simple ways to charge your case. You give me the ability to isolate myself on a whims notice; with my ridiculous schedule, any free time spent "alone" is a gift from God. 
+
+When I opened your packaging you came with a various number of silicon fittings, wings and buds. This customizable feature you offered gave me the ability to fit you perfectly to my ears, and you do. These wings and buds allow you to cancel almost all exterior noise. This feature is absolutely beautiful. You allow my to focus on my thoughts and to truly hear music. 
+
+You are a Bluetooth device, meaning you do not connect to my phone with a AUX cord. You are on the battery, and therefore I charge you. This process could be tedious, if I relied on plugging you in every time I needed to charge you. You do come with a USB-type C charging port after all. However, your case has access to wireless charging. This feature is incredible. I can effortlessly place you on any wireless charging pad and 'boom' you begin charging, and if that wasn't convenient enough, I can charge you on the backside of my phone. Any time I really push your battery to it's limits, I simply turn on wireless charging on my phone and place your case on the backside of it. You are so easy to charge, and your battery lasts for multiple hours, I love it. 
+
+When I take your earbuds out of the case, you last for 90 minutes. That means you last just long enough for a good workout or a study session. Then, to sweeten the deal, I can simply place the buds back in the case and they charge up again. Your case, when it's fully charged lasts for three hours! That is amazing. 
+
+Your customizable audio give me a full dynamic range. Meaning, one day you can provide a bass boosted sound for a strong workout, and the next you might give a soft vocal enhanced experience for a study session. Through the Galaxy Wear app, which you easily connect to, I can change this experience on a whim. This easy to change feature makes every use feel new and refreshing. Another feature this app brings to your tool belt is vocal pass through. When turned on, your microphones take any vocal noise and mixes it with any audio I am listening to. Meaning, I can start a conversation with someone with listening to music with your buds. This feature you offer works incredibly well, and I use it often. 
+
+Finally, the control you give me over my music is beautiful. Your touchpads, which are placed on the exterior side of your buds, are customizable, and easily controlled. I have you set to a single tap pauses the current audio, a double tap will skip the audio to the next track, a triple tap rewinds the audio to the previous, and a long press will turn up the volume on the right side, and turn down the audio on the left side. It is simple, easy, and extremely convenient to use. You are perfect, I use you everyday and I appreciate everything you offer me.
+
+Love,    
+Aidan Hubley

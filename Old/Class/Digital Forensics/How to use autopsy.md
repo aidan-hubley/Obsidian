@@ -1,0 +1,11 @@
+- New Case
+	- Basic Info . . .
+- Select Host
+	- ...
+- Disk Img or VM File
+	- Browse for correct path to the first .E01 
+	- Leave default settings
+- Configure Ingest
+	- Leave defaults
+- Finish.
+- Processing will being, will take more time

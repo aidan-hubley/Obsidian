@@ -1,0 +1,44 @@
+- Developing the WAN for company XYZ. They have been given a Class B internet license - 160.60.0.0.
+- The company has chose to subnet in the following manner:
+	- In Los Angeles, they have 5 buildings and desire each building to have 4 LANs.
+	- In Chicago, they have 4 building and desire and desire each building to have 3 LANs.
+	- In Memphis, they have 2 buildings and desire a 3 LANs in each building.
+	- In Dallas, they have 10 buildings and desire 7 LANs in each.
+	- In New York they have 5 buildings and desire 10 LANs in each.
+	- In Orlando, they have 10 buildings and desire 4 LANs in each.
+- They also want a spare LAN address spaces, which we call subnets, per building in each city.  In addition to the subnets for each building in each city, you need to account for a separate subnet for each serial link between cities (Router – to –Router links).
+- Routers are linking in the following manner:
+	- The router in Los Angeles is linked to Chicago only.
+	- The Chicago Router is linked to Memphis and New York.
+	- The Memphis Router, in addition to being linked to Chicago, is also linked to Dallas and New York.
+	- Dallas in only linked to Memphis.
+	- New York, in addition to being linked to Chicago and Memphis is linked to Orlando.
+	- Orlando is only linked to New York.
+
+- LA has 25 subnets
+	- What is the minimum number of bits is needed to borrow?
+- Example:
+	- _ _ _ _ _ _ _ _ . _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ . _ _ _ _ _ _ _ _ 
+	- first half is the net
+	- second half is the host
+		- subnets can go anywhere in the second half
+		- first half (net) . _ _ _ | _ _ _ _ _ . _ _ _ _ _ _ _ _
+			- Here the subnet is the first three digits
+				- 001 - 010 - 011 - 100- 101 - 110 - 111
+		- When using the 001, the subnet = 32
+			- binary of 001|00000 = 32
+		- Every next subnet is just an additional increment of the first
+			- 010 = 62
+			- 011 = 96
+			- 100 = 128
+			- 101 = 160
+			- 110 = 192, etc
+- Subnetting a Subnet
+	- We have:
+	- _ _ _ _ _ _ _ _ . _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ . _ _ _ _ _ _ _ _
+	- 160.60.subnet/host
+	- Lets use subnet .001_ _ _ _ _ = 32
+	- This is not enough for the whole network, we need to subnet a this subnet
+	- _ _ _ _ _ _ _ _ . _ _ _ _ _ _ _ _ |001| _ _ _ _ _ . _ _ _ | _ _ _ _ _
+	- Here we assigned a new subnet inside of the 001 subnet, = 001 in the fourth octect
+	- New subnet subnet for LA = 160.60.32.0/27

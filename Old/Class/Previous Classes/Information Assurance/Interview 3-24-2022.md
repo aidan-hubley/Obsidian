@@ -1,0 +1,45 @@
+# Notes
+- Describe the governance structure of the University with respect to the data structure
+	- There is no written action, there is a procedure that is complete, but nothing written down. He presents to the board twice a year, on what is most vulnerable at Messiah. The board decides what is worth implementing and not to worry about money.
+- What are they expecting you to report on
+	- Any attacks? Any data loss? Any deficiencies? Any recommendations
+- Does the University have a CIO?
+	- No, used to.
+- Cyber team?
+	- Just him, a work study.
+- You report to the VP of finance?
+	- Yes, no longer under the provost office.
+- No chief information officer at Messiah?
+	- Yes.
+- ETS vs ATS?
+	- ETS reports to provost office, handles desktops and end user systems
+		- Helpdesk
+	- ATS reports to the finance VP, handling servers, networks and internet.
+		- Canvas
+- What was your last update to the board?
+	- Real audit, then yes. It is confidential.
+- When you receive info form the board what do you have to do?
+	- The board only recommends what I do, no direct governance. The cabinet decides if they should or should implement a governance recommendation. Cabinet mainly decides for recommendations that require money.
+- Who signs off on a new project?
+	- The cabinet through the CFO if they have the money
+- Who is the cabinet? How many people are on the cabinet?
+	- 7 CFO Provost, head of HR, head of admissions, head of diversity, head of ___, KP
+- How are all of these people related to what we are trying to do?
+	- As a whole many minds can sometimes make a better decision when it comes to the University as a whole.
+- What makes it to the cabinet / need cabinet approval?
+	- We have two in place, one is MFA, and the other is insurability (ties to MFA/backups). When it affects capital / money, the cabinet needs to approve it. Security issues do not usually make it to the cabinet, but when ransomware is involved it makes it to the cabinet.
+- Is oakwood involved?
+	- Oakwood is out of scope.
+	- In a roundabout way it does fall into scope, the users in there fall into our domain.
+- What sites?
+	- Messiah, Graduate building (winding hill), Grantham church / not their offices. Have a contract with the church to supply hardware support, internet, etc. 
+	- Printing press (down the road)
+	- Presidents house (orchard hill)
+- Contract?
+	- Our only liability is to protect their systems, which are already in our domain, we would likely be financially responsible for attacks.
+- Is anyone in oakwood not affiliated with Messiah?
+	- Yes, there are residential building for the public
+- Is Oakwood involved in reports for the board?
+	- No, not involved in Messiah.
+	- We have nothing to do with physical protection in Oakwood.
+- 

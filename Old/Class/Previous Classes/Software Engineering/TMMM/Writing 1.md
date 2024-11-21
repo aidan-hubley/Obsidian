@@ -1,0 +1,27 @@
+# The Mythical Man-Month
+## Essays on Software Engineering
+### by Fredrick P. Brooks, Jr.
+
+## 1. The Tar Pit
+### A ship on the beach is a lighthouse to the sea
+The tar pit swallow everything, no matter the size nor the strength of it's victim. "Large-system programming has over the past decade been such a tar pit, and many great and powerful beasts have trashed violently." (page 4) The stickiness of the tar pit seems to have surprised it victim, in this case, system programming. The way I see it, we inherently underestimate what it takes to truly produce a product. Whether means running the program, testing the product, repairing the product, or extending the product. It must be written in a "generalized fashion.... Finally, promotion of a program to a programming product requires its thorough documentation." (page 6) Essentially, it is extremely easy to become stuck in the mud when it comes to, likely, underestimating the steps it takes to create a system programming. However, there are also joys within this craft. 
+
+Mr. Brooks first suggestions that a joy of programming is to simply the joy of construction. I very much relate with this. Nearly all of my pleasure or enjoyment that comes from programming is truly coming from the satisfaction of creating something. He goes on to elaborate that creating something to benefit others can be more enjoyable, I would agree with this, but I have yet to directly experience it. Finally, Brooks states "there is the delight of working in such a tractable medium. The programmer, like the poet, works only slightly removed from pure thought stuff." (page 6) This speaks very true for me. Having access to nearly directly document my thought process in such a flexible, easily polished medium is very important to my enjoyment. With all that in consideration, there exists also struggles within the craft.
+
+This craft, programming, necessitates perfection. A single incorrect character, break, mistake, will halt production. People, and therefore programmers, are not built for perfection. Also, a programmer within a team must depend on their teammate's ability and competency to program. When co-workers fail to properly document, implement, or deliver, extra time is required to study and fix things. Next, "With any creative activity come dreary hours of tedious, painstaking labor, and programming is no exception." Spending any amount of extra time to find bugs, is tedious and draining, at least when compared to the creative life giving activity of programming. 
+
+Programming is both a tar pit in which many creative moments have come to die and a creative activity full of joyful moments. 
+
+## 2. The Mythical Man-Month
+### Good cooking takes time. If you are made to wait, it is to serve you better, and to please you
+Like previously stated we tend to massively under estimate our product. But why is this so common? First the way we estimate is poor, specifically we tend to confuse effort and progress, hiding the assumption that men and months are interchangeable. Our fatal flaw, in my opinion, that when we recognize that our schedule is falling behind we tend to respond in adding manpower. "Like dousing a fire with gasoline, this makes matters worse, much worse. More fire requires more gasoline, and thus begins a regenerative cycle which ends in disaster." (page 14) 
+
+We tend to be optimist, which I very much am, and we tend to assume all will go well. This is something I tend to assume. This point that Brooks is making feels awfully like a personal attack to me.
+
+In computer programming, we create with an extremely tractable medium. "The programmer builds from pure thought-stuff: concepts and very flexible representations thereof. Because the medium is tractable, we expect few difficulties in implementation; hence our pervasive optimism. Because our ideas are faulty, we have bugs; hence our optimism is unjustified." (page 15) The difference between the tractable medium and concepts is relatively minimal, which leads to a small margin for error within implementation. Our concepts are the source of error, bugs come from incomplete concepts. This faultiness is the reason our optimism is unjustified. 
+
+Another prime example of fallacious thought comes through the unit of effort: the man-month. "Cost does indeed vary as the product of the number of men and the number of months. Progress does not. Hence the man-month as a unit for measuring the size of a job is a dangerous and deceptive myth." (page 16) This mystical unit, the man-month, implies that men and months are interchangeable. This is true, but only when a task can be partitioned among workers without communication between them. An example of workers in field fits this description very well, however when working with system programming is it not relevant. 
+
+The man-month understanding changes when the tasks cannot be divvied up because of sequential constraints. The addition in effort has no effect on the schedule. The sequential nature of debugging inherently constrains that ability to work independently. 
+
+In conclusion, although a drastic oversimplification, Brooks's Law states "Adding manpower to a late software project makes it later." The total time table of a project depends on the order in which tasks must be done. The maximum number of workers depends entirely on the number of individual subtasks. 

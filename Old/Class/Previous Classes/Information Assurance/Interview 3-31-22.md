@@ -1,0 +1,60 @@
+# Notes
+- How do you know what physical and software assets are a part of Messiah's network?
+	- Software: 3 ways
+		- SCCM to track software updates for Windows machines
+			- System Center Configuration 
+			- Software to patch machines in a Microsoft environment
+		- Adigy
+			- Same for Mac, does not run flawlessly
+		- Aruba (Access Control Manager)
+			- All wireless devices connect to through wifi access points, creates user profiles based on machine info, also gives access through these profiles
+			- How is it different from hardwire?
+				- Registered devices through the port, creates another profile
+				- Still makes it to Grey Log but through a different way
+				- Devices are registered through Aruba but it gets the info from the physical switch afterwards
+					- Ask Tony Wyland about the Core Switch
+		- All feeds into the SIEM - **Grey Log**
+			- shows all devices, can associate users with devices from there
+- Note: Only location based permission problems are accessing Oracle Cloud through Dorm rooms.
+- You can attempt to guess anyone's password for as long as you want to, nothing at Messiah will stop you, "You could sit there and bang on it all day"
+	- Vinny said something to write down
+	- Only control to mitigate that is that he is monitoring logs
+	- There is an alert system that goes off after it is **guessed 100 times**
+	- Did the user just have a password change? Then it will spike
+- Min Password length: 10 (should be 14)
+- Max Password length: 30
+- With respect to IT devices, how does the University track inventory?
+	- Non PC related devices are in a self made database, updated when new machines are purchased
+		- Monitor, PC, router are also in that database but also in___
+	- SCCM also tracks PC hardware
+	- What info is kept about each device?
+		- Serial number, warranty, date of purchase, expiration date
+		- Macs: 6 year cycle
+		- PCs: 4 year cycle
+- What suggests that something is tracked as inventory?
+	- Messiah owned devices are inventoried.
+	- Help desk owns all non pc devices.
+- Servers go through Tony Wyland's department (T com), as well as routers switches, 
+- Most attacks are typically SMTP, floating time and restriction lockout mean you could try my ID with 100 different passwords, Microsoft would lock you out for some time, then Microsoft would allow 5 more attempts before locking you out again
+- When people's accounts are hacked leading to fishing emails it is almost always SMTP attacks.
+- Advanced Persistent Row
+- No lockout because of a technically problem with Single Sign one through wireless connection
+- Dual homing
+	- Ethernet device that have more than one network device, now with wireless as well
+- How often do you encounter rouge access points?
+	- Everyday, more so spring and fall semester because students bring their own routers (not allowed)
+	- Not having a policy 
+- Printers?
+	- All are hardwired, inventoried in the main database, controlled by the printing press, all are leased by another company
+	- Stored data, all is encrypted at rest.
+		- With Messiah ID data is accessible
+	- Any Policies?
+		- Yes,
+	- How often is data deleted?
+		- When the machine is out of service
+		- Best practice for storing sensitive info on printers to be deleted immediately after use
+	- Once a print job is completed, is the data still locally stored?
+		- Yes
+		- Only purged when the printer is out of service?
+			- Yes but the storage is also finite, will delete the oldest first
+	- All based on the manufacturers policies and how they handle data
