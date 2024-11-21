@@ -1,4 +1,5 @@
 https://gemini.google.com/app/32f0c35a32e3f257
+[[Details.canvas|Details]]
 ### Key Features
 - [[Rune System]]: 
 	- Uncover and combine runes to create unique spells and abilities. Strategically choose your rune combination to overcome obstacles and defeat foes.

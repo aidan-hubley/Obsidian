@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f006b58ad017905e",
+        "id": "74dd5c01e405f351",
         "type": "tabs",
         "children": [
           {
-            "id": "3f062ba3e37e2df5",
+            "id": "cf447028fbd2b5e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "BA Classes/American Pop Music/0. Terms to Know 8-25-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Terms to Know 8-25-22"
             }
           }
         ]
@@ -169,16 +173,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f062ba3e37e2df5",
+  "active": "cf447028fbd2b5e4",
   "lastOpenFiles": [
+    "BA Classes/American Pop Music/7. Tin Pan Alley.md",
+    "BA Classes/American Pop Music/8. Early Country Music.md",
+    "BA Classes/American Pop Music/Coldplay Concert 09-25-22.md",
+    "BA Classes/American Pop Music/0. Terms to Know 8-25-22.md",
+    "Work/SOC Hub/Excalidraw/accounts_dataflow.excalidraw.md",
+    "Work/SOC Hub/Excalidraw/auth_access.excalidraw.md",
+    "Work/SOC Hub/Excalidraw/dev_workflow_v1.excalidraw.md",
+    "Work/EDU+ International/Interview with Jason Shortall (Katapult).md",
+    "Work/EDU+ International/Interview with David Millary.md",
+    "PC Build/Parts.md",
+    "PC Build/Expenses.md",
+    "Game Dev/Rune Rogue/Rune System.md",
+    "Game Dev/Rune Rogue/Pitch.md",
+    "Game Dev/Rune Rogue/Details.canvas",
     "2024 Bingo Card.md",
     "Notes.md",
     "Work/Resume/Untitled.md",
     "Notes for Car.md",
     "Notes for Tonight.md",
     "Old/Untitled.md",
-    "PC Build/Expenses.md",
-    "PC Build/Parts.md",
     "Work/Job Applications/Diversity Statement.md",
     "Old/Game/PS%/PS5 upgrade.md",
     "Old/Game/PS%/Pasted image 20221006225047.png",
@@ -189,18 +205,7 @@
     "BA Classes/Final's Fall `21/Love Letter to Galaxy Buds.md",
     "BA Classes/Final's Fall `21/Server Administration.md",
     "BA Classes",
-    "BA Classes/Short Story/What Makes A Story + The Outing 8-26-22.md",
-    "BA Classes/Short Story/Week 10 Reading Response.md",
-    "BA Classes/Short Story/Midterm.md",
-    "BA Classes/Short Story/Walking away from Omales.md",
-    "BA Classes/Short Story/Plot + Gooseberries.md",
-    "BA Classes/Short Story/Is Mr. Chiu Responsible.md",
-    "BA Classes/Short Story/Alternative Assignment - 90.md",
-    "BA Classes/Short Story/8-29-22 + The Pale King + Short Conversation (In Airport Departure Lounge).md",
     "BA Classes/Short Story",
-    "BA Classes/Mobile App Design/Requirements Doc 1-18-2022.md",
-    "BA Classes/Mobile App Design/Project Developement 2-17-22.md",
-    "BA Classes/Mobile App Design/Mobile Notes 1-13-2022.md",
     "BA Classes/Mobile App Design",
     "BA Classes/Discrete Math",
     "BA Classes/Bible Test Questions",
@@ -216,7 +221,6 @@
     "BA Classes/Network Security/Class/images/Pasted image 20230417133507.jpg",
     "BA Classes/Network Security/Class/images/Pasted image 20230320130216.png",
     "BA Classes/Network Security/Class/images/Pasted image 20230217133823.jpg",
-    "BA Classes/Network Security/Class/images/Pasted image 20230217132117.png",
-    "Game Dev/Rune Rogue/Untitled.canvas"
+    "BA Classes/Network Security/Class/images/Pasted image 20230217132117.png"
   ]
 }
