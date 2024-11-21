@@ -1,3 +1,4 @@
+#DataCommNetworking
 # 3.1 Questions
 
 1. You're installing network wiring for a new Ethernet network at your company's main office building. The project specifications call for Cat 5e UTP network cabling and RJ45 wall jacks. Near the end of the project, you run out of wire before the last few runs are complete. You have a spool of Cat 3 network cable in storage. Upon closer inspection, it appears very similar to the Cat 5e wiring. To finish the project, should you use the Cat 3 cabling as a substitute for the Cat 5e cabling?

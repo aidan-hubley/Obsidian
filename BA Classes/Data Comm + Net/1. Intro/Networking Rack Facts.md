@@ -1,3 +1,4 @@
+#DataCommNetworking
 # Network Rack Overview
 A network rack/server rack, is a metal frame designed to hold several networking components, such as servers, switches, patch panels, UPSs, and more. Those racks make it convenient to store and work with these types of devices.
 

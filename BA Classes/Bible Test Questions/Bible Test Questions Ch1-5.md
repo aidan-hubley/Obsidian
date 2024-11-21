@@ -1,3 +1,4 @@
+#BibleClass
 # 1. According to the author, what should be the “first steps” a person should take in interpreting the bible? (Book)
 1. Know the ancient Hebrew / Greek docs that make the Bible are translated into modern languages, this translation poses for transmission of meaning to modern readers
 2. Recognize how the biblical docs were written, transmitted and finally collected into the anthology of texts called Bible / Scripture

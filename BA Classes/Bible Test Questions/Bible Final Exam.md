@@ -1,3 +1,4 @@
+#BibleClass
 # Directions: (all are in files in Canvas)
 1. Choose TWO passages from EACH of the two lists below
 2. Using the basic Bible Study method learned in class ("What does the text SAY," "What does the text MEAN," "How do I APPLY the text to my life?"), exegete (explain and discuss) each of the passages you have chosen.

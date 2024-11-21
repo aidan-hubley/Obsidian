@@ -1,3 +1,4 @@
+#BibleClass
 # 1. Discuss in detail what Cosby says were "the developing Jewish beliefs about the laws of Moses."
 1. As the Mosaic Laws became central to jewish life, the claims made about them became more exalted. Paradoxically the influence from greek philosophy, which spread around the Mediterranean world after Alexander the Great conquered the entire region, played an indirect role in this development.
 2. Philosphers such as Plato understood the ultimare God to be a non-phyiscal, existing outside of time and having no direct connecction with the physical universe. They believed that a lesser deity, an intermediary called the Demiurge, created the universe. Although Jewsih teachers rejected this notion and asserted that God created the world, their writing reveal an increasingly elavated view of God - a movement away from the people as described in some chapters of Gensis.

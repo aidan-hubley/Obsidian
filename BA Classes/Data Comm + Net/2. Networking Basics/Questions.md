@@ -1,3 +1,4 @@
+#DataCommNetworking
 # 2.1.7 Questions
 1. You've implemented a network where hosts are assigned specific roles, such as file sharing and printing roles. Other hosts access those resources, but they don't host services of their own. Which type of network do you have?
 	1. Client-server

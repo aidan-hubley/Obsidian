@@ -1,3 +1,4 @@
+#BibleClass
 # 1. Discuss in detail at least five of what you consider to be the most significant of Cosby's "Suggestions for Interpreting Biblical Stories" (Book)
 1. **Read the whole story**
 	1. Avoid de-contextualizing. Interpret verses or paragrpahs on cotentex.
