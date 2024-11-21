@@ -1,4 +1,4 @@
-#MBA #BusinessAnalytics 
+#BusinessAnalytics 
 - [[HBR Guide to Data Analytics]] 
 - [[Naked Statistics]] 
 - [[Analytics at Work]]

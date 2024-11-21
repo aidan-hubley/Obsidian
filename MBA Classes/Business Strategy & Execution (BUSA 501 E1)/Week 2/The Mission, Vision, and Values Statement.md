@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution
+#BusinessStrategyExecution
 ### Mission, Vision, and Values: The Foundation of a Company's Strategy
 
 - **Mission Statement:** Defines the company's purpose and reason for existence.

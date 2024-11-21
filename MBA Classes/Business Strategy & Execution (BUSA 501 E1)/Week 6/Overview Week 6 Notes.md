@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution
+#BusinessStrategyExecution
 ## Effective Execution of Strategy
 - Management must build into the organization people, capabilities, and structure and then supply them with ample resources
 - Policies and procedures must be supportive of the strategy

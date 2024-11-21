@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution
+#BusinessStrategyExecution
 - Intro
 - Aidan Hubley
 - Messiah University

@@ -1,4 +1,4 @@
-#MBA #BusinessAnalytics
+#BusinessAnalytics
 - Microsoft Excel w/ Power Query is required
 
 #### [[Required Books]]

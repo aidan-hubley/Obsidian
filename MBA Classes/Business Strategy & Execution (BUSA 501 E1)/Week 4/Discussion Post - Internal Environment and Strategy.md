@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution 
+#BusinessStrategyExecution 
 1. Discuss the way in which a company's resources, capabilities, and value chain activities affect competitive advantage.
 2. Rumelt (chapter 12) discusses "interesting advantages" and "value creating changes." Apply these concepts to Messiah University
 	1. "For an advantage to be sustained, your competitors must not be able to duplicate it" (163)

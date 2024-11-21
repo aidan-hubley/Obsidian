@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution
+#BusinessStrategyExecution
 ## Assignments:
 - [[Case Study - Beyond Meat]]
 

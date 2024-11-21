@@ -1,4 +1,4 @@
-#MBA #BusinessAnalytics
+#BusinessAnalytics
 ### Required Readings:
 - [[HBR Guide to Data Analytics]] (Ch 17, 18, 19)
 - [[Naked Statistics]] (Ch 5, 6) 

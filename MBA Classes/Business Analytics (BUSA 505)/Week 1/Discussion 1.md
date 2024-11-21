@@ -1,4 +1,4 @@
-#MBA #BusinessAnalytics
+#BusinessAnalytics
 ### Rate Yourself on Key Business Analyst Skills & Benefits of Being Analytical
 
 **Part 1:**  Not to exceed 200 words please rate yourself on a scale from 1-5 on each of the following characteristics.  Then, to help your fellow classmates, for those items that you grade yourself a 4 or higher at, what helped you get there?  And last but not least, pick the one or two areas you want to improve the most at.  In at least one of your response posts for part 2 of this assignment look for a fellow classmate who scores well in this area and, if you think something they said helps you thank them for it and feel welcome to ask each other additional questions to foster growth throughout the course.  For any areas where the entire class feels they need to improve l'll provide a few pointers in a follow-up video and/or during one of our mid-semester Zoom sessions.  Here are the characteristics:

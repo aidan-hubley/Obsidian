@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution 
+#BusinessStrategyExecution 
 -- page 38-48 --
 ## 1. Competitive Force of Buyer Bargaining Power
 

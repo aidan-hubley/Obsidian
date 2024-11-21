@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution
+#BusinessStrategyExecution
 ###### Links:
 [Assignment](https://messiah.instructure.com/courses/2025718/assignments/18635440?module_item_id=39699178)
 [Slideshow](https://docs.google.com/presentation/d/1ETqigMVf-InSaaC6Hg-cRZuEW3_rWW1ZNOO35BaIdUY/edit#slide=id.g30c2f9f07d6_0_440)

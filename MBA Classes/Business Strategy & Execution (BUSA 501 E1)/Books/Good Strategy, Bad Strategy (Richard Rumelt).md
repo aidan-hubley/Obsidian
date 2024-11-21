@@ -1,1 +1,1 @@
-#MBA #BusinessStrategyExecution
+#BusinessStrategyExecution

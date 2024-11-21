@@ -1,4 +1,4 @@
-#MBA #BusinessAnalytics
+#BusinessAnalytics
 In an original post (not to exceed 250 words) describe how your organization currently uses business analytics and where it can improve. Be as specific as possible.
 
 Then respond to 2 of your colleagues' posts (250 word limit post), challenging assumptions and pressing the conversation deeper. Use the literature, both provided in the course and through your own research, to support your ideas.  You are required to post a minimum of 3 times.

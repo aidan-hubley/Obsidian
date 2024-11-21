@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution
+#BusinessStrategyExecution
 ## Readings for next week
 - [[Essentials of Strategic Management (Gamble, Peteraf, Thompson)]]
 	- Ch 10 

@@ -1,4 +1,4 @@
-#MBA #BusinessStrategyExecution
+#BusinessStrategyExecution
 ## The Process for Evaluating the External Environment
 1. Are macro-environment and industry characteristics enabling market participants growth and profitability?
 2. What competitive forces exist in the industry?
