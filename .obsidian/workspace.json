@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b77016410d39a333",
+        "id": "641bbcb6f01eabff",
         "type": "tabs",
         "children": [
           {
-            "id": "d4189923f8f6a5bc",
+            "id": "80175d1600259d26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BA Classes/DB Concepts/Book/Chapter 1 An Introduction to Relational Databases/3. Use SQL from an Application Program.md",
+                "file": "BA Classes/Digital Forensics/1-16-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Use SQL from an Application Program"
+              "title": "1-16-24"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 327.5
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -173,34 +173,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4189923f8f6a5bc",
+  "active": "80175d1600259d26",
   "lastOpenFiles": [
-    "BA Classes/DB Concepts/Book/Chapter 1 An Introduction to Relational Databases/2. Intro to SQl and SQL-Based Systems.md",
-    "BA Classes/DB Concepts/Book/Chapter 1 An Introduction to Relational Databases/1. Intro to Relational Databases.md",
-    "BA Classes/Database Security/DBMS Research - Roles.md",
-    "BA Classes/Database Security/Cloud Computing.md",
-    "BA Classes/Database Security/Chapter 9 Security Auditing.md",
-    "BA Classes/Database Security/1-10-23.md",
-    "BA Classes/Database Security/Web Dev/3. Server Side Development.md",
-    "BA Classes/Database Security/Web Dev/2. Intro to CSS.md",
-    "BA Classes/Database Security/Web Dev/1. Intro to HTML.md",
-    "BA Classes/Database Security/SQL Injections/Understanding SQL Injections.md",
-    "BA Classes/Database Security/SQL Injections/Exploitation and Defense.md",
-    "BA Classes/Database Security/Chapter 6/Password, Profiles, Privileges, and Roles.md",
-    "BA Classes/Database Security/Presentations/Microsoft SQL Server.md",
-    "BA Classes/Database Security/Chapter 1/Chapter 1.md",
-    "BA Classes/Database Security/Attack News/1. 1-16-23.md",
-    "BA Classes/Data Structures + Algorithms/Stack 2-7-22.md",
-    "BA Classes/Data Structures + Algorithms/Trees 3-14-22.md",
-    "BA Classes/Data Structures + Algorithms/Software Quality.md",
-    "BA Classes/Data Structures + Algorithms/Searching & Sorting 1-31-2022.md",
-    "BA Classes/Data Structures + Algorithms/Red-Black Tree.md",
-    "BA Classes/Data Structures + Algorithms/Recursion 2-28-22.md",
-    "BA Classes/Data Structures + Algorithms/Queues 2-4-22.md",
-    "BA Classes/Data Structures + Algorithms/Object Oriented Programming.md",
-    "BA Classes/Data Structures + Algorithms/Matrix Addition + Multiplication.md",
-    "BA Classes/Data Structures + Algorithms/Binary Search Tree.md",
-    "BA Classes/Data Structures + Algorithms/AVL Trees 3-30-22.md",
+    "BA Classes/DB Concepts/Final Prep.md",
+    "BA Classes/DB Concepts/Class/Unit 8/4. Concurrent Access and Locking.md",
+    "BA Classes/DB Concepts/Class/Unit 8/3. Backup and Recovery.md",
+    "BA Classes/DB Concepts/Class/Unit 8/2. Database Security.md",
+    "BA Classes/DB Concepts/Class/Unit 8/1. Data and Database Administration.md",
+    "BA Classes/DB Concepts/Class/Unit 6/1. Stored Program Development.md",
+    "BA Classes/DB Concepts/Class/Unit 5/2. Functional Dependencies.md",
+    "BA Classes/DB Concepts/Class/Unit 5/3. Candidate Keys.md",
+    "BA Classes/DB Concepts/Class/Unit 5/4. Second Normal Form.md",
+    "BA Classes/DB Concepts/Class/Unit 5/5. Third Normal Form.md",
+    "BA Classes/DB Concepts/Class/Unit 5/6. De-normalization.md",
+    "BA Classes/DB Concepts/Class/Unit 5/7. Summary.md",
+    "BA Classes/DB Concepts/Class/Unit 5/1. First Normal Form.md",
+    "BA Classes/DB Concepts/Class/Unit 5/0. Intro to Normalization.md",
+    "BA Classes/DB Concepts/Class/Unit 4/6. Object-Oriented Data Modeling.md",
+    "BA Classes/DB Concepts/Class/Unit 4/5. Advanced Data Modeling.md",
+    "BA Classes/DB Concepts/Class/Unit 4/4. Data Dictionary.md",
+    "BA Classes/DB Concepts/Class/Unit 4/3. Attributes.md",
+    "BA Classes/DB Concepts/Class/Unit 4/2. Entity + Relationships.md",
+    "BA Classes/DB Concepts/Class/Unit 4/1. Data Modeling.md",
+    "BA Classes/DB Concepts/Class/Unit 3/5. Data Types.md",
+    "BA Classes/DB Concepts/Class/Unit 3/4. Correlated Subqueries.md",
+    "BA Classes/DB Concepts/Class/Unit 3/3. Subqueries.md",
+    "BA Classes/DB Concepts/Class/Unit 3/2. Summary Queries.md",
+    "BA Classes/DB Concepts/Class/Unit 3/1. Full Table Summaries.md",
+    "BA Classes/DB Concepts/Class/Unit 2/3. Modification Commands.md",
     "BA Classes/Ancient Rome/Blue Stars/images/Pasted image 20230221183050.png",
     "Game Dev/Rune Rogue/Details.canvas",
     "Old/Game/PS%/Pasted image 20221006225047.png",
