@@ -1,3 +1,4 @@
+#Terrorism
 # Why Does Terrorism Begin?
 - Lack / deprivation of resources
 - Ideology

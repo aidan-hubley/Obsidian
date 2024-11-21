@@ -1,3 +1,4 @@
+#SOC
 # Allen's Top 4 Dashboards
 - Authentication Results
 - Suricata

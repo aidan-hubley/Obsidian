@@ -1,3 +1,4 @@
+#Psychology
 # Psychological Disorders
 - Mental health workers view **psychological disorders** as persistently harmful thoughts, feelings, and actions
 - When behavior is **deviant, distressful, and dysfunctional** psychiatrists and psychologists label it as disordered

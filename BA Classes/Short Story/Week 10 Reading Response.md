@@ -1,3 +1,4 @@
+#ShortStory
 1. Does it make moral sense for the mother to hide the truth from
 	1. Keith about what he's done? Is it just? Why or why not? I believe, if her true reasoning is to protect her husband, she is forced to make an immoral decision. It is hard to fully describe, but to me, I'd suggest that in protecting Keith from this truth, she is in fact telling a lie. A lie, not in her words but in her actions. This façade that she decides to put on does nothing but allows her to continue the lie, the truth is kept from him. I understand her reasoning, but I do not believe it to be just. In my perspective, Keith should know.  
 

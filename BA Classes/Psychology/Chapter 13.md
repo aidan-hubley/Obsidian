@@ -1,3 +1,4 @@
+#Psychology
 # Personality
 - **Personality**: A person's unique and relatively stable behavior patterns; the consistency of who you are, have been, and will become
 - Personality psychologists aim to understand the ways in which, and reasons why, people **differ**

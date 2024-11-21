@@ -1,3 +1,4 @@
+#ShortStory
 1. How is this class going for you? Are you enjoying the stories we've read and discussed so far?
 	1. This class is my most reliable class, and for that, I am very grateful. I can successfully predict that after every class time I am expected to read a short story for the next class time. I am relatively enjoying the stories that we read in class, more so I am enjoying the conversations/discussions that are held after reading the stories. I don't mind reading in general, although it is definitely not my strong suit, I simply prefer to hear what others have to say and how their interpretations differ from mine. Overall, I think the class is going very well for me, although I believe I can participate more in class discussions.
 

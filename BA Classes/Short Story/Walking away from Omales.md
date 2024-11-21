@@ -1,3 +1,4 @@
+#ShortStory
 Analogy for?
 - A skeleton(s) in Society's closet
 - Poor people suffer without help while society seems perfect

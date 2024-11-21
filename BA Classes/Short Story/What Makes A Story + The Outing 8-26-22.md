@@ -1,3 +1,4 @@
+#ShortStory
 # Freewriting: What makes a story?
 ## What does a story need to have to be a story?
 

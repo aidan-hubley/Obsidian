@@ -1,3 +1,4 @@
+#Terrorism
 Assignment:  analyze, develop and submit a case study on a terrorist group. 
 
 Content: Papers should assess the terrorist group using the analytical framework, the sequence does not need to be followed precisely.  

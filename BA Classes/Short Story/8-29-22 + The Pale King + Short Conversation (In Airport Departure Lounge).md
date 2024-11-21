@@ -1,3 +1,4 @@
+#ShortStory
 # What is Close Reading
 Close reading is a process of interpretation that is aimed at noticing details in a text, more often than not, minor details, as a way of thinking about what the text as a whole means.
 1. Observe: read slowly and carefully and see what stands out to you

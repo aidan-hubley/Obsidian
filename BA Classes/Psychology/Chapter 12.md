@@ -1,3 +1,4 @@
+#Psychology
 # Social Psychology
 - Scientific studies of how individuals behave, think, and feel in social situations; how people act in the presence (actual or implied) of others
 - **Need to Affiliate**: Desire to associate with other people; appears to be a basic human trait

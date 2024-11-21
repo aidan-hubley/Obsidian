@@ -1,3 +1,4 @@
+#Psychology
 - **Cognition** - Mental processing information (images, concepts, etc); thinking
 - **Cognitive Psychology** - is the study of human information processing
 	- The basic unit of thoughts are images, concepts, - language 

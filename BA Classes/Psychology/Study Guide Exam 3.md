@@ -1,3 +1,4 @@
+#Psychology
 Cognition - mentally processing information (images, concepts); thinking
 Cognitive Psychology - Psychology is the study of human information processing
 Images - picture-like mental representations

@@ -1,3 +1,4 @@
+#ShortStory
 # How do we Define Plot?
 - Most simply, as a series of events
 	- "The arrangement of the incidents" ([Aristotle], Poetics)

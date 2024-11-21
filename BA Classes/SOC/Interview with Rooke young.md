@@ -1,3 +1,4 @@
+#SOC
 # Questions & Answer
 1. You attend Missouri University? What made you seek out a minor in Computer Science?
 	1. Graduated in May 2022

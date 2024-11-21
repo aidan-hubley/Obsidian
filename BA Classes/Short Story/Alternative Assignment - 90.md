@@ -1,3 +1,4 @@
+#ShortStory
 1. How does gender influence the story as a whole? How does it impact the plot or character dynamics?
 	 - Gender seemingly does little to nothing to impact the story as a whole, nor does influence any specific character dynamics. It could be worth noting that, without a specific character, who is male, there would be no glorious city of Omelas. Also worth noting, it is said that this child, could be male or female, but is portrayed as male.
 

@@ -1,3 +1,4 @@
+#SOC
 # Content
 ## Appropriate Details to Gain Attention
 - Name of Organization: Cyber Center's Security Operations Center

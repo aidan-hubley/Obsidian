@@ -1,3 +1,4 @@
+#Terrorism
 ###### Recent Report: 
 - White House Statement in response to 9/11, released every year
 - Amended (by Trump administration) to strengthen and consolidate sanctions to combat the continuing threat posed by international terrorism
