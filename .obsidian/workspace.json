@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74dd5c01e405f351",
+        "id": "1d50ecb166988439",
         "type": "tabs",
         "children": [
           {
-            "id": "cf447028fbd2b5e4",
+            "id": "452b277eed628ca2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BA Classes/American Pop Music/0. Terms to Know 8-25-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Terms to Know 8-25-22"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,11 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf447028fbd2b5e4",
+  "active": "452b277eed628ca2",
   "lastOpenFiles": [
-    "BA Classes/American Pop Music/7. Tin Pan Alley.md",
-    "BA Classes/American Pop Music/8. Early Country Music.md",
+    "BA Classes/DB Concepts/Book/Chapter 9 How to Use Functions/4. Other functions you should know about.md",
+    "BA Classes/American Pop Music/The Cats Jazz Concerts 11-12-22.md",
     "BA Classes/American Pop Music/Coldplay Concert 09-25-22.md",
+    "BA Classes/American Pop Music/8. Early Country Music.md",
+    "BA Classes/American Pop Music/7. Tin Pan Alley.md",
+    "BA Classes/American Pop Music/6. Early Jazz.md",
+    "BA Classes/American Pop Music/5. Ragtime.md",
+    "BA Classes/American Pop Music/4. Brass Bands (1860s - 1910s).md",
+    "BA Classes/American Pop Music/3. Stephen Foster (1826 - 1864).md",
+    "BA Classes/American Pop Music/2. Minstrelsy.md",
+    "BA Classes/American Pop Music/1. The Source of Tradition.md",
     "BA Classes/American Pop Music/0. Terms to Know 8-25-22.md",
     "Work/SOC Hub/Excalidraw/accounts_dataflow.excalidraw.md",
     "Work/SOC Hub/Excalidraw/auth_access.excalidraw.md",
@@ -194,16 +198,8 @@
     "Work/Resume/Untitled.md",
     "Notes for Car.md",
     "Notes for Tonight.md",
-    "Old/Untitled.md",
-    "Work/Job Applications/Diversity Statement.md",
-    "Old/Game/PS%/PS5 upgrade.md",
     "Old/Game/PS%/Pasted image 20221006225047.png",
     "Old/Game/PS%/Pasted image 20221006224440.jpg",
-    "Old/Game/Create Astral/Untitled.md",
-    "BA Classes/Bible Test Questions/Bible Final Exam.md",
-    "BA Classes/Final's Fall `21/IT Management Video.md",
-    "BA Classes/Final's Fall `21/Love Letter to Galaxy Buds.md",
-    "BA Classes/Final's Fall `21/Server Administration.md",
     "BA Classes",
     "BA Classes/Short Story",
     "BA Classes/Mobile App Design",

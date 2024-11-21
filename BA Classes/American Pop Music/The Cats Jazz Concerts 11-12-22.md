@@ -1,3 +1,4 @@
+#AmericanPopMusic
 I attended the jazz concert in the Larson Student Union at 8:30pm on 11/12/22. This concert featured The Cats. The Cats consist of my dear friend Eli Whitehead-Zimmers on Cello, Tyler Greene on the accordion, Tea Paris in the drum kit, Josiah Provan on the keys, Hanna on the alto saxophone, and Joseph on the double bass.
 
 There first song featured an initial solo from Hanna(sax), followed by a very groovy solo from Josiah(keys). Joseph on the double bass played a beautiful solo, followed by Eli's solo on the cello.
