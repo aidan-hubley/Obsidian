@@ -1,1 +1,1 @@
-#MBA #BusinessAnalytics
+#BusinessAnalytics
