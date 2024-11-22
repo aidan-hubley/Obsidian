@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29e0c75fe55e38f6",
+        "id": "f006b58ad017905e",
         "type": "tabs",
         "children": [
           {
-            "id": "d75e426be8b6cf13",
+            "id": "3f062ba3e37e2df5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MBA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,54 +171,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d75e426be8b6cf13",
+  "active": "3f062ba3e37e2df5",
   "lastOpenFiles": [
-    "BA Classes/Data Comm + Net/5. Ethernet/images/Pasted image 20221104182315.png",
-    "BA Classes/Database Security/Web Dev/images/Pasted image 20230207104824.png",
-    "BA Classes/DB Concepts/Book/Chapter 4 How to Retrieve Data from Two or More Table/images/Pasted image 20220912233525.png",
-    "BA Classes/Psychology/Course Info.md",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/1. Switching.md",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/Questions.md",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/2. Basic Switch Configuration.md",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/images/Pasted image 20221127130733.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Books/Analytics at Work.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Books/HBR Guide to Data Analytics.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Books/Naked Statistics.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Books/Required Books.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Quiz 1.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Overview of Week 1.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Discussion 1.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Initial Zoom Notes.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 1/Data Analysis and Business Intelligence Terms.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Quiz 2.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Overview of Week 2.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Notes.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 2/Discussion 2.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Zoom Call.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz 3.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Overview of Week 3.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Data Analysis Exercise Statistical Significance & Correlation.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Billy Beane Case Zoom Questions.md",
-    "BA Classes/Ancient Rome/Blue Stars/images/Pasted image 20230221183050.png",
-    "Game Dev/Rune Rogue/Details.canvas",
-    "Old/Game/PS%/Pasted image 20221006225047.png",
-    "Old/Game/PS%/Pasted image 20221006224440.jpg",
-    "BA Classes",
-    "BA Classes/Short Story",
-    "BA Classes/Mobile App Design",
-    "BA Classes/Discrete Math",
-    "BA Classes/Bible Test Questions",
-    "Work/SOC Hub/Excalidraw",
+    "Notes.md",
+    "Work/Res Life/ReApp 2/5. Role Model.md",
+    "Work/Res Life/ReApp 2/4. Differences.md",
+    "Work/Res Life/ReApp 2/3. Strengths.md",
+    "Work/Res Life/ReApp 2/2. Mission Contribution.md",
+    "Work/Res Life/ReApp 2/1..md",
+    "Work/Res Life/23' Fall/Getting to Know Rebekah.md",
+    "Work/Res Life/23' Fall/Icebreakers.md",
+    "Work/Res Life/23' Fall/Notes from SRA training.md",
+    "Work/SOC Hub/Excalidraw/timesheet_creation_v1.excalidraw.md",
+    "Work/SOC Hub/Excalidraw/auth_access.excalidraw.md",
+    "Work/SOC Hub/Excalidraw/dev_workflow_v1.excalidraw.md",
+    "Work/SOC Hub/Excalidraw/accounts_dataflow.excalidraw.md",
+    "Work/Res Life/What is Credit + Financial Success with SMART goals.md",
+    "Work/Resume/Untitled.md",
+    "Work/Res Life/Spring Mandatory Semester 1.md",
+    "Work/Res Life/SRA miniessay.md",
     "Work/Res Life/ReApp 2",
+    "Work/Res Life/Money.md",
+    "Work/Res Life/Solly 3rd Groups.md",
+    "Work/Res Life/RA Reapp.md",
+    "Work/Res Life/RA Role.md",
+    "Work/Res Life/Bingo Incident.md",
+    "Work/Res Life/Notes for the First Mandatory Meeting.md",
+    "Work/Res Life/24' Jan Meet Attendance.md",
+    "Work/Res Life/December Meeting.md",
     "Work/Res Life/23' Fall",
+    "Work/Job Applications/Personal Statement of Purpose.md",
+    "Work/SOC Hub/Excalidraw",
+    "Work/Resume",
+    "Work/Res Life",
     "Work/SOC Hub",
+    "Work/Job Applications",
     "Work/EDU+ International",
+    "Work",
+    "Game Dev/Rune Rogue/Details.canvas",
+    "BA Classes/Terrorism/October",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230131084810.jpg",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124090620.png",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085950.png",
-    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085240.png"
+    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085240.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230417133507.jpg",
+    "BA Classes/Network Security/Class/images/Pasted image 20230320130216.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230217132117.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230217133823.jpg",
+    "BA Classes/Network Security/Class/images/Pasted image 20230210132220.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230206133504.png",
+    "Game Dev/Rune Rogue/Untitled.canvas"
   ]
 }
