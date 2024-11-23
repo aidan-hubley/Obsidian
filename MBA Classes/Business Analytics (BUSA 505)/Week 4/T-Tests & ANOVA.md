@@ -25,7 +25,7 @@
 8. Is there a significant difference between the Treatment Group Results (week 6/8)?
 	1. Yes, p-value: 0.289285514. There is not a significant difference.
 9. Considering the results of Q6-8 now run a test that allows us to compare all weeks at the same time for the Treatment Group Results.  When describing what the result of this test means be sure to state it in a way that compares/contrasts the Q9 result vs the Q6-Q8 results where it makes sense to do so.  Let’s also see what this test shows us for the Placebo Group Results.
-	1. 
+	1. To compare the treatment group results across all weeks simultaneously, an **ANOVA** was performed. The ANOVA results indicate a significant difference in treatment results across the different weeks (p < 0.001). This confirms the findings from the pairwise t-tests in Q6-Q8, which identified specific differences between certain weeks. However, the ANOVA provides a more comprehensive overview by indicating that at least one week's results differ significantly from the others.
 10. Let’s try one final approach with these Treatment Group & Placebo Group Results. Please add an additional column to the tab within the spreadsheet that houses this data.  In that column, add up the results from weeks 2 through 8 for all of the respondents in both groups.  Now, compare the added up results for the Treatment Group and the Placebo Group.  Is there a significant difference between those who received the Placebo vs those who received the experimental drug treatment?
 	1. 
 
