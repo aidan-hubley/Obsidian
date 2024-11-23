@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "29e0c75fe55e38f6",
+        "id": "86fc15b5c833a8f4",
         "type": "tabs",
         "children": [
           {
-            "id": "d75e426be8b6cf13",
+            "id": "4f21b726edfd611c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Bingo Card.md",
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024 Bingo Card"
+              "title": "Overview of Week 4"
             }
           },
           {
-            "id": "3c0e6372f8345b07",
+            "id": "86c2cbae25b3d7f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping/Wish List.md",
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 4/Missed Zoom Makeup Assignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wish List"
+              "title": "Missed Zoom Makeup Assignment"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -175,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,11 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c0e6372f8345b07",
+  "active": "86c2cbae25b3d7f0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Missed Zoom Makeup Assignment.md",
     "Shopping/Wish List.md",
     "2024 Bingo Card.md",
+    "conflict-files-obsidian-git.md",
     "BA Classes/Data Comm + Net/5. Ethernet/images/Pasted image 20221104182315.png",
     "BA Classes/Database Security/Web Dev/images/Pasted image 20230207104824.png",
     "BA Classes/DB Concepts/Book/Chapter 4 How to Retrieve Data from Two or More Table/images/Pasted image 20220912233525.png",
@@ -218,8 +222,6 @@
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz 3.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Overview of Week 3.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Data Analysis Exercise Statistical Significance & Correlation.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
     "BA Classes/Ancient Rome/Blue Stars/images/Pasted image 20230221183050.png",
     "Game Dev/Rune Rogue/Details.canvas",
     "Old/Game/PS%/Pasted image 20221006225047.png",
