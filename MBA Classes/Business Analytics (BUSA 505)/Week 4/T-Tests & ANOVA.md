@@ -52,3 +52,13 @@
 	After answering the above questions it is time to summarize your results for the Board.
 	
 13. The last question for this assignment will enable you to provide your recommendations to the Board of Directors. Be sure to communicate in terminology that the Board members can understand while, in doing so, ensure that the key reasons for your recommendation around spending more money on research is backed by the results of your own research on the data provided.  The letter should not exceed one page in length.
+	1. Here are the key findings:
+		1. Treatment Group:
+			1. Significant improvements were observed in the treatment group from week 2 to week 6.
+			2. However, there was no significant improvement from week 6 to week 8.
+		2. Placebo Group:
+			1. No significant differences were found in the placebo group across the different weeks.
+		3. Patient Variability:
+			1. Within both the treatment and placebo groups, there were no significant differences between individual patients in terms of pain levels and side effects.
+			2. The relationship between pain and side effects varied between the groups.
+	2. Based on the data analysis, we recommend further investment and research in the experimental drug. The significant improvements observed in the treatment group from the weeks of 2 to 6 demonstrate the potential efficacy of the drug. Unfortunately, the lack of significant improvement from the weeks of 6 to week 8 raises concerns about the long-term efficacy and potential plateauing of the treatment's effects. Additional research is necessary to investigate the optimal treatment duration and potential strategies ensure sustainable benefits. By investing in further research, we would be able to gain valuable insights into the long-term efficacy and safety of this experimental drug, ultimately leading to improved patient outcomes.
