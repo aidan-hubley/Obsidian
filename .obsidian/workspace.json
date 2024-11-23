@@ -39,8 +39,8 @@
               "state": {
                 "file": "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
                 "viewState": {
-                  "x": -74.96750409305173,
-                  "y": -62.90658864327122,
+                  "x": -283.63410129354327,
+                  "y": -192.6474634869304,
                   "zoom": -0.5071504971866916
                 }
               },
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",

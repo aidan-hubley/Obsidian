@@ -1,6 +1,18 @@
 {
 	"nodes":[
-		{"id":"403f8811eafef68e","x":-436,"y":-350,"width":250,"height":60,"type":"text","text":""}
+		{"id":"8ecec06a260fc9b2","x":-800,"y":-420,"width":300,"height":120,"type":"text","text":"SOC managers advertise internship during in-class lecture, and announce the application portal is live"},
+		{"id":"cd4627443f08434a","x":-384,"y":-420,"width":276,"height":120,"type":"text","text":"Students reach out to faculty (professors) to be advisors / references to bolster their internship application"},
+		{"id":"12a2a1bcee50e831","x":-1,"y":-420,"width":250,"height":120,"type":"text","text":"Submission of application alerts SOC managers to review the application"},
+		{"id":"403f8811eafef68e","x":-384,"y":-540,"width":276,"height":50,"type":"text","text":"SOC Internship Hiring Process"},
+		{"id":"fb8eba35e4dd85d9","x":-1,"y":-200,"width":250,"height":100,"type":"text","text":"SOC managers discuss team creation and intern roles"},
+		{"id":"bba4f23fd027d679","type":"text","text":"Rejection / Acceptance emails are returned to program applicants","x":-371,"y":-200,"width":250,"height":100},
+		{"id":"aaceff9ac1ded2c7","type":"text","text":"NDA, meeting schedule, contact information, and group chat are provided to accepted applicants","x":-800,"y":-200,"width":300,"height":100}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"09647cb3bc87244d","fromNode":"8ecec06a260fc9b2","fromSide":"right","toNode":"cd4627443f08434a","toSide":"left"},
+		{"id":"b687399c3c84fccb","fromNode":"cd4627443f08434a","fromSide":"right","toNode":"12a2a1bcee50e831","toSide":"left"},
+		{"id":"4220f9037af7788c","fromNode":"12a2a1bcee50e831","fromSide":"right","toNode":"fb8eba35e4dd85d9","toSide":"right"},
+		{"id":"e877b72cfa42c4a3","fromNode":"fb8eba35e4dd85d9","fromSide":"left","toNode":"bba4f23fd027d679","toSide":"right"},
+		{"id":"417538d5bd04efe9","fromNode":"bba4f23fd027d679","fromSide":"left","toNode":"aaceff9ac1ded2c7","toSide":"right"}
+	]
 }
