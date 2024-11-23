@@ -18,14 +18,16 @@
 
 5. Is there a significant difference between the average ages of patients that received the treatment drug versus the placebo?
 	1. No. running a two-tailed test on the ages of the patients provides a result of 0.954, meaning that there is no significant difference between the ages of the patients that received the treatment drug verses the placebo.
-6. Is there a significant difference between the Treatment Group Results (week 6/8)?
-	1. 
+6. Is there a significant difference between the Treatment Group Results (week 2/4)?
+	1. Yes, p-value: 0.005129912. There is a significant difference.
 7. Is there a significant difference between the Treatment Group Results (week 4/6)?
-	1. 
+	1. Yes, p-value: 0.019920866. There is a significant difference.
 8. Is there a significant difference between the Treatment Group Results (week 6/8)?
+	1. Yes, p-value: 0.289285514. There is not a significant difference.
+9. Considering the results of Q6-8 now run a test that allows us to compare all weeks at the same time for the Treatment Group Results.  When describing what the result of this test means be sure to state it in a way that compares/contrasts the Q9 result vs the Q6-Q8 results where it makes sense to do so.  Let’s also see what this test shows us for the Placebo Group Results.
 	1. 
-10. Considering the results of Q6-8 now run a test that allows us to compare all weeks at the same time for the Treatment Group Results.  When describing what the result of this test means be sure to state it in a way that compares/contrasts the Q9 result vs the Q6-Q8 results where it makes sense to do so.  Let’s also see what this test shows us for the Placebo Group Results.
-11. Let’s try one final approach with these Treatment Group & Placebo Group Results. Please add an additional column to the tab within the spreadsheet that houses this data.  In that column, add up the results from weeks 2 through 8 for all of the respondents in both groups.  Now, compare the added up results for the Treatment Group and the Placebo Group.  Is there a significant difference between those who received the Placebo vs those who received the experimental drug treatment?
+10. Let’s try one final approach with these Treatment Group & Placebo Group Results. Please add an additional column to the tab within the spreadsheet that houses this data.  In that column, add up the results from weeks 2 through 8 for all of the respondents in both groups.  Now, compare the added up results for the Treatment Group and the Placebo Group.  Is there a significant difference between those who received the Placebo vs those who received the experimental drug treatment?
+	1. 
 
 ---
 
