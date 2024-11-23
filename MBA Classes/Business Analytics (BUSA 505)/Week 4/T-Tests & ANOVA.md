@@ -28,15 +28,16 @@
 	1. To compare the treatment group results across all weeks simultaneously, an **ANOVA** was performed. The ANOVA test provided a p-value of: 0.114908, this indicates a significant difference in treatment results across the different weeks. This confirms the findings from the pairwise t-tests in Q6-Q8, which identified specific differences between certain weeks. However, the ANOVA provides a more comprehensive overview by indicating that at least one week's results differ significantly from the others.
 	2. To compare the placebo group results across all weeks simultaneously, an **ANOVA** was performed. The ANOVA results indicate **no significant difference** in placebo results across the different weeks (p = 0.272966). This suggests that any observed differences in the treatment group are likely due to the treatment itself, rather than other factors like natural progression of the disease or placebo effects.
 10. Let’s try one final approach with these Treatment Group & Placebo Group Results. Please add an additional column to the tab within the spreadsheet that houses this data.  In that column, add up the results from weeks 2 through 8 for all of the respondents in both groups.  Now, compare the added up results for the Treatment Group and the Placebo Group.  Is there a significant difference between those who received the Placebo vs those who received the experimental drug treatment?
-	1. 
+	1. When running a two-sample t-test on the summed data, comparing all weeks of data from the placebo group to the drug group, p-value: 0.829952. There is no significant difference between the summed results from the two groups.
 
 ---
 
 	The next set of questions will allow us to examine the Pain Level & Side effect data.
 	
 11. Looking at Group A and Group B separately, consider the fact that each person experiences (to a certain degree) a level of pain and a side effect of some sort.  For each group run a test that can tell us if there are differences between the patients themselves and then, separately the pain levels and side effects.  Do results vary by patient to such a degree that we may need to learn more about the specific patients and classify them based on unique characteristics not presented in this data before re-running results?  Do higher pain levels imply higher degrees of side effects?
-
-12. Now let’s think about how we proceeded for Q11 and ask what would happen if we combined Groups A & B into a single “supergroup”.  We want to perform another test that will tell us if there are not only differences between patients and pain levels vs side effects but this test should also tell us if anything about the how if at all the patients interact with the pain levels and side effects.  Please run that test and share your observations.
+	1. 
+13. Now let’s think about how we proceeded for Q11 and ask what would happen if we combined Groups A & B into a single “supergroup”.  We want to perform another test that will tell us if there are not only differences between patients and pain levels vs side effects but this test should also tell us if anything about the how if at all the patients interact with the pain levels and side effects.  Please run that test and share your observations.
+	1. 
 
 ---
 
