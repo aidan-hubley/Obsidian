@@ -8,7 +8,7 @@
 ## Assignments:
 - [[Module 4 Moneyball & Billy Beane Case Study Questions]]
 - [Quiz- Readings and Videos from Module 4](https://messiah.instructure.com/courses/2025725/quizzes/4512495?module_item_id=40966995)[[Quiz 4]]
-- [Data Analysis Exercise: Statistical Significance & Correlation](https://messiah.instructure.com/courses/2025725/assignments/19199291?module_item_id=40966989)[[Data Analysis Exercise Statistical Significance & Correlation]]
-- [Assignments: Process Inventory/Develop a Critical to Customer Tree](https://messiah.instructure.com/courses/2025725/assignments/19199291?module_item_id=40966989)
+- [Create an Analytics Process Model](https://messiah.instructure.com/courses/2025725/assignments/19199281?module_item_id=40966994)[[Create an Analytics Process Model]]
+- [T-Tests & ANOVA](https://messiah.instructure.com/courses/2025725/assignments/19199292?module_item_id=40966996)[[T-Tests & ANOVA]]
 ##### Optional:
 - [REDO THIS: Data Analysis Exercise: Normal Distribution, Standardization & z-scores](https://messiah.instructure.com/courses/2025725/assignments/19199288)
