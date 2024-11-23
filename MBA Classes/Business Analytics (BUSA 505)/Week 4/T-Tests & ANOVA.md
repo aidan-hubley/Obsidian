@@ -42,7 +42,10 @@
 		2. Group B: A moderate positive correlation (0.721691) was found, indicating that higher pain levels tend to be associated with higher side effects.
 	3. There are no significant differences between individual patients within each group, the relationship between pain and side effects varies between the groups.
 12. Now let’s think about how we proceeded for Q11 and ask what would happen if we combined Groups A & B into a single “supergroup”.  We want to perform another test that will tell us if there are not only differences between patients and pain levels vs side effects but this test should also tell us if anything about the how if at all the patients interact with the pain levels and side effects.  Please run that test and share your observations.
-	1. 
+	1. Based on the two-way ANOVA, there is no evidence to suggest significant differences between groups or individual patients in terms of pain levels and side effects
+		1. There is no significant difference in mean pain levels or side effects between Group A and Group B.
+		2. There is no significant difference in mean pain levels or side effects between individual patients, regardless of group.
+		3. There is no significant interaction effect between Group and Patient that depends on the individual patient.
 
 ---
 
