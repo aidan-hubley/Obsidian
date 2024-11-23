@@ -3,7 +3,8 @@
 2. Summarize the approach of Beane and the Oakland Athletics (A’s) in the Moneyball period (late 1990s/early 2000s). What was so revolutionary? Why did it work? What characteristics, of the baseball industry and beyond, allowed this approach to flourish?
 	1. Their approach was revolutionary because they focused on identifying players who contributed more without costing the team. This approach was in opposition to traditional scouting and provided them to a platform to offer financials. This success was bolstered by the recent availability of deep statistics and in turn a growing interest to challenge the conventions of the baseball industry.
 3. Review the data in the tables at the end of the case study. What were some compelling data points that jumped out to you?
-	1. 
+	1. New York Yankees are ranked no. 1 every year for Estimated Revenue
+	2. 
 4. Many descriptions of “Moneyball” as an approach focus on analysis of regular season games. What is different about the post-regular season games? How would you use more rigorous analysis to examine contributions to winning in the post-regular season and what are the challenges in this analysis?
 	1. The post-regular season games are challenging because of their smaller sample sizes and increased pressure. There are other factors that are hard to apply an analytical lens to such as momentum and clutch performance. Analyzing play performance in this situations can help teams to make more informed decisions backed by their analysis assuming they consider factors like postseason experience. This doesn't account for the unpredictability of the postseason.
 5. Describe the competitive response by other Major League Baseball (MLB) clubs to the A’s innovation. How is this storyline similar to or different from other cases of disruptive innovation in other industries that you’ve learned about or know from your own experience?
