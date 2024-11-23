@@ -17,6 +17,7 @@
 	The next set of questions will enable us to assess the Treatment Group Results vs Placebo Group Results aspect of the study.
 
 5. Is there a significant difference between the average ages of patients that received the treatment drug versus the placebo?
+	1. No. running a two-tailed test on the ages of the patients provides a result of 0.954, meaning that there is no significant difference between the ages of the patients that received the treatment drug verses the placebo.
 
   6, 7, & 8:  Is there a significant difference between the Treatment Group Results across weeks?
 
