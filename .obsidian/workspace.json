@@ -35,17 +35,21 @@
             "id": "5fa2fdbeb88e6ddb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.md",
-                "mode": "source",
-                "source": false
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
+                "viewState": {
+                  "x": -74.96750409305173,
+                  "y": -62.90658864327122,
+                  "zoom": -0.5071504971866916
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "Create an Analytics Process Model"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -199,9 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f21b726edfd611c",
+  "active": "5fa2fdbeb88e6ddb",
   "lastOpenFiles": [
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Module 4 Moneyball & Billy Beane Case Study Questions.md",
@@ -230,7 +234,6 @@
     "MBA Classes/Business Analytics (BUSA 505)/Week 2/Notes.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 2/Discussion 2.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 3/Zoom Call.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 3/Quiz Billy Beane Case.md",
     "BA Classes/Ancient Rome/Blue Stars/images/Pasted image 20230221183050.png",
     "Game Dev/Rune Rogue/Details.canvas",
     "Old/Game/PS%/Pasted image 20221006225047.png",
