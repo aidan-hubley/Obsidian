@@ -6,7 +6,7 @@
 - [Why UPS trucks (almost) never turn left](https://www.cnn.com/2017/02/16/world/ups-trucks-no-left-turns/index.html)
 
 ## Assignments:
-- [[Missed Zoom Makeup Assignment]]
+- [[Module 4 Moneyball & Billy Beane Case Study Questions]]
 - [Quiz- Readings and Videos from Module 4](https://messiah.instructure.com/courses/2025725/quizzes/4512495?module_item_id=40966995)[[Quiz 4]]
 - [Data Analysis Exercise: Statistical Significance & Correlation](https://messiah.instructure.com/courses/2025725/assignments/19199291?module_item_id=40966989)[[Data Analysis Exercise Statistical Significance & Correlation]]
 - [Assignments: Process Inventory/Develop a Critical to Customer Tree](https://messiah.instructure.com/courses/2025725/assignments/19199291?module_item_id=40966989)
