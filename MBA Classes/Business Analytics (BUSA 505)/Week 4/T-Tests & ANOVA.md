@@ -1,9 +1,16 @@
 	The first four questions are meant to validate our understanding of statistical concepts and do not require use of the dataset.
 
 1. When would you use a t-test to analyze data?
+	1. A t-test is used to compare means between two groups of data, it's helpful when the sample size is small or the standard deviation is unknown.
 2. Describe the difference between a single-tailed and two-tailed t-test.
+	1. A one-tailed t-test is used when you have specific direction for the difference between the means.
+	2. A two-tailed t-test is used when you don't have a direction but still want the difference.
 3. What is the difference between a t-test and ANOVA?
+	1. A t-test compares the means of two groups.
+	2. ANOVA compares the means of three or more groups, it determines if there is an overall difference between the groups.
 4. Explain the difference between an independent t-test and a paired t-test.
+	1. An independent t-test compares the means of two independent groups.
+	2. A paired t-test compares the means of two related groups.
 
 ---
 
