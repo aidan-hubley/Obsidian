@@ -5,9 +5,9 @@
 3. Review the data in the tables at the end of the case study. What were some compelling data points that jumped out to you?
 	1. 
 4. Many descriptions of “Moneyball” as an approach focus on analysis of regular season games. What is different about the post-regular season games? How would you use more rigorous analysis to examine contributions to winning in the post-regular season and what are the challenges in this analysis?
-	1. 
+	1. The post-regular season games are challenging because of their smaller sample sizes and increased pressure. There are other factors that are hard to apply an analytical lens to such as momentum and clutch performance. Analyzing play performance in this situations can help teams to make more informed decisions backed by their analysis assuming they consider factors like postseason experience. This doesn't account for the unpredictability of the postseason.
 5. Describe the competitive response by other Major League Baseball (MLB) clubs to the A’s innovation. How is this storyline similar to or different from other cases of disruptive innovation in other industries that you’ve learned about or know from your own experience?
-	1. 
+	1. Initially there was skepticism towards the A's approach but as the A's continued to be successful, other teams began to invest in their data science and analytical approach. This competitive response us similar to other examples of innovation that disruptive a norm within a competitive industry. A good example is Netflix's claim to fame as the first streaming service, which heavily disrupted the live TV industry and quickly lead to the competitive era of streaming. 
 6. Within baseball, what are the multiple areas to which rigorous quantitative analysis of aspects of the game (both on and off the field) can add value for the ownership/management of a club? What are the implications for management recruitment/investment at the Oakland Athletics? How can you increase the likelihood of having a sustainable competitive advantage in the areas you identify?
 	1. 
 7. What could other industries and/or businesses learn from baseball's extensive use of data analytics for decision-making? Are there things in your own business/organization that you should be measuring and analyzing to make better decisions but are not? Explain.
