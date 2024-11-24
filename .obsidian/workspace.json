@@ -11,21 +11,14 @@
             "id": "37697190c0202337",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Game Dev/Rune Rogue/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "2024 Bingo Card.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "2024 Bingo Card"
             }
           }
         ]
@@ -84,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5086555480957
+    "width": 305.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -184,8 +178,8 @@
   },
   "active": "37697190c0202337",
   "lastOpenFiles": [
-    "2024 Bingo Card.md",
     "Game Dev/Rune Rogue/Untitled Kanban.md",
+    "2024 Bingo Card.md",
     "Notes.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
     "2024-11-24.md",
