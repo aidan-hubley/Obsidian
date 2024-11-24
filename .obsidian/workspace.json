@@ -11,10 +11,14 @@
             "id": "37697190c0202337",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "T-Tests & ANOVA"
             }
           }
         ]
@@ -147,8 +151,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -165,11 +169,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d7a0017b60da798c",
+  "active": "37697190c0202337",
   "lastOpenFiles": [
     "2024-11-24.md",
     "MBA Classes/Course Plan.md",
