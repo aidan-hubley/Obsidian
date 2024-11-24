@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86fc15b5c833a8f4",
+        "id": "be10af92c7cca87c",
         "type": "tabs",
         "children": [
           {
-            "id": "4f21b726edfd611c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview of Week 4"
-            }
-          },
-          {
-            "id": "36dfb152f3f06016",
+            "id": "5f8f9ad7d6ad91d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "T-Tests & ANOVA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36dfb152f3f06016",
+  "active": "5f8f9ad7d6ad91d8",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
+    "2024-11-23.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Module 4 Moneyball & Billy Beane Case Study Questions.md",
