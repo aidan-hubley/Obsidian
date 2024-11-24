@@ -1,3 +1,8 @@
+---
+share_link: https://share.note.sx/8nl5xmb5#JU7YKwItGf0wSpJsAohNe2zeistnoLiHUlZ36e7I8sw
+share_updated: 2024-11-24T15:25:52-05:00
+---
+
 |     | A                                                        | B                                                       | C                                               | D                                                | E                                                      |
 | --- | -------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------ |
 | 1   | <input type="checkbox" checked>Graduate with Bachelors   | <input type="checkbox" >Signup for Credit Card          | <input type="checkbox" checked>Apply for 5 Jobs | <input type="checkbox" >Create a Youtube Account | <input type="checkbox" checked>Find 3 New Churches     |
@@ -6,7 +11,6 @@
 | 4   | <input type="checkbox" checked>Join 1 Bible Study        | <input type="checkbox" >Visit 1 New Country             | <input type="checkbox" >Run 5 Miles             | <input type="checkbox" >Get 1 Tattoo             | <input type="checkbox" checked>Go on 3 Dates           |
 | 5   | <input type="checkbox" >Open 1 Savings Account           | <input type="checkbox" checked>Go to 3 Therapy Sessions | <input type="checkbox" >Save $5,000             | <input type="checkbox" >Learn 3 Languages        | <input type="checkbox" checked>Platinum 3 games        |
 <input type="checkbox" checked><input type="checkbox" >
-
 ###### Bingo Breakdown:
 | Topic     | Details                   |                         |                          |                      |
 | --------- | ------------------------- | ----------------------- | ------------------------ | -------------------- |
