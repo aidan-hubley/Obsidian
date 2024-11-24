@@ -47,7 +47,7 @@
 		2. There is no significant difference in mean pain levels or side effects between individual patients, regardless of group.
 		3. There is no significant interaction effect between Group and Patient that depends on the individual patient.
 
-
+---
 
 	After answering the above questions it is time to summarize your results for the Board.
 	
