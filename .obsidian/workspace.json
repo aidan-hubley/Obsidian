@@ -11,10 +11,14 @@
             "id": "e827590089ad41be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "BA Classes/Data Comm + Net/1. Intro/Networking Rack Facts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking Rack Facts"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DatabseConcepts",
+                "query": "tag:#DataCommNetworking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,6 +178,8 @@
   },
   "active": "e827590089ad41be",
   "lastOpenFiles": [
+    "BA Classes/DB Concepts/Book/Chapter 9 How to Use Functions/4. Other functions you should know about.md",
+    "BA Classes/DB Concepts/Book/Chapter 8 How to Work with Data Types/2. How to convert data.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Module 4 Moneyball & Billy Beane Case Study Questions.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
@@ -199,7 +206,6 @@
     "Work/SOC Hub/Excalidraw/accounts_dataflow.excalidraw.md",
     "Work/Res Life/What is Credit + Financial Success with SMART goals.md",
     "Work/Resume/Untitled.md",
-    "Work/Res Life/Spring Mandatory Semester 1.md",
     "Work/Res Life/ReApp 2",
     "Work/Res Life/23' Fall",
     "Work/SOC Hub/Excalidraw",
