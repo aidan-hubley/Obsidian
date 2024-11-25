@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f006b58ad017905e",
+        "id": "1dab08d6aa29d04a",
         "type": "tabs",
         "children": [
           {
-            "id": "3f062ba3e37e2df5",
+            "id": "e827590089ad41be",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,13 +171,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f062ba3e37e2df5",
+  "active": "e827590089ad41be",
   "lastOpenFiles": [
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Module 4 Moneyball & Billy Beane Case Study Questions.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Overview Week 1 Notes.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Welcome to Week 1!.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Module 4 Moneyball & Billy Beane Case Study Questions.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
     "Game Dev/Rune Rogue/Untitled Kanban.md",
     "PC Build/Parts.md",
     "PC Build",
@@ -197,10 +200,7 @@
     "Work/Res Life/What is Credit + Financial Success with SMART goals.md",
     "Work/Resume/Untitled.md",
     "Work/Res Life/Spring Mandatory Semester 1.md",
-    "Work/Res Life/SRA miniessay.md",
     "Work/Res Life/ReApp 2",
-    "Work/Res Life/Money.md",
-    "Work/Res Life/Solly 3rd Groups.md",
     "Work/Res Life/23' Fall",
     "Work/SOC Hub/Excalidraw",
     "Work/Resume",
