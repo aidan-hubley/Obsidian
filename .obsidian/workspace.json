@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e97de3690b9e62",
+        "id": "440dd8cd982de7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "37697190c0202337",
+            "id": "e72eca0b89a1fafe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Dev/Rune Rogue/Pitch.md",
+                "file": "BA Classes/DB Concepts/Class/Unit 3/1. Full Table Summaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pitch"
+              "title": "1. Full Table Summaries"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DatabseConcepts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5086555480957
+    "width": 646.5
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -165,65 +165,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37697190c0202337",
+  "active": "e72eca0b89a1fafe",
   "lastOpenFiles": [
-    "Game Dev/Rune Rogue/Rune System.md",
-    "2024 Bingo Card.md",
-    "Game Dev/Rune Rogue/Untitled Kanban.md",
+    "BA Classes/DB Concepts/Book/Chapter 1 An Introduction to Relational Databases/3. Use SQL from an Application Program.md",
+    "BA Classes/DB Concepts/Book/Chapter 1 An Introduction to Relational Databases/2. Intro to SQl and SQL-Based Systems.md",
+    "BA Classes/DB Concepts/Book/Chapter 1 An Introduction to Relational Databases/1. Intro to Relational Databases.md",
+    "BA Classes/Database Security/Attack News/1. 1-16-23.md",
+    "BA Classes/Data Comm + Net/1. Intro/Networking Rack Facts.md",
+    "BA Classes/Data Comm + Net/1. Intro/Intro 8-23-22 8-25-22.md",
+    "BA Classes/Data Structures + Algorithms/Algotrithm Analysis 1-24-2022.md",
+    "BA Classes/DB Concepts/Class/Unit 8/1. Data and Database Administration.md",
+    "BA Classes/DB Concepts/Book/Chapter 3 How to Retrieve Data from a Single Table/1. An Introduction to the SELECT Statement.md",
     "Notes.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
-    "2024-11-24.md",
-    "MBA Classes/Course Plan.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Course Info.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
-    "BA Classes/DB Concepts/Class/Unit 3/2. Summary Queries.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Books/Essentials of Strategic Management (Gamble, Peteraf, Thompson).md",
+    "BA Classes/DB Concepts/Book/Chapter 9 How to Use Functions/4. Other functions you should know about.md",
+    "BA Classes/DB Concepts/Book/Chapter 8 How to Work with Data Types/2. How to convert data.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Module 4 Moneyball & Billy Beane Case Study Questions.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Billy Beane Case Zoom Questions.md",
-    "BA Classes/Terrorism/September/9-4-23 9-6-23 Big Picture.md",
-    "BA Classes/Terrorism/September/9-29-23.md",
-    "2024-11-23.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.md",
-    "Shopping/Wish List.md",
-    "conflict-files-obsidian-git.md",
-    "BA Classes/Data Comm + Net/5. Ethernet/images/Pasted image 20221104182315.png",
-    "BA Classes/Database Security/Web Dev/images/Pasted image 20230207104824.png",
-    "BA Classes/DB Concepts/Book/Chapter 4 How to Retrieve Data from Two or More Table/images/Pasted image 20220912233525.png",
-    "BA Classes/Psychology/Course Info.md",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/1. Switching.md",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/Questions.md",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/2. Basic Switch Configuration.md",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/images/Pasted image 20221127130733.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Books/Analytics at Work.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Books/HBR Guide to Data Analytics.md",
-    "BA Classes/Ancient Rome/Blue Stars/images/Pasted image 20230221183050.png",
-    "Game Dev/Rune Rogue/Details.canvas",
-    "Old/Game/PS%/Pasted image 20221006225047.png",
-    "Old/Game/PS%/Pasted image 20221006224440.jpg",
-    "BA Classes",
-    "BA Classes/Short Story",
-    "BA Classes/Mobile App Design",
-    "BA Classes/Discrete Math",
-    "BA Classes/Bible Test Questions",
-    "Work/SOC Hub/Excalidraw",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Overview Week 1 Notes.md",
+    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Welcome to Week 1!.md",
+    "Game Dev/Rune Rogue/Untitled Kanban.md",
+    "PC Build/Parts.md",
+    "PC Build",
+    "BA Classes/DB Concepts/Book/Chapter 5 How to Insert, Update, and Delete Data/2. How to Update Existing Rows.md",
+    "Work/Res Life/ReApp 2/5. Role Model.md",
+    "Work/Res Life/ReApp 2/4. Differences.md",
+    "Work/Res Life/ReApp 2/3. Strengths.md",
+    "Work/Res Life/ReApp 2/2. Mission Contribution.md",
+    "Work/Res Life/ReApp 2/1..md",
     "Work/Res Life/ReApp 2",
     "Work/Res Life/23' Fall",
+    "Work/SOC Hub/Excalidraw",
+    "Work/Resume",
+    "Work/Res Life",
     "Work/SOC Hub",
+    "Work/Job Applications",
     "Work/EDU+ International",
+    "Work",
+    "Game Dev/Rune Rogue/Details.canvas",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230131084810.jpg",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124090620.png",
-    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085950.png"
+    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085950.png",
+    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085240.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230417133507.jpg",
+    "BA Classes/Network Security/Class/images/Pasted image 20230320130216.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230217132117.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230217133823.jpg",
+    "BA Classes/Network Security/Class/images/Pasted image 20230210132220.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230206133504.png",
+    "Game Dev/Rune Rogue/Untitled.canvas"
   ]
 }
