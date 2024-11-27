@@ -35,7 +35,8 @@
               "title": "Discussion 5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "374472fa02a91649",
+  "active": "1252f95156abb388",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Discussion 5.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Overview of Week 5.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Discussion 5.md",
     "conflict-files-obsidian-git.md",
     "BA Classes/Data Structures + Algorithms/Red-Black Tree.md",
     "BA Classes/DB Concepts/Class/Unit 3/1. Full Table Summaries.md",
