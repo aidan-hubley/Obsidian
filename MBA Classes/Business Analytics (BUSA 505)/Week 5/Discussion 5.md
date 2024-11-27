@@ -4,3 +4,4 @@ In an original post (not to exceed 250 words), based on the Proctor & Gamble ca
 
 ---
 
+Procter & Gamble 
