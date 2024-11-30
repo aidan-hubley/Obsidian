@@ -75,6 +75,9 @@ Focusing on the SOC Internship Program.
 		1. SOC managers can review and correct timesheet data for each intern
 		2. The data is organized in a way that allows for easy evaluation of a single intern's shift performance in reference to their other shifts
 		3. **Suggest Improvement**: Developing a system to compare and contrast interns to each other could assist decision makers in providing feedback and in promoting interns to leadership positions
+		4. Secondary page that is related to Data Organization for decision makers: ELI Credit Report Page:
+			1. Developed to organize all timesheet data and ELI notes to provide to the ELI Internship Professor
+			2. This data is organized chronologically to provide a simplified view of progress, stagnation, or decline in performance to both the SOC Managers as well as the Professor of the ELI class
 	4. Admin page to review Internship Applications:
 		1. SOC managers and Application references (faculty within CMP department) have access to view and depending on their rights approve / deny applications to the program
 		2. The data is organized in a fashion that allows internships to be reviewed as "currently in the program and returning" or "first time applicant" or "currently in the program and not returning"
