@@ -20,4 +20,6 @@ References:
 Davenport, T. H., Iansiti, M., & Serels, A. (2013). Managing with analytics at Procter & Gamble (Case No. 9-613-045). Harvard Business School. https://www.hbsp.harvard.edu/educators
 
 ##### My Response to David:
-Hello David, thank you for your post. I agree with your points about the importance of data centralization. I know my organization would deeply benefit from a more data-driven culture. Reliable accessible data is so important for effective decision-making across the whole professionals. 
+Hello David, thank you for your post. I agree with your points about the importance of data centralization. I know my organization would deeply benefit from a more data-driven culture. Reliable, accessible data is crucial for effective decision-making across all levels of the organization.  
+
+However, it's important to note that simply centralizing data isn't enough. Creating a culture where data is actively used to inform strategy and operations is the biggest takeaway I took from this weeks readings. This involves training employees to understand and more importantly interpret data, as well as providing them with the tools and resources they need to use data effectively. As Davenport, Iansiti, and Serels (2013) argue, a successful data-driven organization requires a combination of technological capabilities and organizational behaviors.
