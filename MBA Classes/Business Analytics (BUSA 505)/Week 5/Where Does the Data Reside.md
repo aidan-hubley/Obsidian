@@ -1,14 +1,36 @@
-See updated for visual: [[SOC Internship Hiring Analytics Process Model.canvas|SOC Internship Hiring Analytics Process Model]] 
-
 The purpose of this assignment is to identify the data your organization needs to effectively implement analytics and make better decisions. Leverage your work to date in the course and your Business Analytics Project work to determine the following:
 
 1. What are the data requirements (i.e., data needed) to effectively measure what you've proposed thus far?
     - Note: To date you have identified the following:
-        - Where your organization could improve in using business analytics
-        - How your organization might be more intentional/specific in what it measures
+        - Where your organization could improve in using business analytics [[Discussion 1]]
+        - How your organization might be more intentional/specific in what it measures [[Discussion 2]]
         - Critical to Customer Needs, Drivers, and Measures
-        - Identification of opportunities where analytics could be embedded into business processes
+        - Identification of opportunities where analytics could be embedded into business processes [[SOC Internship Hiring Analytics Process Model.canvas|SOC Internship Hiring Analytics Process Model]]
 2. Are these data currently captured somewhere? If so, where? If these data are not currently captured, how might they be captured? (Create/describe the process.)
 3. How might the data be structured (organized) and made available to decision-makers? Describe the process for making the data useable for decision-making.
 
 Use the information from this assignment in your Business Analytics Project (BAP). In your BAP, not only do you want to make a compelling case for what needs to be measured, but you also want to illustrate where the data resides and how you intend to capture it and analyze it.
+
+---
+### How my Organization can be more intentional/specific in what it measures / Improve in using business analytics
+
+I currently serve as an IT Security Analyst for Messiah's Cybersecurity team and a manager for Messiah's SOC internship. The value and need for deep analysis within my security analysis responsibilities cannot be overstated. 'How many accounts were affected by X vulnerability?' What percentage of employees are lacking X security measure?' Analysis of Messiah's user base and network is the core of my position, but that analysis isn't directly about data analysis. Another aspect of my position is managing 14 interns who work within Messiah's SOC internship program. On paper, this is a deeply social / leadership-oriented responsibility, but fortunately, the interns need little managing. I have been able to automate many if not all nuances and data collection aspects of the management side of this through a website, (note: it's available to all messiah accounts and has some helpful tools, go to: socservices.messiah.edu) I manage the database and run data analysis on everything, such as: internship timesheets, intern's response time, active vs inactive time on the workstations in the SOC, and more. My boss and I benefit immensely from this automated analysis, we can monitor and support these interns while maintaining our other responsibilities.
+
+My organization, Messiah University, utilizes internal analytics for current students and faculty and externally through advertisements for graduates/alumni. Messiah excels at gathering and analyzing data about their courses, specifically student's experience with every course. They utilize an IDEA evaluation system to serve and report on every undergraduate-level course for each student. The detailed multiple-choice questions/text area questions speak to the depth at which the University is interested in querying and analyzing this data. Messiah collects data in a variety of layouts, types, and structures. Most notably, I have developed many of Messiah's custom websites, and the analytical data collected through my code is raw data, usually in the form of JSON or PHP arrays. More traditional structures of data, such as spreadsheet, pdf, and txt are created when we serve the data to users, clients, students, donors, etc. I believe many of Messiah's analytical processes are currently handled by expensive 3rd party systems such as dynamic forms, while they could be handled in-house by the expertise of the ITS department (where I work). The financial cost of deep data analysis is usually overlooked and I see an efficient alternative option that negates the price tag of 3rd-party services.
+
+### SOC Internship Hiring Process
+1. Announce Open Application Portal
+	1. SOC managers advertise internship during in-class lecture, and announce the application portal is live
+	2. Suggested Embedded Analytics: How many students were already planning to apply before SOC managers advertised the program? How many times should it be advertised?
+2. Applicants find Faculty References
+	1. Students reach out to faculty (professors) to be advisors / references to bolster their internship application
+3. Application Window Closes
+	1. Submission of application alerts SOC managers to review the application
+	2. Suggested Embedded Analytics: How many applications because of the advertising? How many applications within the week before the deadline?
+4. Creation of Team & Shifts
+	1. SOC managers discuss team creation and intern roles
+5. Applicants Receive Letters
+	1. Rejection / Acceptance emails are returned to program applicants
+	2. Suggested Embedded Analytics: Analysis on strengths and weaknesses that correlate to rejection and/or acceptance.
+6. Begin New Semester
+	1. NDA, meeting schedule, contact information, and group chat are provided to accepted applicants

@@ -4,16 +4,16 @@
 		{"id":"a277433d525f20f3","type":"group","x":-951,"y":-540,"width":1051,"height":520,"label":"Progress Model"},
 		{"id":"ecc4b0afbd20fde3","type":"group","x":-951,"y":40,"width":640,"height":90,"label":"Color Key"},
 		{"id":"cd4627443f08434a","type":"text","text":"#### Applicants find Faculty References\n\nStudents reach out to faculty (professors) to be advisors / references to bolster their internship application","x":-555,"y":-480,"width":276,"height":210,"color":"6"},
-		{"id":"12a2a1bcee50e831","type":"text","text":"#### Application Window Closes\n\nSubmission of application alerts SOC managers to review the application","x":-172,"y":-480,"width":250,"height":210,"color":"6"},
 		{"id":"fb8eba35e4dd85d9","type":"text","text":"#### Creation of Team & Shifts\n\nSOC managers discuss team creation and intern roles","x":-172,"y":-220,"width":250,"height":180,"color":"6"},
-		{"id":"cacd73896e61bd17","type":"text","text":"How many students were already planning to apply before SOC managers advertised the program? How many times should it be advetised?","x":-731,"y":-700,"width":356,"height":140,"color":"4"},
-		{"id":"1bc718e38a60235f","type":"text","text":"How many applications because of the advertising? How many applications within the week before the deadlin?","x":-319,"y":-700,"width":291,"height":140,"color":"4"},
+		{"id":"cacd73896e61bd17","type":"text","text":"How many students were already planning to apply before SOC managers advertised the program? How many times should it be advertised?","x":-731,"y":-700,"width":356,"height":140,"color":"4"},
+		{"id":"1bc718e38a60235f","type":"text","text":"How many applications because of the advertising? How many applications within the week before the deadline?","x":-319,"y":-700,"width":291,"height":140,"color":"4"},
 		{"id":"bff530abdae700d2","type":"text","text":"Steps in the Process Model","x":-931,"y":60,"width":262,"height":50,"color":"6"},
+		{"id":"bba4f23fd027d679","type":"text","text":"#### Applicants Receive Letters\n\nRejection / Acceptance emails are returned to program applicants","x":-542,"y":-220,"width":250,"height":180,"color":"6"},
 		{"id":"fc5ab9d3c81ab80d","type":"text","text":"Suggested Embedded Analytics","x":-642,"y":60,"width":307,"height":50,"color":"4"},
 		{"id":"a26b5b28125eee69","type":"text","text":"Analysis on strengths and weaknesses that correlate to rejection and/or acceptance.","x":-279,"y":40,"width":291,"height":90,"color":"4"},
 		{"id":"aaceff9ac1ded2c7","type":"text","text":"#### Begin New Semester\n\nNDA, meeting schedule, contact information, and group chat are provided to accepted applicants","x":-931,"y":-220,"width":300,"height":180,"color":"6"},
 		{"id":"8ecec06a260fc9b2","type":"text","text":"#### Announce Open Application Portal\nSOC managers advertise internship during in-class lecture, and announce the application portal is live","x":-931,"y":-480,"width":300,"height":210,"color":"6"},
-		{"id":"bba4f23fd027d679","type":"text","text":"#### Applicants Receive Letters\n\nRejection / Acceptance emails are returned to program applicants","x":-542,"y":-220,"width":250,"height":180,"color":"6"}
+		{"id":"12a2a1bcee50e831","type":"text","text":"#### Application Window Closes\n\nSubmission of application alerts SOC managers to review the application","x":-173,"y":-480,"width":250,"height":210,"color":"6"}
 	],
 	"edges":[
 		{"id":"09647cb3bc87244d","fromNode":"8ecec06a260fc9b2","fromSide":"right","toNode":"cd4627443f08434a","toSide":"left"},
