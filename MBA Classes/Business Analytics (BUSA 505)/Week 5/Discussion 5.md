@@ -38,4 +38,4 @@ References
 Davenport, T. H., Iansiti, M., & Serels, A. (2013). _Managing with analytics at Procter & Gamble_ (Case No. 9-613-045). Harvard Business School. https://www.hbsp.harvard.edu/educators
 
 ##### My Response:
-Hello Josh, 
+Hello Josh, thank you for your insightful takeaway! Scattered data and undocumented practices are a huge detriment to work efficiency. 
