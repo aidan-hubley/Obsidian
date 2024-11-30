@@ -52,6 +52,31 @@ Focusing on the SOC Internship Program.
 		4. Analysis on strengths and weaknesses that correlate to rejection and/or acceptance. 
 		5. Correlation of timesheet data to quality of work / work efficiency. 
 2. Are these data currently captured somewhere? If so, where? If these data are not currently captured, how might they be captured? (Create/describe the process.)
-	1. 
+	1. The data is all captured through a custom created website 'SOC Portal'.
+	2. Data collection process for Internship Application:
+		1. SOC Managers open application window
+		2. Applicants access the application page
+			1. Upon accessing the page their GPA, class credits, year number and more are assessed. If they meet the requirements for applying to the internship, they are provided a form to fill out
+		3. Applicants provide information such as: preferred name, interest in the program, who their reference is, their resume and more.
+			1. **Suggested Improvement**: Querying applicants "how did you hear about this program" would inform decision makers on if the advertisements are worth it, and how often they should advertise.
+		4. All data is sent to a MySQL database for decision makers to review
+	3. Data collection process for Internship Timesheets:
+		1. Interns access the SOC portal through their internship accounts, and navigate to the timesheet page
+		2. They are met with a list of their timesheets and if they within 15 min (before or after) a shift is meant to begin they may clock in
+		3. In a similar fashion, if they are within 15 min of a shift ending they may clock out
+			1. Upon clocking out interns are met with a form asking for their notes from the shift
+				1. All interns provide confident notes that are highly detailed to the SOC Managers
+				2. Interns taking the ELI internship course (which provides academic credit) are prompted to provide their course professor with vague professional development takeaways (that do not violate their NDA)
+		4. All data is sent to a MySQL database for decision makers to review
 3. How might the data be structured (organized) and made available to decision-makers? Describe the process for making the data useable for decision-making.
-	1. 
+	1. To ensure the data is organized, accessible, and usable for decisionmakers, 'Admin' pages have been developed for the SOC Portal
+	2. These pages allow SOC Managers and some professors to access relevant data
+	3. Admin page to review Intern Timesheets:
+		1. SOC managers can review and correct timesheet data for each intern
+		2. The data is organized in a way that allows for easy evaluation of a single intern's shift performance in reference to their other shifts
+		3. **Suggest Improvement**: Developing a system to compare and contrast interns to each other could assist decision makers in providing feedback and in promoting interns to leadership positions
+	4. Admin page to review Internship Applications:
+		1. SOC managers and Application references (faculty within CMP department) have access to view and depending on their rights approve / deny applications to the program
+		2. The data is organized in a fashion that allows internships to be reviewed as "currently in the program and returning" or "first time applicant" or "currently in the program and not returning"
+		3. References are provided with all the information from the application, including resume and certifications
+		4. Decision-makers at all levels benefit from a consolidated 
