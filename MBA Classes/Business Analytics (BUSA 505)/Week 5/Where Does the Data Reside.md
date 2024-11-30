@@ -41,3 +41,9 @@ My organization, Messiah University, utilizes internal analytics for current stu
 
 ## My Submission
 
+1. What are the data requirements (i.e., data needed) to effectively measure what you've proposed thus far?
+	1. 
+2. Are these data currently captured somewhere? If so, where? If these data are not currently captured, how might they be captured? (Create/describe the process.)
+	1. 
+3. How might the data be structured (organized) and made available to decision-makers? Describe the process for making the data useable for decision-making.
+	1. 
