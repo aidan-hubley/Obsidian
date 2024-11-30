@@ -10,7 +10,7 @@
 - [Quiz- Readings and Videos from Module 5](https://messiah.instructure.com/courses/2025725/quizzes/4512497?module_item_id=40967000)[[Quiz 5]]
 - [Data Analytics Simulation](https://messiah.instructure.com/courses/2025725/assignments/19199293?module_item_id=40967001)
 - [Discussion - Learning from Proctor & Gamble's Business Analytics Strategy](https://messiah.instructure.com/courses/2025725/discussion_topics/11440523?module_item_id=40967002)[[Discussion 5]]
-- [Where Does the Data Reside?](https://messiah.instructure.com/courses/2025725/assignments/19199282?module_item_id=40967003)
+- [Where Does the Data Reside?](https://messiah.instructure.com/courses/2025725/assignments/19199282?module_item_id=40967003)[[Where Does the Data Reside]]
 
 ## Final Project
 - [Business Analytics Project](https://messiah.instructure.com/courses/2025725/assignments/19199284?module_item_id=40967004)
