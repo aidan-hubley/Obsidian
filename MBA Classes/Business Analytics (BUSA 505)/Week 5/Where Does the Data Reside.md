@@ -1,4 +1,5 @@
-[[Create an Analytics Process Model.canvas|Create an Analytics Process Model]]
+See updated for visual: [[SOC Internship Hiring Analytics Process Model.canvas|SOC Internship Hiring Analytics Process Model]] 
+
 The purpose of this assignment is to identify the data your organization needs to effectively implement analytics and make better decisions. Leverage your work to date in the course and your Business Analytics Project work to determine the following:
 
 1. What are the data requirements (i.e., data needed) to effectively measure what you've proposed thus far?
