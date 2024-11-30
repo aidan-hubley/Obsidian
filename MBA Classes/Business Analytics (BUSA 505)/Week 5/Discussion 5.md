@@ -20,4 +20,4 @@ References:
 Davenport, T. H., Iansiti, M., & Serels, A. (2013). Managing with analytics at Procter & Gamble (Case No. 9-613-045). Harvard Business School. https://www.hbsp.harvard.edu/educators
 
 ##### My Response to David:
-Hello David, thank you for your post. I agree with your points about the importance of data centralization. I know my organization would deeply benefit from a more data-driven culture. Reliable accessible data is so important 
+Hello David, thank you for your post. I agree with your points about the importance of data centralization. I know my organization would deeply benefit from a more data-driven culture. Reliable accessible data is so important for effective decision-making across the whole professionals. 
