@@ -41,8 +41,16 @@ My organization, Messiah University, utilizes internal analytics for current stu
 
 ## My Submission
 
+Focusing on the SOC Internship Program.
+
 1. What are the data requirements (i.e., data needed) to effectively measure what you've proposed thus far?
-	1. 
+	1. To effectively measure my proposed steps in the hiring process and in the goal of improving the program, the data needed to measure is:
+		1. Number of students that planned to apply to the program without the advertisement? 
+			1. Formula to evaluate how many times should it be advertised?
+		2. How many applications are a result of the advertising? 
+		3. How many applications within the week before the deadline?
+		4. Analysis on strengths and weaknesses that correlate to rejection and/or acceptance. 
+		5. Correlation of timesheet data to quality of work / work efficiency. 
 2. Are these data currently captured somewhere? If so, where? If these data are not currently captured, how might they be captured? (Create/describe the process.)
 	1. 
 3. How might the data be structured (organized) and made available to decision-makers? Describe the process for making the data useable for decision-making.
