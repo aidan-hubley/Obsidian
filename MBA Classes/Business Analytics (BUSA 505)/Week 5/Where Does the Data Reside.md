@@ -1,3 +1,4 @@
+## Assignment Prompt
 The purpose of this assignment is to identify the data your organization needs to effectively implement analytics and make better decisions. Leverage your work to date in the course and your Business Analytics Project work to determine the following:
 
 1. What are the data requirements (i.e., data needed) to effectively measure what you've proposed thus far?
@@ -12,6 +13,7 @@ The purpose of this assignment is to identify the data your organization needs t
 Use the information from this assignment in your Business Analytics Project (BAP). In your BAP, not only do you want to make a compelling case for what needs to be measured, but you also want to illustrate where the data resides and how you intend to capture it and analyze it.
 
 ---
+## Previous Assignments:
 ### How my Organization can be more intentional/specific in what it measures / Improve in using business analytics
 
 I currently serve as an IT Security Analyst for Messiah's Cybersecurity team and a manager for Messiah's SOC internship. The value and need for deep analysis within my security analysis responsibilities cannot be overstated. 'How many accounts were affected by X vulnerability?' What percentage of employees are lacking X security measure?' Analysis of Messiah's user base and network is the core of my position, but that analysis isn't directly about data analysis. Another aspect of my position is managing 14 interns who work within Messiah's SOC internship program. On paper, this is a deeply social / leadership-oriented responsibility, but fortunately, the interns need little managing. I have been able to automate many if not all nuances and data collection aspects of the management side of this through a website, (note: it's available to all messiah accounts and has some helpful tools, go to: socservices.messiah.edu) I manage the database and run data analysis on everything, such as: internship timesheets, intern's response time, active vs inactive time on the workstations in the SOC, and more. My boss and I benefit immensely from this automated analysis, we can monitor and support these interns while maintaining our other responsibilities.
@@ -34,3 +36,8 @@ My organization, Messiah University, utilizes internal analytics for current stu
 	2. Suggested Embedded Analytics: Analysis on strengths and weaknesses that correlate to rejection and/or acceptance.
 6. Begin New Semester
 	1. NDA, meeting schedule, contact information, and group chat are provided to accepted applicants
+
+---
+
+## My Submission
+
