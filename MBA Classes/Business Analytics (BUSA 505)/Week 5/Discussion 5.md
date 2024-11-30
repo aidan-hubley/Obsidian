@@ -38,4 +38,8 @@ References
 Davenport, T. H., Iansiti, M., & Serels, A. (2013). _Managing with analytics at Procter & Gamble_ (Case No. 9-613-045). Harvard Business School. https://www.hbsp.harvard.edu/educators
 
 ##### My Response:
-Hello Josh, thank you for your insightful takeaway! Scattered data and undocumented practices are a huge detriment to work efficiency. 
+Hello Josh, 
+
+Thank you for your insightful takeaway! Scattered data and undocumented practices are a huge detriment to work efficiency. While a central repository is important, I think its equally important to encourage data sharing across departments, this is something my organization struggles with. I think this can be achieved through training programs that emphasize the benefits of data-driven decision making as well as collaborative problem-solving. When building the central system, focusing on data standardization helps to ensure all information is consistent and easily interpretable regardless of its source. Additionally, consider tiered access levels to balance security and user needs. Forgoing security and "need to know" practices for the sake of data accessibility is a fast way to leek your organization's data. The centralized service could go beyond storing best practices. Imagine embedding interactive tutorials and self-service data exploration tools. 
+
+Davenport, T. H., Iansiti, M., & Serels, A. (2013). _Managing with analytics at Procter & Gamble_ (Case No. 9-613-045). Harvard Business School. [https://www.hbsp.harvard.edu/educatorsLinks to an external site.](https://www.hbsp.harvard.edu/educators)

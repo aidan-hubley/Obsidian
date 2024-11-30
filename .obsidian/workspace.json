@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "556dbdf706bce779",
+        "id": "48ffd434f91b4fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "01cea96d2fe5f875",
+            "id": "e9ebdde7bd65bbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 5/Discussion 5.md",
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discussion 5"
+              "title": "Quiz 5"
             }
           }
         ]
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01cea96d2fe5f875",
+  "active": "e9ebdde7bd65bbc6",
   "lastOpenFiles": [
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Discussion 5.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Where Does the Data Reside.md",
