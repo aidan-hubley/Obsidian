@@ -4,17 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "40b3811360a91e91",
+        "id": "556dbdf706bce779",
         "type": "tabs",
         "children": [
           {
-            "id": "374472fa02a91649",
+            "id": "01cea96d2fe5f875",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "kanban",
+              "state": {
+                "file": "Game Dev/Rune Rogue/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -69,13 +80,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -173,8 +182,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "374472fa02a91649",
+  "active": "01cea96d2fe5f875",
   "lastOpenFiles": [
+    "Game Dev/Rune Rogue/Rune System.md",
+    "Game Dev/Rune Rogue/Pitch.md",
+    "Game Dev/Rune Rogue/Details.canvas",
+    "BA Classes/DB Concepts/Book/Chapter 4 How to Retrieve Data from Two or More Table/4. How to work with unions.md",
+    "BA Classes/Data Comm + Net/Subnet Assignment Notes.md",
+    "BA Classes/DB Concepts/Book/Chapter 9 How to Use Functions/4. Other functions you should know about.md",
     "BA Classes/Network Security/Class/17. Cryptography.md",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/5 generic competitive strategies.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Overview of Week 5.md",
@@ -192,16 +207,11 @@
     "BA Classes/DB Concepts/Class/Unit 8/1. Data and Database Administration.md",
     "BA Classes/DB Concepts/Book/Chapter 3 How to Retrieve Data from a Single Table/1. An Introduction to the SELECT Statement.md",
     "Notes.md",
-    "BA Classes/DB Concepts/Book/Chapter 9 How to Use Functions/4. Other functions you should know about.md",
     "BA Classes/DB Concepts/Book/Chapter 8 How to Work with Data Types/2. How to convert data.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Module 4 Moneyball & Billy Beane Case Study Questions.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/T-Tests & ANOVA.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Overview Week 1 Notes.md",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 1/Welcome to Week 1!.md",
-    "Game Dev/Rune Rogue/Untitled Kanban.md",
     "PC Build",
     "Work/Res Life/ReApp 2",
     "Work/Res Life/23' Fall",
@@ -212,7 +222,6 @@
     "Work/Job Applications",
     "Work/EDU+ International",
     "Work",
-    "Game Dev/Rune Rogue/Details.canvas",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230131084810.jpg",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124090620.png",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085950.png",
