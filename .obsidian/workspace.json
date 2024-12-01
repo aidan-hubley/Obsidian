@@ -11,14 +11,17 @@
             "id": "f834d70a461a44ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bingo Cards/Bingo Card Template.md",
-                "mode": "source",
-                "source": false
+                "file": "Bingo Cards/Instructions/Bingo Card Instructions.canvas",
+                "viewState": {
+                  "x": 40,
+                  "y": -420,
+                  "zoom": -0.8241501646005824
+                }
               },
-              "icon": "lucide-file",
-              "title": "Bingo Card Template"
+              "icon": "lucide-layout-dashboard",
+              "title": "Bingo Card Instructions"
             }
           }
         ]
@@ -178,8 +181,13 @@
   },
   "active": "f834d70a461a44ae",
   "lastOpenFiles": [
+    "Bingo Cards/Instructions/Key.md",
+    "Bingo Cards/Instructions/Finished Template.md",
+    "Bingo Cards/Instructions/Categories Example.md",
+    "Bingo Cards/Instructions/Bingo Card Instructions.canvas",
+    "Bingo Cards/Instructions/Template.md",
     "Bingo Cards/2024 Bingo Card.md",
-    "Bingo Cards/Bingo Card Template.md",
+    "Bingo Cards/Instructions",
     "Bingo Cards",
     "conflict-files-obsidian-git.md",
     "New Text Document.txt",
@@ -204,13 +212,9 @@
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Billy Beane Case Zoom Questions.md",
     "BA Classes/Terrorism/September/9-4-23 9-6-23 Big Picture.md",
     "BA Classes/Terrorism/September/9-29-23.md",
-    "2024-11-23.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.md",
-    "Shopping/Wish List.md",
     "BA Classes/Data Comm + Net/5. Ethernet/images/Pasted image 20221104182315.png",
     "BA Classes/Database Security/Web Dev/images/Pasted image 20230207104824.png",
     "BA Classes/DB Concepts/Book/Chapter 4 How to Retrieve Data from Two or More Table/images/Pasted image 20220912233525.png",
-    "BA Classes/Psychology/Course Info.md",
     "BA Classes/Data Comm + Net/7. Switching and Routing/images/Pasted image 20221127130733.png",
     "BA Classes/Ancient Rome/Blue Stars/images/Pasted image 20230221183050.png",
     "Game Dev/Rune Rogue/Details.canvas",
@@ -223,7 +227,6 @@
     "BA Classes/Bible Test Questions",
     "Work/SOC Hub/Excalidraw",
     "Work/Res Life/ReApp 2",
-    "Work/Res Life/23' Fall",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230131084810.jpg",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124090620.png",
     "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085950.png"
