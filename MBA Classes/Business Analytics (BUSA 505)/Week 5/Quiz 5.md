@@ -39,7 +39,7 @@
 	1. Assuming that everyone understood VaRs
 18. In the case study Managing with Analytics at Procter & Gamble, what was one of the structures that was part of its 2005 reorganization?
 	1. WRONG: Corporate Business Units	
-	2. RIGHT: Global Business Structure
+	2. RIGHT: Global Business Services
 19. In the case study Managing with Analytics at Procter & Gamble, what was the change in focus that P&G wanted to achieve with the Decision Cockpit?
 	1.  WRONG: Change from "how" and "what" to "what" and "why"
 	2.  RIGHT: Change from "what" to "why" and "how"
