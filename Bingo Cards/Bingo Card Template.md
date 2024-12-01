@@ -1,11 +1,11 @@
 
-| <td style="background: red"> | A                       | B                       | C                       | D                       | E                       |
-| ---------------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| 1                            | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| 2                            | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| 3                            | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| 4                            | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| 5                            | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+|     | A                       | B                       | C                       | D                       | E                       |
+| --- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| 1   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+| 2   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+| 3   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+| 4   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+| 5   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
 
 ###### Bingo Breakdown:
 | Topic     | Details                   |                         |                          |                      |
