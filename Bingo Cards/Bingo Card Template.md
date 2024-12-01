@@ -1,11 +1,12 @@
+|     | A                                               | B                                               | C                                                              | D                                               | E                                               |
+| --- | ----------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 1   | <input type="checkbox">                         | <input type="checkbox">                         | <input type="checkbox" style="background: red">                | <input type="checkbox">                         | <input type="checkbox">                         |
+| 2   | <input type="checkbox">                         | <input type="checkbox" style="background: red"> | <input type="checkbox">                                        | <input type="checkbox" style="background: red"> | <input type="checkbox">                         |
+| 3   | <input type="checkbox" style="background: red"> | <input type="checkbox">                         | <input type="checkbox" style="border-color: blue;"> Free Space | <input type="checkbox">                         | <input type="checkbox" style="background: red"> |
+| 4   | <input type="checkbox">                         | <input type="checkbox" style="background: red"> | <input type="checkbox">                                        | <input type="checkbox" style="background: red"> | <input type="checkbox">                         |
+| 5   | <input type="checkbox">                         | <input type="checkbox">                         | <input type="checkbox" style="background: red">                | <input type="checkbox">                         | <input type="checkbox">                         |
 
-|     | A                       | B                       | C                       | D                       | E                       |
-| --- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| 1   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| 2   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| 3   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| 4   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
-| 5   | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> | <input type="checkbox"> |
+
 
 ###### Bingo Breakdown:
 | Topic     | Details                   |                         |                          |                      |
