@@ -16,3 +16,6 @@
 14. Demonstrate dependability (e.g., report consistently, and on time, for work or meetings)?
 15. Listen carefully to others, taking time to understand and ask appropriate questions without interrupting?
 16. Promptly inform relevant others when needing guidance with assigned tasks?
+17. Take the initiative to prioritize and complete tasks on time?
+18. Display curiosity; seek out opportunities to learn?
+19. 
