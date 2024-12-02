@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5004348754883
+    "width": 266.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -174,10 +175,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "24599ed4c7e6920c",
+  "active": "d7d3c1c4b29da628",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
     "conflict-files-obsidian-git.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6",
     "Bingo Cards/Instructions/Bingo Card Instructions.canvas",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
