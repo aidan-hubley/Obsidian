@@ -7,6 +7,7 @@
 ## Assignments:
 - Discussion Module 6: Strategy Simulation
 - Assignment: Analyst & Culture Assessment
+- Data Analysis Exercise: Qualitative Data
 
 ## Final Project
 - [Business Analytics Project](https://messiah.instructure.com/courses/2025725/assignments/19199284?module_item_id=40967004)
