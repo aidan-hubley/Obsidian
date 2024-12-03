@@ -1,3 +1,4 @@
+[[Strategic Decision Making Simulation Case]]
 #### Prompt: 
 You have just been hired as a brand manager at Kelsey-White, an American multinational consumer goods company. Recently the firm invested in the development of K-W Vision, a series of systems and processes that allow the use of up-to-date data and advanced analytics to drive informed decision making about K-W brands. It is 2019. The system is populated with 4 years of historical data.
 
