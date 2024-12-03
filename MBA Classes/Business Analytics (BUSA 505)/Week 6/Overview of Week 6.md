@@ -6,6 +6,7 @@
 - Analyzing Qualitative Data
 ## Assignments:
 - Discussion Module 6: [[Strategy Simulation]]
+	- [[Strategic Decision Making Simulation Case]]
 - Assignment: Analyst & Culture Assessment
 - Data Analysis Exercise: Qualitative Data
 

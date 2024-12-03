@@ -36,15 +36,13 @@
             }
           },
           {
-            "id": "0feb1ef2ebf60ca4",
+            "id": "3e3c416db5fcefe4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141226.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241203141226"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -79,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Certificates",
+                "query": "tag:#Terrorism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +98,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,15 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a0017b60da798c",
+  "active": "a3bc396f156ebf0c",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141238.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141226.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Strategic Decision Making Simulation Case.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141318.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Strategy Simulation.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Strategy Simulation.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141226.png",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141238.png",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141318.png",
     "Notes.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6",
     "Bingo Cards/2024 Bingo Card.md",
