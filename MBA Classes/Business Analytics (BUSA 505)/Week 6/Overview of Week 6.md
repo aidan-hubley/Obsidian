@@ -4,6 +4,7 @@
 - [[Naked Statistics]] (Ch 10) 
 - [[Analytics at Work]] (Ch 6, 8)
 - [Analyzing Qualitative Data](http://learningstore.uwex.edu/assets/pdfs/g3658-12.pdf)
+- [[Data Scientist Expectation vs. Reality]]
 ## Assignments:
 - Discussion Module 6: [[Strategy Simulation]]
 	- [[Strategic Decision Making Simulation Case]]

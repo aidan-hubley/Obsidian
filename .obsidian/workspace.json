@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -205,8 +206,9 @@
   },
   "active": "77a2c4bb1cb8f3d7",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Strategic Decision Making Simulation Case.md",
+    "Data Scientist Expectation vs. Reality.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Strategic Decision Making Simulation Case.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Strategy Simulation.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141226.png",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141238.png",
