@@ -5,7 +5,7 @@
 - [[Analytics at Work]] (Ch 6, 8)
 - Analyzing Qualitative Data
 ## Assignments:
-- Discussion Module 6: Strategy Simulation
+- Discussion Module 6: [[Strategy Simulation]]
 - Assignment: Analyst & Culture Assessment
 - Data Analysis Exercise: Qualitative Data
 
