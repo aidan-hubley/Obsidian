@@ -3,7 +3,7 @@
 - [[HBR Guide to Data Analytics]] (Ch 20, 21, 22)
 - [[Naked Statistics]] (Ch 10) 
 - [[Analytics at Work]] (Ch 6, 8)
-- Analyzing Qualitative Data
+- [Analyzing Qualitative Data](http://learningstore.uwex.edu/assets/pdfs/g3658-12.pdf)
 ## Assignments:
 - Discussion Module 6: [[Strategy Simulation]]
 	- [[Strategic Decision Making Simulation Case]]
