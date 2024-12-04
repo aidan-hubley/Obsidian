@@ -17,11 +17,11 @@
 - 50.5 Million units
 - $8.00 per 100 loads
 - Removed Club and equally spread Convenience, Grocery, and Mass (33.3% each)
-- Removed Radio, Print (5.6%), TV (47.2%), Digital Ads (47.2%)
+- Removed Radio and Print, TV (25%), Digital Ads (75%)
 - Focusing on:
 	- Under $20,000 - $59,999
 	- All Ethnicities
-	- All Regions
+	- Southeast, Central, West
 	- Under 35 - 44
 - Executive Summary:
-	- Shift advertising and focus towards younger demographics, smaller households, and newer advertising approaches.
+	- Updated marketing, focusing on specific regions.
