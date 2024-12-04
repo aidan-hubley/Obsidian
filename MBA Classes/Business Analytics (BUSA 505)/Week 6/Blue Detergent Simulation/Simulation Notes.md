@@ -28,7 +28,7 @@
 
 ##### 3rd Decision:
 - 40 Million units
-- $7.00 per 100 loads
+- $6.99 per 100 loads
 - Removed Club and equally spread Convenience, Grocery, and Mass (33.3% each)
 - Removed Radio and Print, TV (10%), Digital Ads (90%)
 - Focusing on:
@@ -38,3 +38,15 @@
 	- Under 35 - 44
 - Executive Summary:
 	- Updated marketing, focusing on specific regions.
+
+##### 4th Decision:
+- 40 Million units
+- $7.00 per 100 loads
+- Removed Club and equally spread Convenience, Grocery, and Mass (33.3% each)
+- Removed Radio and Print, TV (10%), Digital Ads (90%)
+- Focusing on:
+	- Under $20,000 - $59,999
+	- Asian, Black, and Hispanic
+	- All Regions
+- Executive Summary:
+	- Focusing on specific ethnicities and all regions.
