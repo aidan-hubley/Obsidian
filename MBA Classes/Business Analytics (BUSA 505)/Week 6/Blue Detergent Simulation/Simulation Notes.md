@@ -25,3 +25,16 @@
 	- Under 35 - 44
 - Executive Summary:
 	- Updated marketing, focusing on specific regions.
+
+##### 3rd Decision:
+- 40 Million units
+- $7.00 per 100 loads
+- Removed Club and equally spread Convenience, Grocery, and Mass (33.3% each)
+- Removed Radio and Print, TV (10%), Digital Ads (90%)
+- Focusing on:
+	- Under $20,000 - $59,999
+	- All Ethnicities
+	- Southeast, Central, West
+	- Under 35 - 44
+- Executive Summary:
+	- Updated marketing, focusing on specific regions.
