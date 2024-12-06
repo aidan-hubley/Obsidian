@@ -1,3 +1,4 @@
+[[Simulation Notes]] [[Strategy Simulation]]
 #### Data-Driven Management of Blue Detergent
 Kelsey-White (K-W), an American multinational consumer goods company, manufactured and sold a variety of consumer packaged goods (CPG) around the world—generally through brick-and-mortar retailers. In the United States, laundry detergent was a key product for K-W in the form of Blue, its primary brand. Blue came in several formulations—liquid, powder, and single-use pods (see Exhibit 1)— and had been a staple of the laundry marketplace for several decades. Pod sales had been slow compared to other competitors, and long-term Blue customers sometimes even felt that liquid was too modern for their tastes. As the average age of its customers rose, Blue’s market share drifted downwards over the past several years. The product was still a profitable one for K-W, however (see Exhibit 2), as the market as a whole had enjoyed steady growth. 
 
