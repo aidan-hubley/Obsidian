@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2b0a68742cc4ad3e",
+        "id": "412bbb86ee5b4a93",
         "type": "tabs",
         "children": [
           {
-            "id": "f264a6f249464fd2",
+            "id": "3b537012fc65d661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "google.com.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "google.com"
-            }
-          },
-          {
-            "id": "ceba7d69fd36b4d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -175,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,19 +176,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ceba7d69fd36b4d3",
+  "active": "3b537012fc65d661",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "google.com.md",
-    "BA Classes/DB Concepts/Book/Chapter 3 How to Retrieve Data from a Single Table/1. An Introduction to the SELECT Statement.md",
+    "12-04 Members 1st Bank Called.md",
     "Notes.md",
+    "Data Scientist Expectation vs. Reality.md",
     "2024-12-06.md",
+    "google.com.md",
+    "conflict-files-obsidian-git.md",
+    "BA Classes/DB Concepts/Book/Chapter 3 How to Retrieve Data from a Single Table/1. An Introduction to the SELECT Statement.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Simulation Notes.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Strategy Simulation.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Strategic Decision Making Simulation Case.md",
-    "12-04 Members 1st Bank Called.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
-    "Data Scientist Expectation vs. Reality.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141226.png",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141238.png",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation",
