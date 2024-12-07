@@ -22,4 +22,3 @@ Based on your interviews determine the strengths and weaknesses of your organiza
 Your submission must include your interview notes (interviewee names are not required, but position is) and your final analysis/insights. There are no page limit requirements. Your submission should follow APA guidelines.
 
  ---
- 

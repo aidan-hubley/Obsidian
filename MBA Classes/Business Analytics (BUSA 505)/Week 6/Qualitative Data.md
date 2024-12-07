@@ -216,9 +216,9 @@ you describe the organizational culture of your plant?
 ## Analysis
 ### Differences in Performance
 **Coal Plants:**
-- **Short-term focus:** Prioritize immediate goals like meeting schedules and budgets.
-- **Cost-driven:** Strong emphasis on minimizing costs, often at the expense of long-term investments.
-- **Subjective evaluation:** Performance is often assessed subjectively, based on visual observations and anecdotal evidence.
+- **Short-term focus:** Prioritize immediate goals, meeting schedules, budgets, etc.
+- **Cost-driven:** Emphasized minimizing costs at the expense of long-term investments.
+- **Subjective evaluation:** Subjectively assessed, based on visual observations / anecdotal evidence.
 - **Lack of standardization:** Inconsistent performance metrics and evaluation criteria across different plants.
 
 **Nuclear Plants:**
@@ -229,8 +229,8 @@ you describe the organizational culture of your plant?
 
 ### Differences in Culture
 **Coal Plants:**
-- **Reactive culture:** Often respond to problems rather than proactively preventing them.
-- **Weak safety culture:** Safety is often seen as a compliance issue rather than a core value.
+- **Reactive culture:** Respond to problems rather than proactively preventing them.
+- **Weak safety culture:** Safety described as a compliance issue rather than a core value.
 - **Short-term thinking:** A focus on immediate results can lead to shortcuts and compromises on safety.
 - **Lack of accountability:** A culture of blame and finger-pointing can hinder learning and improvement.
 
