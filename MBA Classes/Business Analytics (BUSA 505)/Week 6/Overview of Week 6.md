@@ -12,6 +12,7 @@
 	- [[Simulation Notes]]
 - Assignment: [[Analyst & Culture Assessment]]
 - Data Analysis Exercise: [[Qualitative Data]]
+- [[Quiz 6]]
 
 ## Final Project
 - [Business Analytics Project](https://messiah.instructure.com/courses/2025725/assignments/19199284?module_item_id=40967004)
