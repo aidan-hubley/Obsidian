@@ -22,3 +22,20 @@ Based on your interviews determine the strengths and weaknesses of your organiza
 Your submission must include your interview notes (interviewee names are not required, but position is) and your final analysis/insights. There are no page limit requirements. Your submission should follow APA guidelines.
 
  ---
+
+Interviewed: Director of Information Security, Associate VP of Information Technology
+
+1. Describe the current state of business data analytics (using data to make better decisions) in the organization. Has a vision or future state been envisioned/developed? If so, can you describe it?
+	1. 
+2. Are organizational leaders brought into data analytics to help drive better decision-making in the organization? What actions have you observed them put into practice to achieve the desired vision/future state of data analytics?
+	1. 
+3. What structures, systems, and/or tools have been put in place to help the organization become more analytical with its data? What investments are being made?
+	1. 
+4. How does the organization reinforce the use of data analytics in decision-making?
+	1. 
+5. How has the value of data analytics been communicated to the organization?
+	1. 
+6. Is there an executive champion for data analytics in the organization? If yes, describe their role.
+	1. 
+7. What do you see as the biggest hurdle in becoming a more analytical, data-driven organization?
+	1. 
