@@ -10,8 +10,8 @@
 	- [[Strategy Simulation]]
 	- [[Strategic Decision Making Simulation Case]]
 	- [[Simulation Notes]]
-- Assignment: Analyst & Culture Assessment
-- Data Analysis Exercise: Qualitative Data
+- Assignment: [[Analyst & Culture Assessment]]
+- Data Analysis Exercise: [[Qualitative Data]]
 
 ## Final Project
 - [Business Analytics Project](https://messiah.instructure.com/courses/2025725/assignments/19199284?module_item_id=40967004)
