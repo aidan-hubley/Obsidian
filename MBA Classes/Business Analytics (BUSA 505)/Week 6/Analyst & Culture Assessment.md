@@ -45,9 +45,7 @@ Your submission must include your interview notes (interviewee names are not req
 	1. Allen Snook - Data Storage, and compliance with all the regulations we have to adhere to.
 	2. Laura - The biggest hurdles are having the personnel to maintain the analytics we have as well as develop new analytics given our switch to a new system (Oracle Fusion Cloud) as our data will be split among various systems over the next few years which will lead to analysis taking more time and may lead to additional data clean-up as we need to have accurate comparisons across systems. There’s always the concern of data loss with a new system. And, with decision making at the highest level, we have a lot of changes in the highest level occurring (President’s Cabinet and President) which has the potential to impact the analytical nature of our organization.
 ---
-Evaluate the current state of data analysts in your organization:
-[[Davenport's Proficiency Levels]]
-![[Pasted image 20241207212728.png]]
+The current state of data analysis within Messiah University, based on [[Davenport's Proficiency Levels]], fall into the Semi-professional category. There is a recognition of the value of data-driven decision-making, and some efforts are being made to implement data analytics tools and processes. However, there are still significant opportunities for improvement in terms of data literacy, data culture, and the use of advanced analytics techniques.
 
 ---
 1. Do we have dedicated data analysts (100% of their time or is analysis one of many functions of their job)? Types of analysts (e.g., primarily financial)?
