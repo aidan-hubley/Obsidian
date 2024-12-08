@@ -5,7 +5,7 @@
 3. In HBR Guide to Data Analytics Basics for Managers Chapter 22, what is important to remember about how decisions are made?
 	1. 
 4. In Analytics at Work Chapter 6, what type of analyst is usually involved in setting long-term goals, specifying strategies, and estimating resources?
-	1. 
+	1. Analytical professionals
 5. In Analytics at Work Chapter 6, in which of the 4 analytical skills requires a familiarity with business processes to which analytics are applied?
 	1. 
 6. In Analytics at Work Chapter 6, which of the following is the option for organizing analytical talent where analysts reside in business units but report to the central consulting organization?
