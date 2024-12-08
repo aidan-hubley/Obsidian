@@ -29,9 +29,9 @@
 15. In the article Analyzing Qualitative Data, which of the steps involves the recommendation to assign abbreviated codes to qualitative data?
 	1. Categorize information
 16. In the article Analyzing Qualitative Data, what is NOT mentioned as a way to enhance the qualitative analysis process?
-	1. 
+	1. Use a recognized statistical program or tool
 17. In the article Analyzing Qualitative Data, which pitfall discussed requires showing sufficient concern for confidentiality and anonymity?
-	1. 
+	1. Choose quotes carefully
 18. In the video Data Science: Reality vs. Expectations, according to the interviewee, what is true about becoming a data scientist?
 	1. You don't need a PhD in order to be successful as a data scientist
 19. In the Video Data Science: Reality vs Expectations, which of these roles deals mainly with building the structure to analyze the data?
