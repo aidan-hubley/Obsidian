@@ -9,7 +9,7 @@
 5. In Analytics at Work Chapter 6, in which of the 4 analytical skills requires a familiarity with business processes to which analytics are applied?
 	1. Business knowledge and design
 6. In Analytics at Work Chapter 6, which of the following is the option for organizing analytical talent where analysts reside in business units but report to the central consulting organization?
-	1. 
+	1. Centralized
 7. In Analytics at Work Chapter 6, encouraging the sharing of knowledge and skills through networking among analysts of all levels is best represented by which movement of analytical maturity?
 	1. 
 8. In Analytics at Work Chapter 8, which items below are traits and behaviors of an analytical culture?
