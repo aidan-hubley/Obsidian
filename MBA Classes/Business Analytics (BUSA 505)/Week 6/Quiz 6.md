@@ -13,7 +13,7 @@
 7. In Analytics at Work Chapter 6, encouraging the sharing of knowledge and skills through networking among analysts of all levels is best represented by which movement of analytical maturity?
 	1. From Stage 2 to Stage 3
 8. In Analytics at Work Chapter 8, which items below are traits and behaviors of an analytical culture?
-	1. 
+	1. Identify patterns and get to root causes, value negative and positive results, pragmatism in trade-offs in decision making
 9. In Analytics at Work Chapter 8, what does "obligation to dissent" refer to?
 	1. 
 10. In Analytics at Work Chapter 8, which topic represents the need to ensure information flows freely throughout an organization?
