@@ -19,7 +19,7 @@
 10. In Analytics at Work Chapter 8, which topic represents the need to ensure information flows freely throughout an organization?
 	1. Transparency
 11. In Naked Statistics Chapter 10, what does a poll +/- 3% margin of error mean?
-	1. 
+	1. Our confidence level that, if we conducted 100 different polls on samples drawn from the same population, we would expect the answers we get from our sample in 95 of those polls to be within 3 percentage points in one direction or another of the populations' true sentiment
 12. In Naked Statistics Chapter 10, what is true about larger sample/polling sizes?
 	1. 
 13. In Naked Statistics Chapter 10, what is NOT a methodological question that should be considered when polling?
