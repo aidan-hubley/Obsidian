@@ -37,4 +37,4 @@
 19. In the Video Data Science: Reality vs Expectations, which of these roles deals mainly with building the structure to analyze the data?
 	1. 
 20. In the video Data Science: Reality vs. Expectations, what does the interviewee indicate is the most important goal of being a data scientist?
-	1. 
+	1. Adding value to a company
