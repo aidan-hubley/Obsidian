@@ -25,7 +25,7 @@
 13. In Naked Statistics Chapter 10, what is NOT a methodological question that should be considered when polling?
 	1. 
 14. In the article Analyzing Qualitative Data, what of the following lists are included as examples of types of qualitative data that can be analyzed?
-	1. 
+	1. Testimonials, interviews, observations
 15. In the article Analyzing Qualitative Data, which of the steps involves the recommendation to assign abbreviated codes to qualitative data?
 	1. 
 16. In the article Analyzing Qualitative Data, what is NOT mentioned as a way to enhance the qualitative analysis process?
