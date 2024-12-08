@@ -33,7 +33,7 @@
 17. In the article Analyzing Qualitative Data, which pitfall discussed requires showing sufficient concern for confidentiality and anonymity?
 	1. 
 18. In the video Data Science: Reality vs. Expectations, according to the interviewee, what is true about becoming a data scientist?
-	1. 
+	1. You don't need a PhD in order to be successful as a data scientist
 19. In the Video Data Science: Reality vs Expectations, which of these roles deals mainly with building the structure to analyze the data?
 	1. Data engineers
 20. In the video Data Science: Reality vs. Expectations, what does the interviewee indicate is the most important goal of being a data scientist?
