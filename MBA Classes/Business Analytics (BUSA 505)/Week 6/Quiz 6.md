@@ -15,9 +15,9 @@
 8. In Analytics at Work Chapter 8, which items below are traits and behaviors of an analytical culture?
 	1. Identify patterns and get to root causes, value negative and positive results, pragmatism in trade-offs in decision making
 9. In Analytics at Work Chapter 8, what does "obligation to dissent" refer to?
-	1. 
+	1. Creating a culture that values vigorous exchange of different views and ideas to come to the best decision
 10. In Analytics at Work Chapter 8, which topic represents the need to ensure information flows freely throughout an organization?
-	1. 
+	1. Transparency
 11. In Naked Statistics Chapter 10, what does a poll +/- 3% margin of error mean?
 	1. 
 12. In Naked Statistics Chapter 10, what is true about larger sample/polling sizes?
