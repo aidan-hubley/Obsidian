@@ -27,7 +27,7 @@
 14. In the article Analyzing Qualitative Data, what of the following lists are included as examples of types of qualitative data that can be analyzed?
 	1. Testimonials, interviews, observations
 15. In the article Analyzing Qualitative Data, which of the steps involves the recommendation to assign abbreviated codes to qualitative data?
-	1. 
+	1. Categorize information
 16. In the article Analyzing Qualitative Data, what is NOT mentioned as a way to enhance the qualitative analysis process?
 	1. 
 17. In the article Analyzing Qualitative Data, which pitfall discussed requires showing sufficient concern for confidentiality and anonymity?
