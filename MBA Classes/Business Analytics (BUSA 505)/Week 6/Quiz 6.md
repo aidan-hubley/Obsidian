@@ -23,7 +23,7 @@
 12. In Naked Statistics Chapter 10, what is true about larger sample/polling sizes?
 	1. The higher the sample size, the lower the standard error
 13. In Naked Statistics Chapter 10, what is NOT a methodological question that should be considered when polling?
-	1. 
+	1. Are respondents familiar with statistical methodologies?
 14. In the article Analyzing Qualitative Data, what of the following lists are included as examples of types of qualitative data that can be analyzed?
 	1. Testimonials, interviews, observations
 15. In the article Analyzing Qualitative Data, which of the steps involves the recommendation to assign abbreviated codes to qualitative data?
