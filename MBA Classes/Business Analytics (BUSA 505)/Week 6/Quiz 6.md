@@ -7,7 +7,7 @@
 4. In Analytics at Work Chapter 6, what type of analyst is usually involved in setting long-term goals, specifying strategies, and estimating resources?
 	1. Analytical professionals
 5. In Analytics at Work Chapter 6, in which of the 4 analytical skills requires a familiarity with business processes to which analytics are applied?
-	1. 
+	1. Business knowledge and design
 6. In Analytics at Work Chapter 6, which of the following is the option for organizing analytical talent where analysts reside in business units but report to the central consulting organization?
 	1. 
 7. In Analytics at Work Chapter 6, encouraging the sharing of knowledge and skills through networking among analysts of all levels is best represented by which movement of analytical maturity?
