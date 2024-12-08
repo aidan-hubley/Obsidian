@@ -10,7 +10,7 @@
 	- [[Strategy Simulation]]
 	- [[Strategic Decision Making Simulation Case]]
 	- [[Simulation Notes]]
-- Assignment: [[Analyst & Culture Assessment]]
+- Assignment: [[Analyst & Culture Assessment - Messiah University]]
 - Data Analysis Exercise: [[Qualitative Data]]
 - [[Quiz 6]]
 
