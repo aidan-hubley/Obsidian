@@ -1,15 +1,17 @@
 1. In HBR Guide to Data Analytics Basics for Managers Chapter 20, what is a recommended way to visually communicate statistical uncertainty?
-	1. Avoid color saturation or gradients + Using dotted lines beyond the upper and lower ranges to show outliers
+	1. WRONG: Avoid color saturation or gradients + Using dotted lines beyond the upper and lower ranges to show outliers
+	2. RIGHT: 
 2. In HBR Guide to Data Analytics Basics for Managers Chapter 21, what was true about discrimination at the company that was consulted?
 	1. Men and women were equally likely to be promoted
 3. In HBR Guide to Data Analytics Basics for Managers Chapter 22, what is important to remember about how decisions are made?
-	1. 
+	1. Decisions are made in the unconscious mind where emotions rule
 4. In Analytics at Work Chapter 6, what type of analyst is usually involved in setting long-term goals, specifying strategies, and estimating resources?
 	1. Analytical professionals
 5. In Analytics at Work Chapter 6, in which of the 4 analytical skills requires a familiarity with business processes to which analytics are applied?
 	1. Business knowledge and design
 6. In Analytics at Work Chapter 6, which of the following is the option for organizing analytical talent where analysts reside in business units but report to the central consulting organization?
-	1. Centralized
+	1. WRONG: Centralized
+	2. RIGHT:
 7. In Analytics at Work Chapter 6, encouraging the sharing of knowledge and skills through networking among analysts of all levels is best represented by which movement of analytical maturity?
 	1. From Stage 2 to Stage 3
 8. In Analytics at Work Chapter 8, which items below are traits and behaviors of an analytical culture?
