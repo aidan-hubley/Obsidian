@@ -1,7 +1,7 @@
 1. In HBR Guide to Data Analytics Basics for Managers Chapter 20, what is a recommended way to visually communicate statistical uncertainty?
-	1. 
+	1. Avoid color saturation or gradients + Using dotted lines beyond the upper and lower ranges to show outliers
 2. In HBR Guide to Data Analytics Basics for Managers Chapter 21, what was true about discrimination at the company that was consulted?
-	1. 
+	1. Men and women were equally likely to be promoted
 3. In HBR Guide to Data Analytics Basics for Managers Chapter 22, what is important to remember about how decisions are made?
 	1. 
 4. In Analytics at Work Chapter 6, what type of analyst is usually involved in setting long-term goals, specifying strategies, and estimating resources?
