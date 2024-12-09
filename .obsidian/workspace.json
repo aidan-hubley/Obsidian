@@ -35,7 +35,8 @@
               "title": "Regression Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5004348754883
+    "width": 266.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md",
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 7/Regression Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Case Study - Beyond Meat"
+              "title": "Outgoing links from Regression Overview"
             }
           },
           {
@@ -153,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Case Study - Beyond Meat.md"
+                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 7/Regression Overview.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Case Study - Beyond Meat"
+              "title": "Outline of Regression Overview"
             }
           },
           {
@@ -174,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,11 +190,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6c19ed6c50a9d84c",
+  "active": "a44ce39c2cf875c4",
   "lastOpenFiles": [
+    "MBA Classes/Business Analytics (BUSA 505)/Week 7/Overview of Week 7.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Business Analytics Project.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 7/Regression Overview.md",
     "conflict-files-obsidian-git.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 7/Overview of Week 7.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 7",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Discussion Module 6.md",
@@ -229,7 +232,6 @@
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/SOC Internship Hiring Analytics Process Model.canvas",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
     "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/5 generic competitive strategies.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
     "BA Classes/Data Comm + Net/5. Ethernet/images/Pasted image 20221104182315.png",
     "BA Classes/Database Security/Web Dev/images/Pasted image 20230207104824.png",
     "BA Classes/DB Concepts/Book/Chapter 4 How to Retrieve Data from Two or More Table/images/Pasted image 20220912233525.png",
