@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b5ed9b170d21a125",
+        "id": "412bbb86ee5b4a93",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d3c1c4b29da628",
+            "id": "3b537012fc65d661",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview of Week 6"
-            }
-          },
-          {
-            "id": "884ad35b7cbf439e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 6/Discussion Module 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Discussion Module 6"
-            }
-          },
-          {
-            "id": "1c0e0e3fa5991ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Simulation Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simulation Notes"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5004348754883,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -190,71 +156,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
+    "width": 369.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c0e0e3fa5991ea3",
+  "active": "3b537012fc65d661",
   "lastOpenFiles": [
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Discussion Module 6.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Quiz 6.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Qualitative Data.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Pasted image 20241207212728.png",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Discussion Module 6.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Davenport's Proficiency Levels.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Analyst & Culture Assessment - Messiah University.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Pasted image 20241207212728.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Pasted image 20241207212709.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Qualitative Data.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
-    "conflict-files-obsidian-git.md",
+    "Work/SOC Hub/Excalidraw/dev_workflow_v1.excalidraw.md",
+    "Work/SOC Hub/Excalidraw/accounts_dataflow.excalidraw.md",
+    "Notes.md",
     "12-04 Members 1st Bank Called.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Simulation Notes.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Strategic Decision Making Simulation Case.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Strategy Simulation.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141318.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141238.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141226.png",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation",
     "Data Scientist Expectation vs. Reality.md",
-    "2024-12-04.md",
+    "2024-12-06.md",
+    "google.com.md",
+    "conflict-files-obsidian-git.md",
+    "BA Classes/DB Concepts/Book/Chapter 3 How to Retrieve Data from a Single Table/1. An Introduction to the SELECT Statement.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Simulation Notes.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Strategy Simulation.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Strategic Decision Making Simulation Case.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Overview of Week 6.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141226.png",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141238.png",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141318.png",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6",
-    "Bingo Cards/Instructions/Bingo Card Instructions.canvas",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Quiz 4.md",
-    "Bingo Cards/Instructions/Key.md",
-    "Bingo Cards/Instructions/Finished Template.md",
-    "Bingo Cards/Instructions/Categories Example.md",
-    "Bingo Cards/Instructions/Template.md",
     "Bingo Cards/2024 Bingo Card.md",
+    "Bingo Cards/Instructions/Bingo Card Instructions.canvas",
+    "Bingo Cards/Instructions/Categories Example.md",
+    "Bingo Cards/Instructions/Finished Template.md",
+    "Bingo Cards/Instructions/Key.md",
+    "Bingo Cards/Instructions/Template.md",
     "Bingo Cards/Instructions",
     "Bingo Cards",
-    "New Text Document.txt",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Where Does the Data Reside.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 5/Discussion 5.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Where Does the Data Reside.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/SOC Internship Hiring Analytics Process Model.canvas",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Create an Analytics Process Model.canvas",
-    "MBA Classes/Business Strategy & Execution (BUSA 501 E1)/Week 5/5 generic competitive strategies.md",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 4/Overview of Week 4.md",
-    "Game Dev/Rune Rogue/Pitch.md",
-    "BA Classes/Data Comm + Net/5. Ethernet/images/Pasted image 20221104182315.png",
-    "BA Classes/Database Security/Web Dev/images/Pasted image 20230207104824.png",
-    "BA Classes/DB Concepts/Book/Chapter 4 How to Retrieve Data from Two or More Table/images/Pasted image 20220912233525.png",
-    "BA Classes/Data Comm + Net/7. Switching and Routing/images/Pasted image 20221127130733.png",
-    "BA Classes/Ancient Rome/Blue Stars/images/Pasted image 20230221183050.png",
     "Game Dev/Rune Rogue/Details.canvas",
-    "BA Classes",
-    "BA Classes/Short Story",
-    "BA Classes/Mobile App Design",
-    "BA Classes/Discrete Math",
-    "BA Classes/Bible Test Questions"
+    "PC Build",
+    "Work/Res Life/ReApp 2",
+    "Work/Res Life/23' Fall",
+    "Work/SOC Hub/Excalidraw",
+    "Work/Resume",
+    "Work/Res Life",
+    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230131084810.jpg",
+    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124090620.png",
+    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085950.png",
+    "BA Classes/Sys Analysis & Design/Class/images/Pasted image 20230124085240.png",
+    "BA Classes/Network Security/Class/images/Pasted image 20230417133507.jpg",
+    "BA Classes/Network Security/Class/images/Pasted image 20230320130216.png",
+    "Game Dev/Rune Rogue/Untitled.canvas"
   ]
 }
