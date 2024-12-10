@@ -11,10 +11,14 @@
             "id": "f234e73c08c36978",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Boys/2024-12-10 Boys+ Availability Holiday Celebration.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-12-10 Boys+ Availability Holiday Celebration"
             }
           }
         ]
@@ -29,20 +33,7 @@
       {
         "id": "1a90ea2f0228babe",
         "type": "tabs",
-        "dimension": 43.64406779661017,
         "children": [
-          {
-            "id": "d7a0017b60da798c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "a3bc396f156ebf0c",
             "type": "leaf",
@@ -71,40 +62,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7e8e87f1fd99b052",
-        "type": "tabs",
-        "dimension": 26.69491525423729,
-        "children": [
-          {
-            "id": "3b537012fc65d661",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a23b27ce60da13c0",
-        "type": "tabs",
-        "dimension": 29.66101694915254,
-        "children": [
-          {
-            "id": "6c12f75645183b04",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -117,6 +74,7 @@
       {
         "id": "a52556baefe60dd6",
         "type": "tabs",
+        "dimension": 49.83660130718954,
         "children": [
           {
             "id": "b84d825fc9b5b0c1",
@@ -185,14 +143,59 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d7a0017b60da798c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "3e1762228ba2248f",
+        "type": "tabs",
+        "dimension": 21.73202614379085,
+        "children": [
+          {
+            "id": "3b537012fc65d661",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "25fb9385a84a141e",
+        "type": "tabs",
+        "dimension": 28.431372549019606,
+        "children": [
+          {
+            "id": "6c12f75645183b04",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +211,15 @@
   },
   "active": "f234e73c08c36978",
   "lastOpenFiles": [
+    "Boys",
     "BA Classes/DB Concepts/Class/Unit 4/6. Object-Oriented Data Modeling.md",
-    "Bingo Cards/Instructions/Bingo Card Instructions.canvas",
-    "Bingo Cards/Instructions/Template.md",
-    "Bingo Cards/Instructions/Key.md",
-    "Bingo Cards/Instructions/Finished Template.md",
-    "Bingo Cards/Instructions/Categories Example.md",
-    "Bingo Cards/2024 Bingo Card.md",
-    "2024-12-10 Boys+ Availability Holiday Celebration.md",
+    "Boys/Bingo Cards/Instructions/Bingo Card Instructions.canvas",
+    "Boys/Bingo Cards/Instructions/Template.md",
+    "Boys/Bingo Cards/Instructions/Key.md",
+    "Boys/Bingo Cards/Instructions/Finished Template.md",
+    "Boys/Bingo Cards/Instructions/Categories Example.md",
+    "Boys/Bingo Cards/2024 Bingo Card.md",
+    "Boys/2024-12-10 Boys+ Availability Holiday Celebration.md",
     "conflict-files-obsidian-git.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 8/Discussion 8 - Using Data Analytics to Impact the World for Good.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 8/Discussion 8 - Analysis Tools.md",
@@ -237,14 +241,13 @@
     "Data Scientist Expectation vs. Reality.md",
     "2024-12-06.md",
     "google.com.md",
-    "BA Classes/DB Concepts/Book/Chapter 3 How to Retrieve Data from a Single Table/1. An Introduction to the SELECT Statement.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141226.png",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141238.png",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Pasted image 20241203141318.png",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6",
-    "Bingo Cards/Instructions",
-    "Bingo Cards",
+    "Boys/Bingo Cards/Instructions",
+    "Boys/Bingo Cards",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/SOC Internship Hiring Analytics Process Model.canvas",
     "Game Dev/Rune Rogue/Details.canvas",
     "PC Build",
