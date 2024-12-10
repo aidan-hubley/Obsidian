@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/sacil259#1G4uIBo3blVCp2OJvcbuN1Q8pNXziwmEd6NnnoTxsuM
-share_updated: 2024-12-10T15:01:09-05:00
+share_updated: 2024-12-10T15:43:41-05:00
 tags:
   - Boys
   - BoysPlus
@@ -21,7 +21,7 @@ tags:
 | Cole     |      |      |      |      |       | 🟩   |       |       |      |      |         |       |      |       |      |      |      |
 | Courtney |      |      |      |      |       |      |       |       |      |      |         |       |      |       |      |      |      |
 | Emma     |      |      |      |      |       |      |       |       |      |      |         |       |      |       |      |      |      |
-| Josh     |      |      |      |      |       |      |       |       |      |      |         |       |      |       |      |      |      |
+| Josh     | 🟨   | 🟨   | 🟨   | 🟨   | 🟨    | 🟨   | 🟨    | 🟨    | 🟥   | 🟥   | 🟥      | 🟨    | 🟨   | 🟥    | 🟨   | 🟨   | 🟨   |
 | Megan    |      |      |      |      |       | 🟩   |       |       |      |      |         |       |      |       |      |      |      |
 | Nason    |      |      |      |      |       |      |       |       |      |      |         |       |      |       |      |      |      |
 | Si       | 🌚   |      | 🌞   |      | 🌚    | 🌚   | 🟥    | 🟥    | 🌚   | 🌚   |         | 🟥    | 🟨   | 🌚    | 🌚   | 🟩   | 🟥   |
