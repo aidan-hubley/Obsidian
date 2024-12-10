@@ -38,4 +38,5 @@
 	- ElasticNet
 	- and More
 
-- Multiple R 
+- Multiple R is the correlation coefficient, which determines the strength of the linear relationship
+	- 
