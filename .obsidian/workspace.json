@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "044fe3a9b69f8ede",
+        "id": "67342e0d2a8060ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1d8f96e967a50c8f",
+            "id": "f234e73c08c36978",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -206,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d8f96e967a50c8f",
+  "active": "f234e73c08c36978",
   "lastOpenFiles": [
+    "BA Classes/DB Concepts/Class/Unit 4/6. Object-Oriented Data Modeling.md",
     "Bingo Cards/Instructions/Bingo Card Instructions.canvas",
     "Bingo Cards/Instructions/Template.md",
     "Bingo Cards/Instructions/Key.md",
