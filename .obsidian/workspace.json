@@ -33,7 +33,7 @@
       {
         "id": "1a90ea2f0228babe",
         "type": "tabs",
-        "dimension": 43.70522006141249,
+        "dimension": 43.64406779661017,
         "children": [
           {
             "id": "d7a0017b60da798c",
@@ -79,7 +79,7 @@
       {
         "id": "7e8e87f1fd99b052",
         "type": "tabs",
-        "dimension": 26.919140225179124,
+        "dimension": 26.69491525423729,
         "children": [
           {
             "id": "3b537012fc65d661",
@@ -96,7 +96,7 @@
       {
         "id": "a23b27ce60da13c0",
         "type": "tabs",
-        "dimension": 29.37563971340839,
+        "dimension": 29.66101694915254,
         "children": [
           {
             "id": "6c12f75645183b04",
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 274.5
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d8f96e967a50c8f",
+  "active": "3b537012fc65d661",
   "lastOpenFiles": [
     "2024-12-10 Boys+ Availability Holiday Celebration.md",
     "conflict-files-obsidian-git.md",
