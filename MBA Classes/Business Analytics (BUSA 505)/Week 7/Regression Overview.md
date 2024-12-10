@@ -39,4 +39,5 @@
 	- and More
 
 - Multiple R is the correlation coefficient, which determines the strength of the linear relationship
-	- 
+	- 1 is strong, 0 is weak
+- 
