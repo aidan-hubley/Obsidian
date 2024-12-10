@@ -37,3 +37,5 @@
 	- LASSO
 	- ElasticNet
 	- and More
+
+- Multiple R 
