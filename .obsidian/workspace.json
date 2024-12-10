@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b537012fc65d661",
+  "active": "24599ed4c7e6920c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "MBA Classes/Business Analytics (BUSA 505)/Business Analytics Project.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 7/Regression Overview.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 7/Overview of Week 7.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 7",
@@ -189,7 +190,6 @@
     "Data Scientist Expectation vs. Reality.md",
     "2024-12-06.md",
     "google.com.md",
-    "conflict-files-obsidian-git.md",
     "BA Classes/DB Concepts/Book/Chapter 3 How to Retrieve Data from a Single Table/1. An Introduction to the SELECT Statement.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Blue Detergent Simulation/Simulation Notes.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 6/Strategy Simulation.md",
@@ -208,7 +208,6 @@
     "Bingo Cards/Instructions/Template.md",
     "Bingo Cards/Instructions",
     "Bingo Cards",
-    "MBA Classes/Business Analytics (BUSA 505)/Week 5/Quiz 5.md",
     "MBA Classes/Business Analytics (BUSA 505)/Week 4/SOC Internship Hiring Analytics Process Model.canvas",
     "Game Dev/Rune Rogue/Details.canvas",
     "PC Build",
