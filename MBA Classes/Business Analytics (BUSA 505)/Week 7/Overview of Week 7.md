@@ -18,3 +18,18 @@
 
 ## Final Project
 - [[Business Analytics Project]][Business Analytics Project](https://messiah.instructure.com/courses/2025725/assignments/19199284?module_item_id=40967004)
+
+
+## Notes on the rest of the class
+- Finish submissions / resubmissions as soon as possible
+- Final week is for the final project
+- Week 7's discussion is more variable / customized (me)
+	- Can be about the IT world 
+	- Pick what interests me
+	- Can respond about topics that don't pertain to your original post
+- Week 8:
+	- 2 discussion posts:
+		- [[Discussion 8 - Using Data Analytics to Impact the World for Good]]
+		- [[Discussion 8 - Analysis Tools]]
+	- Final: [[Business Analytics Project]]
+	- IDEA Evaluation
