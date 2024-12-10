@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-04.md",
+                "file": "Boys/Boys+ Availability Holiday Celebration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-04"
+              "title": "Boys+ Availability Holiday Celebration"
+            }
+          },
+          {
+            "id": "ec074c49f8c04646",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -196,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,12 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b537012fc65d661",
+  "active": "699661366265cea4",
   "lastOpenFiles": [
-    "2024-12-04.md",
     "2024-12-10.md",
-    "Finances",
+    "2024-12-04.md",
     "Finances/Members 1st Bank Called.md",
+    "Finances",
     "Boys/Boys+ Availability Holiday Celebration.md",
     "2014-12-04.md",
     "Work/Skill Survey Questions.md",
