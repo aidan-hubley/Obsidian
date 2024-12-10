@@ -2,13 +2,14 @@
 	"nodes":[
 		{"id":"422105c8d4b8c7c9","type":"group","x":-760,"y":-960,"width":1600,"height":1080,"label":"Instructions: Bingo Board Creation"},
 		{"id":"80d6e204d040ab2c","type":"file","file":"Bingo Cards/Instructions/Template.md","x":-729,"y":-590,"width":340,"height":260},
-		{"id":"3e343cdf8f568f50","x":80,"y":-890,"width":720,"height":380,"type":"file","file":"Bingo Cards/Instructions/Finished Template.md"},
-		{"id":"6792717ec68d037c","x":-300,"y":-700,"width":296,"height":180,"type":"text","text":"##### Difficulty Key\n<input type=\"checkbox\" style=\"  background: #0D6EFD;\"> Free Space\n<input type=\"checkbox\" style=\"  background: #198754;\"> Easy / Expected\n<input type=\"checkbox\" style=\"  background: #FFC107;\"> Requires Intentionality\n<input type=\"checkbox\" style=\"  background: #DC3545;\"> Challenging & Achievable "},
+		{"id":"3e343cdf8f568f50","type":"file","file":"Bingo Cards/Instructions/Finished Template.md","x":80,"y":-890,"width":720,"height":380},
+		{"id":"6792717ec68d037c","type":"text","text":"##### Difficulty Key\n<input type=\"checkbox\" style=\"  background: #0D6EFD;\"> Free Space\n<input type=\"checkbox\" style=\"  background: #198754;\"> Easy / Expected\n<input type=\"checkbox\" style=\"  background: #FFC107;\"> Requires Intentionality\n<input type=\"checkbox\" style=\"  background: #DC3545;\"> Challenging & Achievable ","x":-300,"y":-700,"width":296,"height":180},
 		{"id":"107498c4b6849bc1","type":"text","text":"##### Step 1:\n- Make your own layout!\n\t- OR \n- Create the template!\n","x":-699,"y":-910,"width":280,"height":160,"color":"4"},
 		{"id":"f6e0572f058a1ad5","type":"text","text":"##### Step 2:\n- Develop your categories\n- A provided example might help!","x":-700,"y":-160,"width":281,"height":160,"color":"4"},
 		{"id":"a92fd3938d483bff","type":"text","text":"##### Why use this template?\n- Created to allow for 8 categories\n- 3 levels difficulty per category\n- Equally spaced categories\n- Equally spaced difficulties","x":-322,"y":-920,"width":341,"height":180},
 		{"id":"b665161445cc49f5","type":"text","text":"##### Step 3:\n- Fill out your board!\n- Best practices:\n\t- Space categories evenly\n\t- Space difficulties evenly","x":-311,"y":-460,"width":320,"height":190,"color":"4"},
-		{"id":"42e83c29cb62670f","type":"file","file":"Bingo Cards/Instructions/Categories Example.md","x":120,"y":-330,"width":640,"height":380}
+		{"id":"42e83c29cb62670f","type":"file","file":"Bingo Cards/Instructions/Categories Example.md","x":120,"y":-330,"width":640,"height":380},
+		{"id":"b12ecea2b6293a7c","x":580,"y":-1040,"width":250,"height":60,"type":"text","text":"#Boys #BoysPlus"}
 	],
 	"edges":[
 		{"id":"6ac5e0caa989a502","fromNode":"107498c4b6849bc1","fromSide":"bottom","toNode":"80d6e204d040ab2c","toSide":"top","color":"4"},
