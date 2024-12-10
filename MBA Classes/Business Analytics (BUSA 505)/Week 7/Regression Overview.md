@@ -42,3 +42,6 @@
 	- 1 is strong, 0 is weak
 
 ## Examples:
+- 1 independent variable = simple linear regression
+- More than 1 independent variable = multiple linear regression
+- Simple linear regression = In Regression Statistics look at R Square
