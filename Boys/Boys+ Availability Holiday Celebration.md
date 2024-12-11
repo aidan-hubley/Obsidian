@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/sacil259#1G4uIBo3blVCp2OJvcbuN1Q8pNXziwmEd6NnnoTxsuM
-share_updated: 2024-12-10T22:29:50-05:00
+share_updated: 2024-12-10T22:33:39-05:00
 tags:
   - Boys
   - BoysPlus
@@ -24,7 +24,7 @@ tags:
 | Josh     | 🟨   | 🟨   | 🟨   | 🟨   | 🟨    | 🟨   | 🟨    | 🟨    | 🟥   | 🟥   | 🟥      | 🟨    | 🟨   | 🟥    | 🟨   | 🟨   | 🟨   |
 | Megan    |      |      |      |      |       | 🟩   |       |       |      |      |         |       |      |       |      |      |      |
 | Nason    | 🟨   | 🌞🟩 | 🌞🟩 | 🌞🟩 | 🌞🟩  | 🌞🟩 | 🟨    | 🟨    | 🌞🟩 | 🟥   | 🟥      | 🌞🟩  | 🟥   | 🟥    | 🟥   | 🌞🟩 | 🌞🟩 |
-| Si       | 🌚   |      | 🌞   |      | 🌚    | 🌚   | 🟥    | 🟥    | 🌚   | 🌚   |         | 🟥    | 🟨   | 🌚    | 🌚   | 🟩   | 🟥   |
+| Si       | 🌚   | 🟨   | 🌞   | 🟨   | 🌚    | 🌚   | 🟥    | 🟥    | 🌚   | 🌚   | 🟥      | 🟥    | 🟨   | 🌚    | 🌚   | 🟩   | 🟥   |
 ### January Availability
 
 |          | W 1 🎉 | Tr 2 | F 3  | Sa 4 | S 5 | M 6  | T 7  | W 8  | T 9  | F 10 | Sa 1 | Su 12 | M 13 | T 14 | W 15 |
