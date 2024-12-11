@@ -70,13 +70,25 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d7a0017b60da798c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "a14d8a5b2b946d44",
@@ -154,21 +166,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "d7a0017b60da798c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "3e1762228ba2248f",
@@ -206,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,11 +223,11 @@
   "active": "699661366265cea4",
   "lastOpenFiles": [
     "Boys/Bingo Cards/2025 Bingo Card.md",
+    "Boys/Boys+ Availability Holiday Celebration.md",
     "2024-12-10.md",
     "2024-12-04.md",
     "Finances/Members 1st Bank Called.md",
     "Finances",
-    "Boys/Boys+ Availability Holiday Celebration.md",
     "2014-12-04.md",
     "Work/Skill Survey Questions.md",
     "Work/Old/SOC Hub/Excalidraw/auth_access.excalidraw.md",
